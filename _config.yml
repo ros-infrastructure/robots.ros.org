@@ -1,6 +1,6 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
-baseurl: "robots.ros.org" # the subpath of your site, e.g. /blog
+baseurl: "/robots.ros.org" # the subpath of your site, e.g. /blog
 url: "https://tfoote.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
