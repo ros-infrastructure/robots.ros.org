@@ -12,5 +12,8 @@
         {% endif %}
         <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
         <p itemprop="description" class="subtitle">{{ page.description }}</p>
+        {% if page.image %}
+        <img src="{{ page.image }}" width="200"/>
+        {% endif %}
     </div>
 </header>
