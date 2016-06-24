@@ -19,6 +19,9 @@ layout: default
                     </a>
                     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                         <p class="description">{{ post.introduction }}</p>
+                        {% if post.icon == 'svg' %}
+                        <img src="{{ post.icon  }}" width="200"/>
+                        {% endif %}
                     </a>
                     <div class="tags">
                         {% for tag in post.tags %}
