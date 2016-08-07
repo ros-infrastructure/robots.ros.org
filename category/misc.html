@@ -11,10 +11,10 @@ main-class: 'misc'
             <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon"><span>{{post.main-class}}</span></span>
                     <div class="box-body">
-                        <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
+                        <!-- <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
                         <time datetime="{{ post.date | date_to_xmlschema }}">
                             {{ post.date | date: "%B %d, %Y" }}
-                        </time>
+                        </time> -->
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                             <h2 class="post-title" itemprop="name">
                                 {{ post.title }}
