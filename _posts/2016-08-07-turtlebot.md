@@ -3,7 +3,7 @@ layout: post
 title: "TurtleBot"
 date: 2016-08-07 01:53:39
 image: '/assets/img/'
-description:
+description: 'The TurtleBot'
 main-class: 'robot'
 color: '#60bf56'
 supported_rosdistros:
