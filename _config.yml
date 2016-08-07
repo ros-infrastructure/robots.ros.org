@@ -1,16 +1,17 @@
 # Site settings
-description: A blog about lorem ipsum dolor sit amet
+description: An index of ROS Robots
 baseurl: "/robots.ros.org" # the subpath of your site, e.g. /blog
+# url: "http://localhost:4000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 url: "https://tfoote.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
 user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+user_title: ROS Robots
+email: ros@osrfoundation.org
+twitter_username: rosorg
+github_username:  ros
+gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
 # Build settings
@@ -31,11 +32,11 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Robots
     url: /series
   - title: Tags
     url: /tags
-  - title: About Me
+  - title: About
     url: /about
 
 # exclude my node related stuff
