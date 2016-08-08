@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "erlecopter"
+title: "Erle-Copter"
 date: 2016-08-08 14:07:55
 image: '/assets/img/'
 description:
