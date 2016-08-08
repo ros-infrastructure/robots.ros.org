@@ -12,6 +12,8 @@ supported_rosdistros:
 - "hydro"
 - "indigo"
 tags:
+- "ground"
+- "indoor"
 - "mobile base"
 categories:
 website: http://www.turtlebot.com
