@@ -4,7 +4,7 @@ title: "TurtleBot"
 date: 2016-08-07 01:53:39
 image: '/assets/img/'
 description: 'The TurtleBot'
-main-class: 'robot'
+main-class: 'ground'
 color: '#60bf56'
 supported_rosdistros:
 - "cturtle"

@@ -4,7 +4,7 @@ title: "Welcome to Jekyll"
 date: 2016-05-08 20:34:26
 image: '/assets/img/'
 description: 'Put your description here.'
-main-class: 'jekyll'
+main-class: 'misc'
 color: '#B31917'
 tags:
 - jekyll
