@@ -6,10 +6,9 @@ image: '/assets/img/'
 description:
 main-class: 'aerial'
 color: '#ffff00'
-supported_rosdistros:
-- "indigo"
 tags:
 - 'aerial'
+- "indigo"
 - 'quadcopter'
 categories:
 - 'quadcopter'

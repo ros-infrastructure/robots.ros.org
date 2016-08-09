@@ -6,13 +6,12 @@ image: '/assets/img/'
 description: 'The TurtleBot'
 main-class: 'ground'
 color: '#60bf56'
-supported_rosdistros:
+tags:
 - "cturtle"
 - "fuerte"
 - "hydro"
-- "indigo"
-tags:
 - "ground"
+- "indigo"
 - "indoor"
 - "mobile base"
 categories:
