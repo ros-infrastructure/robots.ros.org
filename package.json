@@ -19,7 +19,7 @@
   "license": "ISC",
   "devDependencies": {
     "autoprefixer-stylus": "^0.4.0",
-    "browser-sync": "^1.9.0",
+    "browser-sync": "^2.14.0",
     "grunt": "^0.4.5",
     "gulp": "^3.8.10",
     "gulp-cache": "^0.3.0",
