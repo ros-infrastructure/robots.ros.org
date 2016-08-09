@@ -73,30 +73,38 @@ for theme, category-color in themes
             width 30%
             float right
             min-width 100px
+        .sidebar
+            float right
+            width 30%
+            min-width 200px
+            border 1px solid black
+            border-radius 5px
+            padding 5px 5px
+            margin 5px 5px
+            
         .post-resources
             a
-                color black
-                border 1px solid black
+                color category-color
+                border 1px solid category-color
                 border-radius	3px
                 padding .313rem .625rem
                 margin 0 0 .313rem
                 z-index 50
                 display inline-block
-            width 30%
-            float right
-            min-width 200px
+
+            width 100%
+            
         .post-tags
             a
-                color black
-                border 1px solid black
+                color category-color
+                border 1px solid category-color
                 border-radius	3px
                 padding .313rem .625rem
                 margin 0 0 .313rem
                 z-index 50
                 display inline-block
-            width 30%
-            float right
-            min-width 200px
+            width 100%
+
 
         aside
             background-color category-color

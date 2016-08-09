@@ -5,6 +5,7 @@
         {% include svg-icons.html %}
         {% include header-post.html %}
         <section class="post">
+          <div class="sidebar container">
           {% if true and (page.website or page.wiki_homepage) %}
           <div class="post-resources">
             <p>Resources:</p>
@@ -14,14 +15,15 @@
             {% if page.wiki_homepage %}
             <a href="{{page.wiki_homepage}}">Wiki Homepage</a>
             {% endif %}
-          <!-- </div> -->
+          </div>
           {% endif %}
-          <!-- <div class="post-tags"> -->
+          <div class="post-tags">
             <p>Tags:</p>
             {% for tag in page.tags %}
             <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
             {% endfor %}
           </div>
+        </div>
             <article role="article" id="post" class="post-content" itemprop="articleBody">
                 {{ content }}
             </article>
