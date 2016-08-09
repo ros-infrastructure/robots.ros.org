@@ -12,13 +12,29 @@
             </a>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
                 <p class="description">{{ post.introduction }}</p>
+                {% if post.website or post.wiki_homepage%}
+                <div class="resources" style="align-right">
+                  <p>Resources:</p>
+                  <ul>
+                  {% if post.website %}
+                  <li><a href="{{post.website}}">Website</a></li>
+                  {% endif %}
+                  {% if post.wiki_homepage %}
+                  <li><a href="{{post.wiki_homepage}}">Wiki Homepage</a></li>
+                  {% endif %}
+                </ul>
+                </div>
+                {% endif %}
                 {% if post.icon %}
-                <img src="{{ post.icon | prepend: site.baseurl }}" width="100"/>
+                <div class="icon">
+                  <img src="{{ post.icon | prepend: site.baseurl }}" width="100"/>
+                </div>
                 {% endif %}
             </a>
+            <div style="clear: both;"><br></div>
             <div class="tags">
                 {% for tag in post.tags %}
-                    <a href="{{site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                    <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
                 {% endfor %}
             </div>
         </div>
