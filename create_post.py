@@ -4,7 +4,7 @@ from datetime import date
 import os
 import time
 
-valid_categories = ['aerial', 'arm', 'ground', 'marine', 'sensor']
+valid_categories = ['aerial', 'component', 'ground', 'marine', 'sensor']
 
 d = {}
 

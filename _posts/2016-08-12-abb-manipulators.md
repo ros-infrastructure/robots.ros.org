@@ -6,11 +6,12 @@ description:
 icon: /assets/img/robots/abb-manipulators/icon.jpg
 image: /assets/img/robots/abb-manipulators/icon.jpg
 introduction: ROS-Industrial support for ABB manipulators
-main-class: 'arm'
+main-class: 'component'
 color: ''
 tags:
 - 'ROS-Industrial'
 - 'abb'
+- arm
 - groovy
 - hydro
 - indigo

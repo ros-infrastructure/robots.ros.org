@@ -1,13 +1,13 @@
 ---
 layout: default
-main-class: 'arm'
+main-class: 'component'
 ---
 
 <main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">arm</h1>
+    <h1 class="title-category">component</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'arm' %}
+        {% if post.main-class == 'component' %}
           {% include box-item.html %}
         {% endif %}
     {% endfor %}
