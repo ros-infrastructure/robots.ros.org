@@ -1,0 +1,60 @@
+<section class="questions post-content">
+    <h3>Questions</h3>
+    <div id='result' class="question"></div>
+</section>
+
+
+<script type="text/javascript" src="/assets/js/jquery-min.js"></script>
+<script type="text/javascript" src="/assets/js/jquery.jfeed.pack.js"></script>
+
+<script type="text/javascript">
+jQuery.browser = {};
+(function () {
+    jQuery.browser.msie = false;
+    jQuery.browser.version = 0;
+    if (navigator.userAgent.match(/MSIE ([0-9]+)\./)) {
+        jQuery.browser.msie = true;
+        jQuery.browser.version = RegExp.$1;
+    }
+})();
+jQuery(function() {
+    jQuery.getFeed({
+        url: 'http://answers.ros.org/feeds/rss/?tags={{ page.title | downcase }}',
+        success: function(feed) {
+
+            jQuery('#result').append('<h2>'
+            + '<a href="'
+            + feed.link
+            + '">'
+            + feed.title
+            + '</a>'
+            + '</h2>');
+            
+            var html = '';
+            
+            for(var i = 0; i < feed.items.length && i < 50; i++) {
+            
+                var item = feed.items[i];
+                
+                html += '<h3>'
+                + '<a href="'
+                + item.link
+                + '">'
+                + item.title
+                + '</a>'
+                + '</h3>';
+                
+                html += '<div class="updated">'
+                + item.updated
+                + '</div>';
+                
+                html += '<div>'
+                + item.description
+                + '</div>';
+            }
+            
+            jQuery('#result').append(html);
+        }    
+    });
+});
+</script>
