@@ -1,8 +1,8 @@
 # Site settings
 description: An index of ROS Robots
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
-url: "http://robots.ros.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+# url: "http://robots.ros.org" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Lorem Ipsum
