@@ -75,8 +75,8 @@ Erle Robotics maintains a [Documentation](http://erlerobotics.com/docs) that mea
 
 A video series about how to code autonomous behaviors for drones with our brains technology is available at https://www.youtube.com/playlist?list=PL39WpgKDjDfVfiNVG47DBi93wsh2XHKVO.
 
-== Getting Help ==
+## Getting Help
 Post in our forum at http://forum.erlerobotics.com/.
 
-== Purchase ==
+## Purchase
 Erle-Brain 2 is available through the [Erle Robotics store](https://erlerobotics.com/blog/tienda/).

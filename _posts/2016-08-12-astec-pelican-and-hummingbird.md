@@ -26,7 +26,7 @@ Refer to the [asctec_drivers](http://wiki.ros.org/astec_drivers) and [mav_tools]
 
 To get started with the driver, refer to the tutorials on the [[asctec_drivers](http://wiki.ros.org/asctec_drivers]] and [[mav_tools]] installation instructions.
 
-== Tutorials ==
+## Tutorials
 To get started with the driver, refer to the tutorials on the [[asctec_drivers) page.
 
 # Resources
