@@ -6,6 +6,8 @@
         {% include header-post.html %}
         <section class="post">
           <div class="sidebar container">
+            <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+            <p itemprop="description" class="subtitle">{{ page.description }}</p>
           {% if true and (page.website or page.wiki_homepage) %}
           <div class="post-resources">
             <p>Resources:</p>
