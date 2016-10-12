@@ -18,12 +18,12 @@ introduction: 'How to use this template'
 
 This site is designed to provide a showcase for robots using ROS.
 
-## Who can contribute
+## Who can contribute?
 
 Anyone can contribute to the site. However it is expected that the majority of contributors are expecected to be the robot manufacturers or ROS integratoin maintainers.
 
 
-## What content is ok on the site
+## What content should be on the site?
 
 This site is designed to be a portal for discovery and comparison of robots.
 
@@ -36,6 +36,20 @@ It should have it's own website with the majority of it's marketing and promotio
 
 Robots may be promoted to the spotlight on the home page.
 To inquire about being promoted please contact  info@osrfoundation.org .
+
+## How to contribute
+
+To add a robot or make an update to the site, please [open a pull request on github](https://github.com/ros-infrastructure/robots.ros.org)
+
+Documentation on how the site is setup can be found below.
+
+## Guidelines for contributions
+
+- Make sure to follow the tagging conventions.
+- Do not spam the site with small variants of robot names. Only have one entry per major version, a model upgrade should not generate a new page.
+- Keep the look and feel of the overall site, but feel free to customize within the framework.
+- External javascript dependencies are generally discouraged but can be considered.
+
 
 
 # About the backend

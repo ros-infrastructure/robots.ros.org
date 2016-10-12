@@ -1,11 +1,43 @@
 ---
-layout: default
+layout: minimal
+image: assets/img/ros_enabled.png
 ---
 
+
+TODO Website logo
+
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <h2>Featured Robot</H2>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-      {% include box-item.html %}
+       {% if post.title == site.featured_robot %}
+         {% include box-item.html %}
+       {% endif %}
     {% endfor %}
+    
+    
+    
     </div>
+    <a href="/tags"><H2>Find a robot by tag:</H2></a>
+    <div class="tags">
+      {% assign tags_list = site.tags %}
+      {% if tags_list.first[0] == null %}
+        {% for tag in tags_list %}
+            <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
+        {% endfor %}
+      {% else %}
+        {% for tag in tags_list %}
+            <a href="/tags#{{ tag[0] | slugify }}">{{ tag[0] }}</a>
+        {% endfor %}
+      {% endif %}
+    {% assign tags_list = nil %}
+    </div>
+
+    <H2>Find a robot by category:</H2>
+    TODO List robots by Categories
+    
+    <a href="/all"><H2>Browse all robots</H2></a>
+    <a href="/all"><p>Click here</p></a>
+
+
 </main>

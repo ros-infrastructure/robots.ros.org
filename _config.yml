@@ -14,6 +14,8 @@ github_username:  ros
 gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
+featured_robot: TurtleBot
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
