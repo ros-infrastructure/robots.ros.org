@@ -33,10 +33,13 @@ compress_html:
 links:
   - title: Home
     url: /
+  - title: All
+    url: /all
   - title: Tags
     url: /tags
   - title: About
     url: /about
-
+  - title: Contributing
+    url: /contributing
 # exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+exclude: ['package.json', 'src', 'node_modules', 'template_post.em']

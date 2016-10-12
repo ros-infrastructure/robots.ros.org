@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: minimal
 title: "How to Use"
 date: 2016-05-08 20:35:48
 image: '/assets/img/'
-description: 'How to use this template'
+description: 'How to contribute to robots.ros.org'
 main-class: 'meta'
 color: '#7AAB13'
 tags:
@@ -13,6 +13,34 @@ categories:
 twitter_text: 'How to use this template'
 introduction: 'How to use this template'
 ---
+
+# Goals
+
+This site is designed to provide a showcase for robots using ROS.
+
+## Who can contribute
+
+Anyone can contribute to the site. However it is expected that the majority of contributors are expecected to be the robot manufacturers or ROS integratoin maintainers.
+
+
+## What content is ok on the site
+
+This site is designed to be a portal for discovery and comparison of robots.
+
+Developer documentation should remain on the [ROS wiki](http://wiki.ros.org).
+And pages on this site should not be the primary reference for a robot.
+It should have it's own website with the majority of it's marketing and promotional content sales opportunities etc. 
+
+
+## Featured Spotlight
+
+Robots may be promoted to the spotlight on the home page.
+To inquire about being promoted please contact  info@osrfoundation.org .
+
+
+# About the backend
+
+This site is bsased on the Cards Jekyll Template more information about the template is below.
 
 ## Cards Jekyll Template - [Demo](http://willianjusten.com.br/cards-jekyll-template)
 
