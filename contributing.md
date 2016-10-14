@@ -25,7 +25,7 @@ Anyone can contribute to the site. However it is expected that the majority of c
 
 ## What content should be on the site?
 
-This site is designed to be a portal for discovery and comparison of robots.
+This site is designed to be a portal for discovery and comparison of robots that publicly documented ROS interfaces.
 
 Developer documentation should remain on the [ROS wiki](http://wiki.ros.org).
 And pages on this site should not be the primary reference for a robot.
