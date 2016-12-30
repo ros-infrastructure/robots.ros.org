@@ -29,6 +29,20 @@ compress_html:
   endings: []
   profile: false
 
+# If adding a category give it a theme color too in _theme-colors.sty
+top_level_categories:
+  - title: Aerial
+    url: aerial
+  - title: Component
+    url: component
+  - title: Ground
+    url: ground
+  - title: Marine
+    url: marine
+  - title: Sensor
+    url: sensor
+
+
 # Links to include in menu navigation
 # For external links add external: true
 # TODO(tfoote) add Categories

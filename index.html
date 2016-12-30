@@ -34,10 +34,15 @@ TODO Website logo
     </div>
 
     <H2>Find a robot by category:</H2>
-    TODO List robots by Categories
-    
+    <ul>
+    {% for category in site.top_level_categories %}
+      <li><a href="/category/{{ category.url | slugify }}">{{ category.title }}</a>
+      </li>
+    {% endfor %}
+    </ul>
+
     <a href="/all"><H2>Browse all robots</H2></a>
-    <a href="/all"><p>Click here</p></a>
+    <!-- <a href="/all"><p>Click here</p></a> -->
 
 
 </main>
