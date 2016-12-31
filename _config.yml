@@ -33,14 +33,19 @@ compress_html:
 top_level_categories:
   - title: Aerial
     url: aerial
+    image: aerial.png
   - title: Component
     url: component
+    image: component.png
   - title: Ground
     url: ground
+    image: ground.png
   - title: Marine
     url: marine
+    image: marine.png
   - title: Sensor
     url: sensor
+    image: sensor.png
 
 
 # Links to include in menu navigation

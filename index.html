@@ -34,13 +34,22 @@ TODO Website logo
     </div>
 
     <H2>Find a robot by category:</H2>
-    <ul>
+      <div id="categories_grid" class="row flex-grid">
     {% for category in site.top_level_categories %}
-      <li><a href="/category/{{ category.url | slugify }}">{{ category.title }}</a>
-      </li>
+    <article class="box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">  
+    <span class="ribbon">
+      <a href="{{site.url}}{{site.baseurl}}/category/{{category.url}}"><span>{{category.title}}</span></a>
+    </span>
+    <div class="box-body">
+    <a href="/category/{{ category.url | slugify }}"><h3>{{ category.title }}</h3>
+    {% if category.image %}
+    <img src="/assets/img/{{category.image}}"/>
+    {% endif %}
+    </a>
+    </div>
+  </article>
     {% endfor %}
-    </ul>
-
+  </div>
     <a href="/all"><H2>Browse all robots</H2></a>
     <!-- <a href="/all"><p>Click here</p></a> -->
 
