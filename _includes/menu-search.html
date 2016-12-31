@@ -20,6 +20,12 @@
     {% endfor %}
     <li><a class="feed" href="{{ site.url }}{{site.baseurl}}/feed.xml" title="Atom/RSS feed">Feed</a></li>
   </ul>
+    <h2>CATEGORIES</h2>
+  <ul>
+    {% for link in site.top_level_categories %}
+      <li><a href="{{ site.url }}{{site.baseurl}}/category/{{ link.url }}">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
 </nav>
 </aside>
 <a id="search" class="dosearch">
