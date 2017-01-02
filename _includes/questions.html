@@ -36,21 +36,24 @@ jQuery(function() {
             
                 var item = feed.items[i];
                 
-                html += '<h3>'
+                html += ''
                 + '<a href="'
                 + item.link
                 + '">'
+                + '<div class="answer">'
+                + '<h3>Question: '
                 + item.title
-                + '</a>'
                 + '</h3>';
                 
                 html += '<div class="updated">'
-                + item.updated
+                + 'Asked on: '+ item.updated
                 + '</div>';
                 
                 html += '<div>'
                 + item.description
+                + '</div>'
                 + '</div>';
+                + '</a>'
             }
             
             jQuery('#result').append(html);
