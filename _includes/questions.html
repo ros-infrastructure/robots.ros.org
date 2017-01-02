@@ -1,5 +1,11 @@
+{% if page.answers_tag %}
+{% assign askbot_tag = page.answers_tag %}
+{% else %}
+{% assign askbot_tag = page.title | downcase %}
+{% endif %}
+
 <section class="questions post-content">
-    <h3>Questions tagged with `<kbd>{{ page.title | downcase }}</kbd>`</h3>
+    <h3>Questions tagged with `<kbd>{{ askbot_tag }}</kbd>`</h3>
     <div id='result' class="question"></div>
 </section>
 
@@ -19,7 +25,7 @@ jQuery.browser = {};
 })();
 jQuery(function() {
     jQuery.getFeed({
-        url: 'http://answers.ros.org/feeds/rss/?tags={{ page.title | downcase }}',
+        url: 'http://answers.ros.org/feeds/rss/?tags={{ askbot_tag }}',
         success: function(feed) {
 
             jQuery('#result').append('<h2>'
