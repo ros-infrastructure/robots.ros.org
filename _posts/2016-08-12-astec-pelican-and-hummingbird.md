@@ -13,6 +13,7 @@ tags:
 twitter_text: Checkout the AsTec Pelican and Hummingbird
 website: http://www.asctec.de/
 wiki_homepage: http://wiki.ros.org/Robots/AscTec
+answers_tag: asctec
 ---
 
 
