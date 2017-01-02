@@ -43,7 +43,7 @@ TODO Website logo
     <div class="box-body">
     <a href="/category/{{ category.url | slugify }}"><h3>{{ category.title }}</h3>
     {% if category.image %}
-    <img src="/assets/img/{{category.image}}"/>
+    <img src="{{ site.url }}{{site.baseurl}}/assets/img/{{category.image}}"/>
     {% endif %}
     </a>
     </div>
