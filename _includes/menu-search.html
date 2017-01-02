@@ -23,7 +23,9 @@
     <h2>CATEGORIES</h2>
   <ul>
     {% for link in site.top_level_categories %}
-      <li><a href="{{ site.url }}{{site.baseurl}}/category/{{ link.url }}">{{ link.title }}</a></li>
+      <li><a href="{{ site.url }}{{site.baseurl}}/category/{{ link.url }}">{{ link.title }}
+      {% if link.image %}<img src="{{ site.url }}{{site.baseurl}}/assets/img/{{link.image}}"/>{% endif %}
+      </a></li>
     {% endfor %}
   </ul>
 </nav>
