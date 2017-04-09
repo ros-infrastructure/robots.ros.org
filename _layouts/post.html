@@ -9,6 +9,9 @@
             <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
             <p itemprop="description" class="subtitle">{{ page.description }}</p>
           {% if true and (page.website or page.wiki_homepage) %}
+          <div class="post-category">
+            <p>Robot Category: <a href="{{site.baseurl}}/category/{{page.main-class}}"><span>{{page.main-class}}</span></a></p>
+          </div>
           <div class="post-resources">
             <p>Resources:</p>
             {% if page.website %}

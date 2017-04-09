@@ -37,9 +37,6 @@ TODO Website logo
       <div id="categories_grid" class="row flex-grid">
     {% for category in site.top_level_categories %}
     <article class="box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">  
-    <span class="ribbon">
-      <a href="{{site.url}}{{site.baseurl}}/category/{{category.url}}"><span>{{category.title}}</span></a>
-    </span>
     <div class="box-body">
     <a href="/category/{{ category.url | slugify }}"><h3>{{ category.title }}</h3>
     {% if category.image %}
@@ -51,7 +48,10 @@ TODO Website logo
     {% endfor %}
   </div>
     <a href="/all"><H2>Browse all robots</H2></a>
-    <!-- <a href="/all"><p>Click here</p></a> -->
-
+    <div id="grid" class="row flex-grid">
+    {% for post in site.posts %}
+      {% include box-item.html %}
+    {% endfor %}
+    </div>
 
 </main>

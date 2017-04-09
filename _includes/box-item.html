@@ -1,6 +1,8 @@
 <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <span class="ribbon">
-            <a href="{{site.url}}{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a>
+          {% if post.title == site.featured_robot %}
+          <a href="{{ post.url | prepend: site.baseurl }}"><span>Featured</span></a>
+          {% endif %}
         </span>
         <div class="box-body">
             <!-- <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
@@ -11,7 +13,12 @@
                 </h2>
             </a>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                <p class="description">{{ post.introduction }}</p>
+                <div class="category">
+                  <p>Robot Category:</p>
+                  <ul>
+                    <li><a href="{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a></li>
+                  </ul>
+                </div>
                 {% if post.website or post.wiki_homepage%}
                 <div class="resources">
                   <p>Resources:</p>
@@ -25,6 +32,7 @@
                 </ul>
                 </div>
                 {% endif %}
+                <p class="description">{{ post.introduction }}</p>
                 {% if post.icon %}
                 <div class="icon">
                   <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
