@@ -50,7 +50,6 @@ top_level_categories:
 
 # Links to include in menu navigation
 # For external links add external: true
-# TODO(tfoote) add Categories
 links:
   - title: Home
     url: /
