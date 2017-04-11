@@ -33,7 +33,7 @@ Innok Heros is
 
 Battery runtime between 3 - 16h can be expected depending on payload and usage.
 
-Innok Robotics offers '''integration of various sensors and actors''' onto the robot: 
+Innok Robotics offers '''integration of various sensors and actors''' onto the robot:
 
  * Cameras
  * laser scanners
@@ -53,7 +53,7 @@ Read more about Innok Heros at its [homepage](http://www.innok-robotics.de/en/pr
 
 # ROS Compatibility
 
-Innok Heros fully supports ROS. 
+Innok Heros fully supports ROS.
 
 The driver [innok_heros_driver](http://wiki.ros.org/innok_heros_driver) is released for ROS Hydro and ROS Indigo.
 

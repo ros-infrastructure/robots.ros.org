@@ -4,8 +4,10 @@ main-class: 'marine'
 ---
 
 <main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <img src="/assets/img/marine.png" align="right" width="100px"/>
-    <h1 class="title-category">Marine</h1>
+    <div class="header-category">
+      <img src="/assets/img/marine.png" align="right" width="100px"/>
+      <h1 class="title-category">Marine</h1>
+    </div>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
         {% if post.main-class == 'marine' %}

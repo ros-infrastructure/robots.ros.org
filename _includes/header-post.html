@@ -1,1 +1,9 @@
 {% include header-default.html %}
+
+{% if page.image %}
+<header class="header-post" role="banner">
+    <div class="content">
+        <img style="height: 90px" src="{{ page.image | prepend: site.baseurl }}"/>
+    </div>
+</header>
+{% endif %}

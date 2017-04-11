@@ -1,46 +1,46 @@
 ---
 layout: minimal
-image: assets/img/ros_robots.png
 ---
 
-<h2>Robot Video Montages</h2>
-
-<div class="w3-content w3-display-container">
-  <div class="slides">
-    <iframe src="https://player.vimeo.com/video/146183080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-  </div>
-  <div class="slides">
-    <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/PGaXiLZD2KQ?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <div class="slides">
-    <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/7cslPMzklVo?rel=0" frameborder="0" allowfullscreen></iframe>
-  </div>
-  
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
-</div>
-
-<script>
-var slideIndex = 1;
-showDivs(slideIndex);
-
-function plusDivs(n) {
-  showDivs(slideIndex += n);
-}
-
-function showDivs(n) {
-  var i;
-  var x = document.getElementsByClassName("slides");
-  if (n > x.length) {slideIndex = 1}    
-  if (n < 1) {slideIndex = x.length}
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  x[slideIndex-1].style.display = "block";  
-}
-</script>
-
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+
+    <h2>Robot Video Montages</h2>
+
+    <div class="w3-content w3-display-container">
+      <div class="slides">
+        <iframe src="https://player.vimeo.com/video/146183080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+      </div>
+      <div class="slides">
+        <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/PGaXiLZD2KQ?rel=0" frameborder="0" allowfullscreen></iframe>
+      </div>
+      <div class="slides">
+        <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/7cslPMzklVo?rel=0" frameborder="0" allowfullscreen></iframe>
+      </div>
+
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+
+    <script>
+      var slideIndex = 1;
+      showDivs(slideIndex);
+
+      function plusDivs(n) {
+        showDivs(slideIndex += n);
+      }
+
+      function showDivs(n) {
+        var i;
+        var x = document.getElementsByClassName("slides");
+        if (n > x.length) {slideIndex = 1}
+        if (n < 1) {slideIndex = x.length}
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex-1].style.display = "block";
+      }
+    </script>
+
     <h2>Featured Robot</H2>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
@@ -49,8 +49,6 @@ function showDivs(n) {
        {% endif %}
     {% endfor %}
 
-    
-    
     </div>
     <a href="/tags"><H2>Find a robot by tag:</H2></a>
     <div class="tags">
@@ -70,7 +68,7 @@ function showDivs(n) {
     <H2>Find a robot by category:</H2>
       <div id="categories_grid" class="row flex-grid">
     {% for category in site.top_level_categories %}
-    <article class="box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">  
+    <article class="box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
     <div class="box-body">
     <a href="/category/{{ category.url | slugify }}"><h3>{{ category.title }}</h3>
     {% if category.image %}
