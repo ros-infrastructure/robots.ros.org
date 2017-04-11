@@ -1,17 +1,9 @@
-<header class="bar-header">
-    <h1 class="logo">
-        <a href="{{site.baseurl}}/"></a>
-    </h1>
-</header>
-{% include menu-search.html %}
+{% include header-default.html %}
 
+{% if page.image %}
 <header class="header-post" role="banner">
-     <div class="content">
-       <!-- <div class="sidebar container"> TODO I want to float this over/aside the picture
-         <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
-       </div> -->
-        {% if page.image %}
-        <img src="{{ page.image | prepend: site.baseurl }}"/>
-        {% endif %}
+    <div class="content">
+        <img style="height: 90px" src="{{ page.image | prepend: site.baseurl }}"/>
     </div>
 </header>
+{% endif %}
