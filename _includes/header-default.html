@@ -1,6 +1,10 @@
 <header class="bar-header">
     <h1 class="logo">
-        <a href="{{site.baseurl}}/"></a>
+        <a href="{{site.baseurl}}/">
+            {% if page.image %}
+            <img style="height: 33px" src="{{ page.image | prepend: site.baseurl }}"/>
+            {% endif %}
+        </a>
     </h1>
 </header>
 {% include menu-search.html %}
