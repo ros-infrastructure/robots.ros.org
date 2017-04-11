@@ -68,8 +68,8 @@ layout: minimal
     <H2>Find a robot by category:</H2>
       <div id="categories_grid" class="row flex-grid">
     {% for category in site.top_level_categories %}
-    <article class="box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
-    <div class="box-body">
+    <article class="small-box-item post-{{category.url}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+    <div class="small-box-body">
     <a href="/category/{{ category.url | slugify }}"><h3>{{ category.title }}</h3>
     {% if category.image %}
     <img src="{{ site.url }}{{site.baseurl}}/assets/img/{{category.image}}"/>
