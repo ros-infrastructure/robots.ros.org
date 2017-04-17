@@ -2,7 +2,6 @@
 layout: minimal
 title: "How to Use"
 date: 2016-05-08 20:35:48
-image: '/assets/img/contribute.png'
 description: 'How to contribute to robots.ros.org'
 main-class: 'meta'
 color: '#7AAB13'
@@ -13,6 +12,8 @@ categories:
 twitter_text: 'How to use this template'
 introduction: 'How to use this template'
 ---
+<img itemprop="image" class="img" style="width: 200px; padding: 30px" src="/assets/img/contribute.png" alt="ROS nine dots">
+
 
 # Goals
 
