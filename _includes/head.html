@@ -14,8 +14,8 @@
     <meta name="twitter:site" content="@{{site.twitter_username}}">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    {% if page.image %}
-    <meta property="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{page.image }}">
+    {% if page.icon %}
+    <meta property="twitter:image:src" content="{{ site.url }}{{ site.baseurl }}{{page.icon }}">
     {% else %}
     <meta property="twitter:image:src" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
@@ -23,8 +23,8 @@
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    {% if page.image %}
-    <meta property="og:image" content="{{ site.url }}{{page.image }}">
+    {% if page.icon %}
+    <meta property="og:image" content="{{ site.url }}{{page.icon }}">
     {% else %}
     <meta property="og:image" content="{{ "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
