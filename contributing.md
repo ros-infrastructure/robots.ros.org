@@ -2,7 +2,7 @@
 layout: minimal
 title: "How to Use"
 date: 2016-05-08 20:35:48
-image: '/assets/img/contribute.png'
+icon: '/assets/img/contribute.png'
 description: 'How to contribute to robots.ros.org'
 main-class: 'meta'
 color: '#7AAB13'

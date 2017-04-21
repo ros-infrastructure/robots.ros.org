@@ -78,18 +78,32 @@ for theme, category-color in themes
                 float left
                 left 85%
         .robot-photo
+            img
+                max-height 300px
+            display flex
+            justify-content center
+            align-items center
+            overflow hidden
+            flex-grow 1
+            flex-shrink 0
+            margin 15px 15px 15px 15px
+        .infobox
             width 30%
-            float right
-            min-width 100px
-        .sidebar
-            float right
-            width 30%
-            min-width 200px
-            border 1px solid black
+            min-width 25rem
+            border 2px solid black
             border-radius 5px
             padding 5px 5px
-            margin 5px 5px
-            
+            margin 15px 15px
+            flex-grow 1
+            flex-shrink 0
+        .postflex
+            display flex
+            flex-direction row-reverse
+            flex-wrap wrap
+            max-width 800px
+            margin auto
+            margin-top rem(50px)
+            top rem(33px)
         .post-resources
             a
                 color category-color
