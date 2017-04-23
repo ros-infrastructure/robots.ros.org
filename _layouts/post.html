@@ -30,7 +30,16 @@
             </div>
           </div>
             <article role="article" id="post" class="post-content" itemprop="articleBody">
-                {{ content }}
+              {% if page.image %}
+              <div class="robot-photo container">
+                  <img src="{{ page.image | prepend: site.baseurl }}" height="100%"/>
+              </div>
+              <div style="clear:both;">
+              </div>
+              {% endif %}
+              <div class="content">
+              {{ content }}
+            </div>
             </article>
 
             {% include share.html %}
