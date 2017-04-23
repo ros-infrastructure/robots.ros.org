@@ -5,7 +5,8 @@
         {% include svg-icons.html %}
         {% include header-post.html %}
         <section class="post">
-          <div class="sidebar container">
+          <div class="postflex">
+          <div class="infobox container" style="align: center;">
             <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
             <p itemprop="description" class="subtitle">{{ page.description }}</p>
             {% if page.website or page.wiki_homepage %}
@@ -33,9 +34,8 @@
           <div class="robot-photo container">
               <img src="{{ page.image | prepend: site.baseurl }}" height="100%"/>
           </div>
-          <div style="clear:both;">
-          </div>
           {% endif %}
+        </div>
             <article role="article" id="post" class="post-content" itemprop="articleBody">
               <div class="content">
               {{ content }}
