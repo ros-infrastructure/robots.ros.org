@@ -18,10 +18,11 @@
     </div>
     {% endif %}
     <div class="post-tags">
-      <p>Tags:</p>
+      <p>Tags:
       {% for tag in page.tags %}
       <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
       {% endfor %}
+      </p>
     </div>
   </div>
   {% if page.image %}
