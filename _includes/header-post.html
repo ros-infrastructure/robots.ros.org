@@ -2,8 +2,33 @@
 
 {% if page.icon %}
 <header class="header-post" role="banner">
-    <div class="content">
-        <img style="height: 90px" src="{{ page.icon | prepend: site.baseurl }}"/>
+  <div class="postflex">
+  <div class="infobox container" style="align: center;">
+    <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+    <p itemprop="description" class="subtitle">{{ page.description }}</p>
+    {% if page.website or page.wiki_homepage %}
+    <div class="post-category">
+      <p>Robot Category: <a href="{{site.baseurl}}/category/{{page.main-class}}"><span>{{page.main-class}}</span></a></p>
     </div>
+    <div class="post-resources">
+      <p>Resources:
+      {% if page.website %}<a href="{{page.website}}">Website</a> {% endif %}
+      {% if page.wiki_homepage %}<a href="{{page.wiki_homepage}}">Wiki</a>{% endif %}
+    </p>
+    </div>
+    {% endif %}
+    <div class="post-tags">
+      <p>Tags:</p>
+      {% for tag in page.tags %}
+      <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
+      {% endfor %}
+    </div>
+  </div>
+  {% if page.image %}
+  <div class="robot-photo container">
+      <img src="{{ page.image | prepend: site.baseurl }}" height="100%"/>
+  </div>
+  {% endif %}
+</div>
 </header>
 {% endif %}
