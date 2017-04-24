@@ -14,6 +14,7 @@ tags:
 twitter_text: Checkout the Erle-Rover
 website: http://erlerobotics.com/blog/erle-rover/
 wiki_homepage: http://wiki.ros.org/Robots/Erle-Rover
+answers_tag: Erlerover
 ---
 
 [Erle-Rover](http://erlerobotics.com/blog/erle-rover) is a Linux-based Unmanned Ground Vehicle (UGV) that uses the Robot Operating System (ROS) and the APM:Rover APM:Rover autopilot.
