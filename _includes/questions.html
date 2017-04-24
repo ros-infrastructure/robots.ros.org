@@ -29,13 +29,13 @@ jQuery(function() {
 
             jQuery('#result').append(
             '<div class="answers_header">'
-            + '<h2>Answers.ros.org Recent Questions</h2>'
-            + '<h3>Tag:  `<kbd>{{ askbot_tag }}</kbd>`</h3>'
-            + '<h3>Browse '
+            + '<h3>Answers.ros.org Recent Questions '
+            + 'Tagged:  `<kbd>{{ askbot_tag }}</kbd>`</h3>'
+            + '<p>Browse '
             + '<a href="http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:{{ askbot_tag }}/page:1/">recent questions</a>'
             + ' or see the '
             + '<a href="http://answers.ros.org/questions/scope:all/sort:votes-desc/tags:{{ askbot_tag }}/page:1/">higest voted</a>'
-            + '</h3>'
+            + '</p>'
             + '</div>');
             
             var html = '';

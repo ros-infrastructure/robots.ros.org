@@ -14,9 +14,10 @@ for theme, category-color in themes
         .post-content
             h1,h2,h3,h4
                 color category-color
+                a
+                    border-bottom 2px dashed category-color
             a
                 color category-color
-                border-bottom 2px dashed category-color
                 &:hover
                     background-color category-color
                     color #fff
