@@ -33,7 +33,10 @@ for theme, category-color in themes
         .header-site
             background-color category-color
             h1
+                color category-color
                 text-shadow 3px 3px darken(category-color, 20%)
+            p
+                color darken(category-color, 50%)
         .bar-header
             .logo a
                 color category-color
@@ -81,7 +84,8 @@ for theme, category-color in themes
             img
                 border-radius 15px
                 border 5px solid darken(category-color, 20%)
-                max-height 300px
+                max-height rem(400px)
+                max-width rem(360px)
             display flex
             justify-content center
             align-items center
