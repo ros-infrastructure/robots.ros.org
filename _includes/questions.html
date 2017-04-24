@@ -5,7 +5,6 @@
 {% endif %}
 
 <section class="questions post-content">
-    <h3>Questions tagged with `<kbd>{{ askbot_tag }}</kbd>`</h3>
     <div id='result' class="question"></div>
 </section>
 
@@ -28,21 +27,28 @@ jQuery(function() {
         url: 'http://answers.ros.org/feeds/rss/?tags={{ askbot_tag }}',
         success: function(feed) {
 
-            jQuery('#result').append('<h2>'
-            + '<a href="'
-            + feed.link
-            + '">'
-            + feed.title
-            + '</a>'
-            + '</h2>');
+            jQuery('#result').append(
+            '<div class="answers_header">'
+            + '<h2>Answers.ros.org Recent Questions</h2>'
+            + '<h3>Tag:  `<kbd>{{ askbot_tag }}</kbd>`</h3>'
+            + '<h3>Browse '
+            + '<a href="http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:{{ askbot_tag }}/page:1/">recent questions</a>'
+            + ' or see the '
+            + '<a href="http://answers.ros.org/questions/scope:all/sort:votes-desc/tags:{{ askbot_tag }}/page:1/">higest voted</a>'
+            + '</h3>'
+            + '</div>');
             
             var html = '';
             
+            html += '<div class="question_list">'
+            + '<h4>Recent questions preview:</h4>'
+            + '<ul>'
+
             for(var i = 0; i < feed.items.length && i < 50; i++) {
             
                 var item = feed.items[i];
                 
-                html += ''
+                html += '<li>'
                 + '<a href="'
                 + item.link
                 + '">'
@@ -60,7 +66,10 @@ jQuery(function() {
                 + '</div>'
                 + '</div>';
                 + '</a>'
+                + '</li>'
             }
+            html += ' </ul>'
+            + '</div>'
             
             jQuery('#result').append(html);
         }    
