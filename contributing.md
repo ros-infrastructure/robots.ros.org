@@ -1,13 +1,13 @@
 ---
 layout: minimal
-title: "How to Use"
+title: "Contribution Guide"
 date: 2016-05-08 20:35:48
 icon: '/assets/img/contribute.png'
+image: '/assets/img/contribute.png'
 description: 'How to contribute to robots.ros.org'
 main-class: 'meta'
 color: '#7AAB13'
 tags:
-- misc
 - jekyll
 categories:
 twitter_text: 'How to use this template'
