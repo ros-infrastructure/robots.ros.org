@@ -80,6 +80,7 @@ for theme, category-color in themes
         .robot-photo
             img
                 border-radius 15px
+                border 5px solid darken(category-color, 20%)
                 max-height 300px
             display flex
             justify-content center
@@ -91,12 +92,15 @@ for theme, category-color in themes
         .infobox
             width 30%
             min-width 25rem
-            border 2px solid black
+            border 5px solid darken(category-color, 20%)
             border-radius 15px
             padding 5px 5px
             margin 15px 15px
             flex-grow 1
             flex-shrink 0
+            background-color white
+            a
+                color darken(category-color, 20%)
         .postflex
             display flex
             flex-direction row-reverse
@@ -105,7 +109,7 @@ for theme, category-color in themes
             margin auto
             margin-top rem(50px)
             top rem(33px)
-        .post-resources
+        .post-category
             a
                 color category-color
                 border 1px solid category-color
@@ -116,7 +120,16 @@ for theme, category-color in themes
                 display inline-block
 
             width 100%
-            
+        .post-resources
+            a
+                color category-color
+                border 1px solid category-color
+                border-radius	3px
+                padding .313rem .625rem
+                margin 0 0 .313rem
+                z-index 50
+                display inline-block
+            width 100%   
         .post-tags
             a
                 color category-color
