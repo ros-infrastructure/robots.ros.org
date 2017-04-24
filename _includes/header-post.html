@@ -5,7 +5,7 @@
   <div class="postflex">
   <div class="infobox container" style="align: center;">
     <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
-    <p itemprop="description" class="subtitle">{{ page.description }}</p>
+    <!-- Saving space <p itemprop="description" class="subtitle">{{ page.description }}</p> -->
     {% if page.website or page.wiki_homepage %}
     <div class="post-category">
       <p>Robot Category: <a href="{{site.baseurl}}/category/{{page.main-class}}"><span>{{page.main-class}}</span></a></p>
@@ -18,10 +18,11 @@
     </div>
     {% endif %}
     <div class="post-tags">
-      <p>Tags:</p>
+      <p>Tags:
       {% for tag in page.tags %}
       <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
       {% endfor %}
+      </p>
     </div>
   </div>
   {% if page.image %}
