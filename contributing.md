@@ -85,7 +85,7 @@ To make use of this you will must have docker installed.
 
 1. Run `test_site.bash`
 
-1. You can then open http://localhost:3000 in your browser to view the site. The page in the browser automatically refresh when files are changed.
+1. You can then open http://localhost:3000 in your browser to view the site. The page in the browser will automatically refresh when files are changed.
 
 Notes:
 The `test_site.bash` script must be restarted if `_config.yml` is changed. Kill the script with `Ctrl-C` the test_site.bash and rerun it. Then reload the page in your browser.
