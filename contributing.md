@@ -20,20 +20,20 @@ This site is designed to provide a showcase for robots using ROS.
 
 ## Who can contribute?
 
-Anyone can contribute to the site. However it is expected that the majority of contributors are expecected to be the robot manufacturers or ROS integratoin maintainers.
+Anyone can contribute to the site. However, it is expected that the majority of contributors will be the robot manufacturers or ROS integration maintainers.
 
 ## What content should be on the site?
 
-This site is designed to be a portal for discovery and comparison of robots that publicly documented ROS interfaces.
+This site is designed to be a portal for discovery and comparison of robots with publicly documented ROS interfaces.
 
 Developer documentation should remain on the [ROS wiki](http://wiki.ros.org).
-And pages on this site should not be the primary reference for a robot.
-It should have it's own website with the majority of it's marketing and promotional content sales opportunities etc.
+Pages on this site should not be the primary reference for a robot.
+It should have its own website with the majority of its marketing and promotional content.
 
 ## Featured Spotlight
 
 Robots may be promoted to the spotlight on the home page.
-To inquire about being promoted please contact  info@osrfoundation.org .
+To inquire about being promoted please contact info@osrfoundation.org .
 
 ## How to contribute
 
@@ -44,7 +44,7 @@ Documentation on how the site is setup can be found below.
 ## Guidelines for contributions
 
 - Make sure to follow the tagging conventions.
-- Do not spam the site with small variants of robot names. Only have one entry per major version, a model upgrade should not generate a new page.
+- Do not spam the site with small variants of robot names. Only have one entry per major version; a model upgrade should not generate a new page.
 - Keep the look and feel of the overall site, but feel free to customize within the framework.
 - External javascript dependencies are generally discouraged but can be considered.
 - When you commit changes please do not include the url change in `_config.yml`.
@@ -52,21 +52,21 @@ Documentation on how the site is setup can be found below.
 
 ### Procedure for adding a new robot.
 
-You will need to create a new post. There's a script add_robot.py which will prompt you and fill in a template for you.
+You will need to create a new post. There's a script add_robot.py which will fill in a template by prompting you.
 
 #### Prerequistes
 
-* Python
+* Python 3
 * empy
 
-'sudo apt-get install python-empy'
+'sudo apt install python3-empy' or `pip3 install empy`
 
 #### Procedure
 
 1. Fork this repository on GitHub
 1. Checkout your fork.
 1. Create a new branch with your robot's name.
-1. In the repository run `python add_robot.py` and follow the prompts.
+1. In the repository run `python3 add_robot.py` and follow the prompts.
 1. Add the icons and images into the directories as guided by the script.
 1. Fill in additional details in the generated post.
 1. Commit the changes with a descriptive commit message.
@@ -79,16 +79,16 @@ You will need to create a new post. There's a script add_robot.py which will pro
 There is a script to run this site locally inside docker.
 
 ## Prerequiste
-To make use of this you will need to have docker installed.
+To make use of this you will must have docker installed.
 
 ## Steps
 
 1. Run `test_site.bash`
 
-1. You can then open http://localhost:3000 in your browser to view the site. If you edit and save files in the directory it will detect the changes and automatically regenerate the page you are browsing.
+1. You can then open http://localhost:3000 in your browser to view the site. The page in the browser automatically refresh when files are changed.
 
 Notes:
-There are a few time it needs a reboot, such as changing the `_config.yml` in which case you can `Ctrl-C` the test_site.bash and rerun it. Then reload in your browser.
+The `test_site.bash` script must be restarted if `_config.yml` is changed. Kill the script with `Ctrl-C` the test_site.bash and rerun it. Then reload the page in your browser.
 
 # About the backend
 
