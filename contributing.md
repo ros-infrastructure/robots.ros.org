@@ -79,7 +79,7 @@ You will need to create a new post. There's a script add_robot.py which will fil
 There is a script to run this site locally inside docker.
 
 ## Prerequiste
-To make use of this you will must have docker installed.
+To make use of this you must have docker installed.
 
 ## Steps
 
