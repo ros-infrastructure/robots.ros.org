@@ -10,7 +10,7 @@ $padding-title-header
     top rem(33px)
     background #fff
 .header-post + .post
-    top rem(200px)
+    top rem(500px)
 .post-content
     padding rem(10px) 0
     img
@@ -38,12 +38,8 @@ $padding-title-header
             word-wrap break-word
     a
         color main
-        border-bottom 2px dashed main
         mainFont(300)
-        text-decoration none
         transition all .3s
-        &:hover
-            background main
     .externalLink:after
         display inline-block
         content ''
@@ -150,3 +146,21 @@ $padding-title-header
         float right
         +below(cut)
             display none
+.question
+    border 2px solid gray
+    border-radius 15px
+    text-align left
+    p
+        color black
+    a, h3
+        color black
+        border-bottom none
+    .updated
+        color black
+    .answer
+        color black
+        border-radius 15px
+        height rem(200px)
+        overflow hidden
+    .answers_header
+        padding rem(15px) rem(15px) rem(0px) rem(15px)

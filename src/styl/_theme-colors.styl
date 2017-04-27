@@ -1,10 +1,10 @@
 themes = {
-    post-aerial: #2DA0C3,
-    post-component: #B31917,
-    post-marine: #232aaf,
+    post-aerial: #B31917,
+    post-component: #000000,
+    post-marine: #032aaf,
     post-meta: #7D669E,
-    post-ground: #10aa10,
-    post-sensor: #7AAB13
+    post-ground: #10aa00,
+    post-sensor: #000000
 }
 
 for theme, category-color in themes
@@ -14,9 +14,10 @@ for theme, category-color in themes
         .post-content
             h1,h2,h3,h4
                 color category-color
+                a
+                    border-bottom 2px dashed category-color
             a
                 color category-color
-                border-bottom 2px dashed category-color
                 &:hover
                     background-color category-color
                     color #fff
@@ -33,7 +34,11 @@ for theme, category-color in themes
         .header-site
             background-color category-color
             h1
+                color category-color
                 text-shadow 3px 3px darken(category-color, 20%)
+            p
+                color darken(category-color, 50%)
+                margin 10px
         .bar-header
             .logo a
                 color category-color
@@ -78,19 +83,39 @@ for theme, category-color in themes
                 float left
                 left 85%
         .robot-photo
+            img
+                border-radius 15px
+                border 5px solid darken(category-color, 20%)
+                max-height rem(400px)
+                max-width rem(360px)
+            display flex
+            justify-content center
+            align-items center
+            overflow hidden
+            flex-grow 1
+            flex-shrink 0
+            margin 15px 15px 15px 15px
+        .infobox
             width 30%
-            float right
-            min-width 100px
-        .sidebar
-            float right
-            width 30%
-            min-width 200px
-            border 1px solid black
-            border-radius 5px
+            min-width 25rem
+            border 5px solid darken(category-color, 20%)
+            border-radius 15px
             padding 5px 5px
-            margin 5px 5px
-            
-        .post-resources
+            margin 15px 15px
+            flex-grow 1
+            flex-shrink 0
+            background-color white
+            a
+                color darken(category-color, 20%)
+        .postflex
+            display flex
+            flex-direction row-reverse
+            flex-wrap wrap
+            max-width 800px
+            margin auto
+            margin-top rem(50px)
+            top rem(33px)
+        .post-category
             a
                 color category-color
                 border 1px solid category-color
@@ -101,7 +126,16 @@ for theme, category-color in themes
                 display inline-block
 
             width 100%
-            
+        .post-resources
+            a
+                color category-color
+                border 1px solid category-color
+                border-radius	3px
+                padding .313rem .625rem
+                margin 0 0 .313rem
+                z-index 50
+                display inline-block
+            width 100%   
         .post-tags
             a
                 color category-color
@@ -128,3 +162,5 @@ for theme, category-color in themes
                 border-top 3px solid darken(category-color, 30%)
         footer
             background-color category-color
+        .question
+            border 1px solid category-color
