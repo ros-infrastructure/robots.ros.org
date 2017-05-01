@@ -1,4 +1,9 @@
-<article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+{% if post.title == site.featured_robot %}
+   {% assign element_class = 'featured-item' %}
+{% else %}
+   {% assign element_class = 'box-item' %}
+{% endif %}
+<article class="{{ element_class }} post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <span class="ribbon">
           {% if post.title == site.featured_robot %}
           <a href="{{ post.url | prepend: site.baseurl }}"><span>Featured</span></a>

@@ -1,0 +1,12 @@
+<!-- Include after a set of box-items to shuffle them -->
+
+<script type="text/javascript" src="/assets/js/jquery-min.js"></script>
+
+<script type="text/javascript">
+var boxes = $(".box-item");
+for(var i = 0; i < boxes.length; i++){
+    var target = Math.floor(Math.random() * boxes.length -1) + 1;
+    var target2 = Math.floor(Math.random() * boxes.length -1) +1;
+    boxes.eq(target).before(boxes.eq(target2));
+}
+</script>
