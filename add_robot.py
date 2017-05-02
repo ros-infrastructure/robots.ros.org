@@ -35,7 +35,9 @@ while True:
 d['wiki_homepage'] = input("Please enter the wiki homepage url for this robot: ")
 d['website'] = input("Please enter the website url for this robot (optional): ")
 d['color'] = input("Please pick a color for this robot's page. (#RRGGBB hexadecimal with the '#'): ")
-image_folder = 'assets/img/robots/' + d['title_filename']
+image_folder = os.path.abspath('assets/img/robots/' + d['title_filename'])
+if not os.path.exists(image_folder):
+    os.makedirs(image_folder)
 print("Resources for this post should be placed in the folder %s" % (image_folder))
 d['icon_filename'] = input("Please enter the name of the icon (80px optimal) filename relative to the above path such as icon.png: ")
 d['image_filename'] = input("Please enter the name of the image (600px optimal) filename relative to the above path such as image.png: ")
@@ -56,10 +58,11 @@ pp.pprint(d)
 response = input("Does this look correct? [y/N]: ")
 if not response.startswith('y'):
     print("y not pressed aborting")
+    if os.path.exists(image_folder):
+        print("the assets directory was already created, you may want to delete it: " + image_folder)
 
 post_filename = '_posts/%s-%s.md' % (d['date_string'], d['title_filename'])
 with open(post_filename, 'w') as fh:
     fh.write(expanded)
-os.makedirs(image_folder)
 print("Wrote content to %s. Please add the appropriate image directory, images and fill in the content." % post_filename)
 print("to preview you can run the script test_site.bash if you have docker installed. Then view http://localhost:3000. ")
