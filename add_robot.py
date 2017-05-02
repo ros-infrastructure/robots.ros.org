@@ -2,6 +2,7 @@
 
 from datetime import date
 import os
+import sys
 import time
 
 valid_categories = ['aerial', 'component', 'ground', 'marine', 'sensor']
@@ -57,9 +58,9 @@ pp.pprint(d)
 
 response = input("Does this look correct? [y/N]: ")
 if not response.startswith('y'):
-    print("y not pressed aborting")
     if os.path.exists(image_folder):
         print("the assets directory was already created, you may want to delete it: " + image_folder)
+    sys.exit("y not pressed aborting")
 
 post_filename = '_posts/%s-%s.md' % (d['date_string'], d['title_filename'])
 with open(post_filename, 'w') as fh:
