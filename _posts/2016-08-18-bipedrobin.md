@@ -17,4 +17,4 @@ website:
 wiki_homepage: http://wiki.ros.org/Robots/BipedRobin
 ---
 
-BipedRobin is a biped walking robot developed at the [[http://www.robotik.jku.at|Institute for Robotics]] at [[http://www.jku.at|Johannes Kepler University Linz]].
+BipedRobin is a biped walking robot developed at the [Institute for Robotics](http://www.robotik.jku.at) at [Johannes Kepler University Linz](http://www.jku.at).
