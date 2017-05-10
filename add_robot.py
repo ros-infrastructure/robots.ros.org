@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 
 from datetime import date
+import em
 import os
+import pprint
 import sys
 import time
 
@@ -46,13 +48,11 @@ d['image_filename'] = input("Please enter the name of the image (600px optimal) 
 
 
 
-import em
 
 with open('template_post.em', 'r') as fh:
     template = fh.read()
 expanded = em.expand(template, d)
 print("Content is:")
-import pprint
 pp = pprint.PrettyPrinter(indent=4)
 pp.pprint(d)
 
