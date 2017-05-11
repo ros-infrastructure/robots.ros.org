@@ -26,7 +26,8 @@ Anyone can contribute to the site. However, it is expected that the majority of 
 
 This site is designed to be a portal for discovery and comparison of robots with publicly documented ROS interfaces.
 
-Developer documentation should remain on the [ROS wiki](http://wiki.ros.org).
+Developer documentation should remain on the [ROS wiki](http://wiki.ros.org), usually 'http://wiki.ros.org/Robots/<RobotName>'.
+
 Pages on this site should not be the primary reference for a robot.
 It should have its own website with the majority of its marketing and promotional content.
 
