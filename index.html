@@ -52,7 +52,7 @@ layout: minimal
     </div>
     <a href="/tags"><H2>Find a robot by tag:</H2></a>
     <div class="tags">
-      {% assign tags_list = site.tags %}
+      {% assign tags_list = site.tags | sort %}
       {% if tags_list.first[0] == null %}
         {% for tag in tags_list %}
             <a href="/tags#{{ tag | slugify }}">{{ tag }}</a>
