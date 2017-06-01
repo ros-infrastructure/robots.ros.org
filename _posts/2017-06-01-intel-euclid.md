@@ -14,6 +14,7 @@ tags:
 - 'development kit'
 - 'perception'
 - 'tracking'
+answers_tagL euclid
 twitter_text: Checkout the Intel Euclid
 website: euclidcommunity.intel.com
 wiki_homepage: wiki.ros.org/IntelEuclid
