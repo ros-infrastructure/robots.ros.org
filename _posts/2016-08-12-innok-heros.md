@@ -1,20 +1,31 @@
 ---
 layout: post
-title: Innok-Heros
+title: Innok Heros
 date: 2016-08-12
-description:
+description: modular outdoor all-terrain robot platform
 icon: /assets/img/robots/innok-heros/icon.jpg
 image: /assets/img/robots/innok-heros/image.jpg
 introduction: Innok Heros is a modular outdoor all-terrain robot platform available in 2 or 4 wheel drive configurations. Due to its modular construction, it can be easily modified to suit lots of different agricultural, logistics, industrial and research applications.
 main-class: 'ground'
-color: ''
+color: '#00008c'
 tags:
 - 'ground'
 - hydro
 - indigo
+- jade
+- kinetic
+- lunar
 - 'outdoor'
-- 'rugget'
-twitter_text: Checkout the Innok-Heros
+- 'rugged'
+- 'autonomous'
+- 'diff-drive'
+- 'ground'
+- 'outdoor'
+- 'mobile base'
+- 'mobile robot'
+- 'research'
+- 'skidsteer'
+twitter_text: Checkout the Innok Heros
 website: http://www.innok-robotics.de/en/products/heros/applications/research-platform
 wiki_homepage: http://wiki.ros.org/Robots/Innok-Heros
 ---
@@ -27,13 +38,13 @@ Innok Heros is a modular outdoor all-terrain robot platform available in 2 or 4 
 
 Innok Heros is
 
- * '''very rugged'''
- * '''strong''' enough to pull a car
- * can carry '''payloads over 200kg'''
+ * very rugged
+ * strong enough to pull a car
+ * can carry payloads over 200kg
 
 Battery runtime between 3 - 16h can be expected depending on payload and usage.
 
-Innok Robotics offers '''integration of various sensors and actors''' onto the robot:
+Innok Robotics offers integration of various sensors and actors onto the robot:
 
  * Cameras
  * laser scanners
@@ -53,9 +64,8 @@ Read more about Innok Heros at its [homepage](http://www.innok-robotics.de/en/pr
 
 # ROS Compatibility
 
-Innok Heros fully supports ROS.
-
-The driver [innok_heros_driver](http://wiki.ros.org/innok_heros_driver) is released for ROS Hydro and ROS Indigo.
+Innok Heros fully supports ROS. Find more information about its driver: [innok_heros_driver](http://wiki.ros.org/innok_heros_driver)
+.
 
 The driver is using the ROS naming conventions for robot bases (e. g. "base_link" for the tf robot's tf frame and "cmd_vel" for the velocity command message). Thus it is easy to use the Innok Heros with existing ROS software such as [the navigation stack](http://wiki.ros.org/navigation) or mapping algorithms such as [hector_mapping stack](http://wiki.ros.org/hector_mapping).
 
