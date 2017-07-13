@@ -42,8 +42,7 @@ Documentation of the TurtleBot3 can be found on [TurtleBot3 wiki](http://turtleb
 
 ## TurtleBot 2e
 
-The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replacing the netbook with a single board computer
-such as the 96 Boards CE computer, the DB410c.
+The TurtleBot 2e is a new revision of the TurtleBot primarily defined by replacing the netbook with a single board computer such as the 96 Boards CE computer, the DB410c.
 
 Documentation of the TurtleBot2e can be found on github at [turtlebot/turtlebot2e]( https://github.com/turtlebot/turtlebot2e) and you can get it in pdf format [here](https://github.com/turtlebot/turtlebot2e/releases/download/0.0.1/turtlebot2e.pdf).
 
