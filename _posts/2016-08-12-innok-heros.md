@@ -64,9 +64,8 @@ Read more about Innok Heros at its [homepage](http://www.innok-robotics.de/en/pr
 
 # ROS Compatibility
 
-Innok Heros fully supports ROS.
-
-The driver [innok_heros_driver](http://wiki.ros.org/innok_heros_driver) is released for ROS Hydro and ROS Indigo.
+Innok Heros fully supports ROS. Find more information about its driver: [innok_heros_driver](http://wiki.ros.org/innok_heros_driver)
+.
 
 The driver is using the ROS naming conventions for robot bases (e. g. "base_link" for the tf robot's tf frame and "cmd_vel" for the velocity command message). Thus it is easy to use the Innok Heros with existing ROS software such as [the navigation stack](http://wiki.ros.org/navigation) or mapping algorithms such as [hector_mapping stack](http://wiki.ros.org/hector_mapping).
 
