@@ -1,20 +1,31 @@
 ---
 layout: post
-title: Innok-Heros
+title: Innok Heros
 date: 2016-08-12
-description:
+description: modular outdoor all-terrain robot platform
 icon: /assets/img/robots/innok-heros/icon.jpg
 image: /assets/img/robots/innok-heros/image.jpg
 introduction: Innok Heros is a modular outdoor all-terrain robot platform available in 2 or 4 wheel drive configurations. Due to its modular construction, it can be easily modified to suit lots of different agricultural, logistics, industrial and research applications.
 main-class: 'ground'
-color: ''
+color: '#00008c'
 tags:
 - 'ground'
 - hydro
 - indigo
+- jade
+- kinetic
+- lunar
 - 'outdoor'
-- 'rugget'
-twitter_text: Checkout the Innok-Heros
+- 'rugged'
+- 'autonomous'
+- 'diff-drive'
+- 'ground'
+- 'outdoor'
+- 'mobile base'
+- 'mobile robot'
+- 'research'
+- 'skidsteer'
+twitter_text: Checkout the Innok Heros
 website: http://www.innok-robotics.de/en/products/heros/applications/research-platform
 wiki_homepage: http://wiki.ros.org/Robots/Innok-Heros
 ---
@@ -27,13 +38,13 @@ Innok Heros is a modular outdoor all-terrain robot platform available in 2 or 4 
 
 Innok Heros is
 
- * '''very rugged'''
- * '''strong''' enough to pull a car
- * can carry '''payloads over 200kg'''
+ * very rugged
+ * strong enough to pull a car
+ * can carry payloads over 200kg
 
 Battery runtime between 3 - 16h can be expected depending on payload and usage.
 
-Innok Robotics offers '''integration of various sensors and actors''' onto the robot:
+Innok Robotics offers integration of various sensors and actors onto the robot:
 
  * Cameras
  * laser scanners
