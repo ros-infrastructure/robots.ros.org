@@ -1,0 +1,21 @@
+---
+layout: post
+title: Bulldog
+date: 2017-07-21
+description:
+icon: /assets/img/robots/bulldog/bulldog_icon.png
+image: /assets/img/robots/bulldog/bulldog.png
+introduction: The bulldog(professional Robot) is a robust and versatile middle size plazfrom designed for outdoor operations.
+main-class: 'ground'
+color: '#2828FF'
+tags:
+- 'ground'
+- 'mobile robot'
+- 'outdoor'
+- 'teleoperator'
+twitter_text: Checkout the Bulldog
+website: http://intelrope.de/category/products/mobile-robots-outdoor
+wiki_homepage: http://wiki.ros.org/Robots/Bulldog
+---
+
+TODO Fill in the long description/article here.
