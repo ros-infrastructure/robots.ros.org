@@ -14,7 +14,7 @@ d = {}
 today = date.today()
 d['date_string'] = today.strftime('%Y-%m-%d')
 while True:
-    d['title'] = nput("Please enter the robots name to be the title: ")
+    d['title'] = input("Please enter the robots name to be the title: ")
     if d['title']:
         break
 d['title_filename'] = d['title'].lower().replace(' ', '-')
