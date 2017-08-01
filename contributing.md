@@ -94,4 +94,4 @@ The `test_site.bash` script must be restarted if `_config.yml` is changed. Kill 
 
 # About the backend
 
-This site is bsased on the Cards Jekyll Template more information is in the orig.contributing.md.
+This site is based on the Cards Jekyll Template more information is in the orig.contributing.md.
