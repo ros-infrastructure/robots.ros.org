@@ -13,7 +13,7 @@ This is intended to be a community sourced website with contributions from devel
 
 Initially we will likely source material from the ROS wiki, but hope that people will continue to contribute here as they do on the wiki.
 
-Please see the CONTRIBUTIONS.md for more info on how to contribute.
+Please see the **contributing.md** for more info on how to contribute.
 
 ## Cards Jekyll Template -
 
