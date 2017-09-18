@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Clearpath Robotics Ridgeback Omnidirectional Platform
+title: Clearpath Ridgeback
 date: 2017-04-28
-description:
+description: Heavy development platform for mobile manipulation and custom payloads
 icon: /assets/img/robots/ridgeback/ridgeback_icon.png
 image: /assets/img/robots/ridgeback/ridgeback.jpg
 introduction: Ridgeback is a midsize indoor robot platform that uses an omni-drive to move manipulators and heavy payloads with ease.
 main-class: 'ground'
-color: '#FFFF00'
+color: ''
 tags:
 - 'holonomic'
 - 'indoor'
