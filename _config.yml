@@ -13,11 +13,7 @@ github_username:  ros
 gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
-<<<<<<< HEAD
-featured_robot: Turtlebot Euclid
-=======
-featured_robot: Turtlebot3
->>>>>>> 54c1fea80d66405532cb97244485ba291cddd862
+featured_robot: TurtleBot3
 
 # Build settings
 markdown: kramdown

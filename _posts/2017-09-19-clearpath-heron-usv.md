@@ -2,7 +2,7 @@
 layout: post
 title: Clearpath Heron USV
 date: 2017-09-19
-description: USV featuring a payload bay for mounting submerged sensors or equipment on deck. Comes pre-installed with Linux and ROS.
+description:
 icon: /assets/img/robots/clearpath-heron-usv/heron_icon.jpg
 image: /assets/img/robots/clearpath-heron-usv/heron_full.jpg
 introduction: Surface vessel featuring a payload bay for mounting submerged sensors or equipment on deck. Comes pre-installed with Linux and ROS.
