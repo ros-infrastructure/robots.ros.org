@@ -15,6 +15,7 @@ disqus_username: lorem_ipsum
 
 featured_robot: TurtleBot3
 
+
 # Build settings
 markdown: kramdown
 highlighter: rouge
