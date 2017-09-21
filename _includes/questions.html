@@ -24,7 +24,7 @@ jQuery.browser = {};
 })();
 jQuery(function() {
     jQuery.getFeed({
-        url: 'http://answers.ros.org/feeds/rss/?tags={{ askbot_tag }}',
+        url: 'https://answers.ros.org/feeds/rss/?tags={{ askbot_tag }}',
         success: function(feed) {
 
             jQuery('#result').append(
@@ -32,9 +32,9 @@ jQuery(function() {
             + '<h3>Answers.ros.org Recent Questions '
             + 'Tagged:  `<kbd>{{ askbot_tag }}</kbd>`</h3>'
             + '<p>Browse '
-            + '<a href="http://answers.ros.org/questions/scope:all/sort:activity-desc/tags:{{ askbot_tag }}/page:1/">recent questions</a>'
+            + '<a href="https://answers.ros.org/questions/scope:all/sort:activity-desc/tags:{{ askbot_tag }}/page:1/">recent questions</a>'
             + ' or see the '
-            + '<a href="http://answers.ros.org/questions/scope:all/sort:votes-desc/tags:{{ askbot_tag }}/page:1/">higest voted</a>'
+            + '<a href="https://answers.ros.org/questions/scope:all/sort:votes-desc/tags:{{ askbot_tag }}/page:1/">higest voted</a>'
             + '</p>'
             + '</div>');
             
