@@ -3,7 +3,7 @@ layout: post
 title: Mobility Base
 date: 2016-09-06
 description:
-icon: /assets/img/robots/mobility-base/image.jpg
+icon: /assets/img/robots/mobility-base/icon.png
 image: /assets/img/robots/mobility-base/image.jpg
 introduction: The Mobility Base is a mobile base for the Rethink Robotics Baxter robot.
 main-class: 'ground'
@@ -22,6 +22,6 @@ The Mobility Base is a mobile base for the Rethink Robotics Baxter robot. The Me
 
 The Mobility Base comes with an onboard computer, IMU, and optional laser scanners (including 360° scanners).
 
-Try out the Mobility Base with the gazebo simulation: https://bitbucket.org/DataspeedInc/mobility_base_simulator/
+Try out the Mobility Base with [the gazebo simulation](https://bitbucket.org/DataspeedInc/mobility_base_simulator/)
 
-For more information or to receive a quote, please contact mailto:info@dataspeedinc.com.
+For more information or to receive a quote, please contact [info@dataspeedinc.com](mailto:info@dataspeedinc.com).
