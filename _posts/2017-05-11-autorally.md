@@ -24,4 +24,4 @@ available along with tutorials. Build instructions for the chassis and compute b
 operating procedures are released in a separate GitHub repository. If you are interested in the platform, fork and test
 the simulation, check out the documentation, and let us know if you have any questions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1AR2-OHCxsQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1AR2-OHCxsQ" frameborder="0" allowfullscreen></iframe>

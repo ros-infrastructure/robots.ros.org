@@ -45,7 +45,7 @@ More information can be found on the website: [http://http://www.our-robotics.co
 
 ## Video
 
-<iframe type="text/html" src="http://www.youtube.com/embed/38KA7lD-92I" allowfullscreen="" width="480" height="270" frameborder="0"></iframe>
+<iframe type="text/html" src="http://www.youtube-nocookie.com/embed/38KA7lD-92I" allowfullscreen="" width="480" height="270" frameborder="0"></iframe>
 
 ## Contributing
 

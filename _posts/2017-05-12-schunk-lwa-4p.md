@@ -42,14 +42,14 @@ The lightweight arm with the world's most compact performance with three highly-
 ### Schunk LWA 4P in Motion
 
 #### Arm-hand combination for the humanoid robot research
-<iframe width="560" height="420" src="https://www.youtube.com/embed/tSNMEQTMTNg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/tSNMEQTMTNg" frameborder="0" allowfullscreen></iframe>
 SCHUNK LWA 4P lightweight arm combined with a SCHUNK SVH 5-finger hand. Complete control and diagnosis via web.
 
 #### Myo Robot Control - Intuitive Manipulation with a 6 DOF Robotic Arm and Anthropomorphic Hand
-<iframe width="560" height="420" src="https://www.youtube.com/embed/EnY56VFmAYY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/EnY56VFmAYY" frameborder="0" allowfullscreen></iframe>
 ROS enabled human-robot cooperation for fast and easy object manipulation
 6DoF Schunk PowerBall LWP4 robotic arm and SVH anthropomorphic hand are controlled over Bluetooth using the Myo armband. Both position and orientation of the Myo sensor are used to move the arm and place the hand close to the object of interest. Myo's EMG sensors detect muscle activity of the user's grasp, release gestures and trigger grasp motion of the robotic hand. Collisions with the table are avoided by using dynamic kinematic restrictions, so that the hand always stays over the table surface. The system can quickly adapt to work with any user in under one second thanks to the very fast calibration of the Myo armband.
 
 #### Motion Control of Anthropomorphic Schunk 5-Finger-Hand on Robotic Arm LWA 4P
-<iframe width="560" height="420" src="https://www.youtube.com/embed/hPtSbPzROrs" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="420" src="https://www.youtube-nocookie.com/embed/hPtSbPzROrs" frameborder="0" allowfullscreen></iframe>
 The anthropomorphic SCHUNK 5-Finger-Hand is used together with the lightweight robotic arm LWA 4P to simulate human motions. The size, weight, and flexibility of the 5-Finger-Hand are very similar to a real human hand and can be used for dexterous manipulation and gestures. A new developed ROS driver for the hand controls all nine active joints and is used together with the ROS motion driver of the 6-DOF arm. An intuitive teach-in interface with the ability to add, edit and save new key pose makes it easy to create new trajectories for a desired task. The trajectories between these key points are interpolated automatically. The hand and arm trajectories are synchronized and create smooth combined motions as shown in the video. 

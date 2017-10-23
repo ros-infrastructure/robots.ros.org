@@ -43,4 +43,4 @@ Oculus Prime SLAM Navigator is a low cost, open-source autonomous mobile robot a
 
 Please check out [xaxxon.com](http://www.xaxxon.com/oculusprime/slamnavigator) for more info and pricing
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/EnGYGacxyBc?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/EnGYGacxyBc?rel=0" frameborder="0" allowfullscreen></iframe>

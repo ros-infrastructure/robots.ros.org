@@ -80,8 +80,8 @@ To simulate Innok Heros with Gazebo [see here](http://wiki.ros.org/innok_heros_g
 
 You can find several videos of some of Innok Heros in action on our [Youtube channel](http://www.youtube.com/user/InnokRobotics).
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Kum_6XkFluY?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/T_OOAaGwLBM?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/yRacjZVGh80?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/SPhMIFlpiUU?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe width="640" height="360" src="https://www.youtube.com/embed/Wg-bU8r0l6E?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Kum_6XkFluY?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/T_OOAaGwLBM?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/yRacjZVGh80?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SPhMIFlpiUU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Wg-bU8r0l6E?rel=0" frameborder="0" allowfullscreen></iframe>
