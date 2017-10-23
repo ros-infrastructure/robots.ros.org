@@ -23,4 +23,4 @@ The Mecanumbot was designed as a software research platform.
 It features a high-performance multi-core computer, a holonomic mobile base, a 2D laser scanner, and a Microsoft Kinect.
 It is capable of teleoperation, and following a red ball.
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/6A4Kd9i8JTE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/6A4Kd9i8JTE" frameborder="0" allowfullscreen></iframe>

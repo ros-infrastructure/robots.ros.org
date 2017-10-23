@@ -35,6 +35,6 @@ The ROBOTIS-MANIPULATOR is an affordable multi-purpose manipulator designed for 
 
 ## Videos
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/VHpNbKvo0AE" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/VHpNbKvo0AE" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/Gu9PLb7F_QU" frameborder="0" allowfullscreen></iframe>
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/Gu9PLb7F_QU" frameborder="0" allowfullscreen></iframe>

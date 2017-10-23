@@ -32,7 +32,7 @@ This platform provides researchers, engineers and hackers the ability to easily 
   2. UART protocol over USB CDC device
  * ROS packages for communication, visualization and simulation.
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/rsUJatttq4Y?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rsUJatttq4Y?rel=0" frameborder="0" allowfullscreen></iframe>
 
 ## Tutorials
 
