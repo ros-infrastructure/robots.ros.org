@@ -19,7 +19,7 @@ while True:
         break
 d['title_filename'] = d['title'].lower().replace(' ', '-')
 while True:
-    d['short_description'] = input("Please enter a one or two sentance description of the robot: ")
+    d['short_description'] = input("Please enter a one or two sentence description of the robot: ")
     if d['short_description']:
         break
 d['tags'] = []
