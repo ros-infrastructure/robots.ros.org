@@ -43,13 +43,15 @@
               </div>
               {% endif %}
             </div>
-            <div> <!-- a div to hold the float image -->
-              <p class="description">{{ post.introduction }}</p>
-              <div style="clear: both;"><br></div>
+            <div class="no-scroll">
+              <div class="description-holder"> <!-- a div to hold the float image -->
+                <p class="description">{{ post.introduction }}</p>
+              </div>
             </div>
+            <div style="clear: both;"><br></div>
             </a>
             <div class="tags">
-                {% for tag in post.tags %}
+                {% for tag in post.tags limit:6 %}
                     <a href="{{site.baseurl}}/tags/#{{tag | slugify }}" >{{ tag }}</a>
                 {% endfor %}
             </div>

@@ -56,7 +56,7 @@ layout: minimal
 
     <H2>Recently Added</H2>
     <div id="grid" class="row flex-grid">
-    {% assign dateSortedPosts = (site.posts | sort: 'date') | reverse %}
+    {% assign dateSortedPosts = site.posts | sort: 'date' | reverse %}
     {% for post in dateSortedPosts limit:6 %}
         {% include box-item.html %}
     {% endfor %}
