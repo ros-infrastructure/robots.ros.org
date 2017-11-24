@@ -18,6 +18,7 @@ while True:
     if d['title']:
         break
 d['title_filename'] = d['title'].lower().replace(' ', '-')
+d['vendor'] = input("Please enter the robot's distributor, manufacturer, or vendor: ")
 while True:
     d['short_description'] = input("Please enter a one or two sentence description of the robot: ")
     if d['short_description']:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: @(title)
+vendor: @(vendor)
 date: @(date_string)
 description:
 icon: /assets/img/robots/@(title_filename)/@(icon_filename)
