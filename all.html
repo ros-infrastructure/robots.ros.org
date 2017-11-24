@@ -4,9 +4,9 @@ layout: default
 
 <main class="post-content" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div style="padding-top: 33px" id="grid" class="row flex-grid">
-    {% for post in site.posts %}
+    {% assign titleSortedPosts = site.posts | sort: 'title' %}
+    {% for post in titleSortedPosts %}
         {% include box-item.html %}
     {% endfor %}
-    {% include shuffle-items.html %}
     </div>
 </main>
