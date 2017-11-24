@@ -30,6 +30,16 @@ for theme, category-color in themes
             blockquote
                 border-left .313rem solid category-color
 
+        .post-vendor
+            font-size rem(14px)
+            color #b2bac2
+            position absolute
+            top 5px
+            padding 0 1rem
+
+        .post-container-icon
+            height 100px
+
         .header-post,
         .header-site
             background-color category-color
@@ -77,11 +87,14 @@ for theme, category-color in themes
                     border-radius 5px
                 width 50%
                 float right
+                ul
+                  list-style none
+                  margin 0
+                  padding 0 1.6rem !important
             .icon
                 flex-grow 1
                 width 50%
-                margin-left auto
-                margin-right auto
+                float left
         .robot-photo
             img
                 border-radius 15px
