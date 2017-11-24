@@ -52,8 +52,16 @@ layout: minimal
          {% include box-item.html %}
        {% endif %}
     {% endfor %}
-
     </div>
+
+    <H2>Recently Added</H2>
+    <div id="grid" class="row flex-grid">
+    {% assign dateSortedPosts = (site.posts | sort: 'date') | reverse %}
+    {% for post in dateSortedPosts limit:6 %}
+        {% include box-item.html %}
+    {% endfor %}
+    </div>
+
     <a href="/tags"><H2>Find a robot by tag:</H2></a>
     <div class="tags">
       {% assign tags_list = site.tags | sort %}
