@@ -5,9 +5,7 @@
 {% endif %}
 <article class="{{ element_class }} post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <span class="ribbon">
-          {% if post.title == site.featured_robot %}
-          <a href="{{ post.url | prepend: site.baseurl }}"><span>Featured</span></a>
-          {% endif %}
+          <a href="{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span>
         </span>
         <div class="box-body">
             <!-- <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">
@@ -19,12 +17,6 @@
             </a>
             <div> <!-- a div to hold the float image -->
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                <div class="category">
-                  <p>Robot Category:</p>
-                  <ul>
-                    <li><a href="{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a></li>
-                  </ul>
-                </div>
                 {% if post.website or post.wiki_homepage%}
                 <div class="resources">
                   <p>Resources:</p>
