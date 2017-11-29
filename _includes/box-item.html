@@ -28,6 +28,10 @@
               {% endif %}
               {% if post.website or post.wiki_homepage%}
               <div class="resources">
+                <span>Category:</span>
+                <ul>
+                  <li><a href="{{site.baseurl}}/category/{{post.main-class}}"><span>{{post.main-class}}</span></a></li>
+                </ul>
                 <span>Resources:</span>
                 <ul>
                 {% if post.website %}
@@ -40,9 +44,9 @@
               </div>
               {% endif %}
             </div>
-            <div> <!-- a div to hold the float image -->
+            <div style="clear: both;"><br></div>
+            <div>
               <p class="description">{{ post.introduction }}</p>
-              <div style="clear: both;"><br></div>
             </div>
             </a>
             <div class="tags">
