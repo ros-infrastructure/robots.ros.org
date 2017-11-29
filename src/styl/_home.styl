@@ -23,7 +23,7 @@ main
 
 .box-item, .featured-item
     flex 1 0 300px
-    margin 0 rem(15px) rem(50px)
+    margin 0 rem(15px) rem(30px)
     display inline-block
     border 1px solid #eee
     border-radius 5px
@@ -38,7 +38,6 @@ main
             .box-item
                 box-shadow 10px 10px 10px #eee
     .box-body
-        padding rem(25px)
         time
             font-size rem(14px)
             color #b2bac2
@@ -55,15 +54,30 @@ main
             font-size rem(14px)
             line-height rem(22px)
         .tags a
-            color main
-            padding rem(5px) rem(10px)
+            color #000
+            padding rem(2px) rem(2px)
+            font-size 11px
+            border none
             border-radius 3px
             display inline-block
-            margin 0 0 rem(5px)
+            margin 0 0 rem(2px)
             z-index 50
         .tags
-            position relative
-            bottom 0px
+            overflow hidden
+            height rem(30px)
+            position absolute
+            bottom -25px
+            right 5px
+        .description-holder
+            min-height 105px
+            max-height 105px
+            overflow auto
+            height auto
+
+        .no-scroll
+            overflow hidden
+
+
         img
             max-height 80px
             max-width 80px
