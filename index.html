@@ -89,6 +89,7 @@ layout: minimal
     <a href="/all"><H2>Browse all robots</H2></a>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
+      {% assign randomize = 'shuffle-order' %}
       {% include box-item.html %}
     {% endfor %}
     {% include shuffle-items.html %}
