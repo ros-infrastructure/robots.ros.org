@@ -3,11 +3,14 @@
 {% else %}
    {% assign element_class = 'box-item' %}
 {% endif %}
-<article class="{{ element_class }} post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+<article class="{{ element_class }} {{ randomize }} post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
         <span class="ribbon">
-          {% if post.title == site.featured_robot %}
+          {% for robot in site.featured_robots %}
+            {% if post.title == robot %}
           <a href="{{ post.url | prepend: site.baseurl }}"><span>Featured</span></a>
-          {% endif %}
+            {% break %}
+            {% endif %}
+          {% endfor %}
         </span>
         <div class="box-body">
             <!-- <meta itemprop="datePublished" content="{{post.date | date_to_xmlschema }}">

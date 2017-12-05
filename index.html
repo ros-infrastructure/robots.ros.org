@@ -11,16 +11,16 @@ layout: minimal
     <h2>Robot Video Montages</h2>
 
     <div class="w3-content w3-display-container">
-      <div class="slides">
+      <div class="montages">
         <iframe src="https://player.vimeo.com/video/245826128" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
-      <div class="slides">
+      <div class="montages">
         <iframe src="https://player.vimeo.com/video/146183080" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       </div>
-      <div class="slides">
+      <div class="montages">
         <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/PGaXiLZD2KQ?rel=0" frameborder="0" allowfullscreen></iframe>
       </div>
-      <div class="slides">
+      <div class="montages">
         <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/7cslPMzklVo?rel=0" frameborder="0" allowfullscreen></iframe>
       </div>
 
@@ -38,7 +38,7 @@ layout: minimal
 
       function showDivs(n) {
         var i;
-        var x = document.getElementsByClassName("slides");
+        var x = document.getElementsByClassName("montages");
         if (n > x.length) {slideIndex = 1}
         if (n < 1) {slideIndex = x.length}
         for (i = 0; i < x.length; i++) {
@@ -48,15 +48,44 @@ layout: minimal
       }
     </script>
 
-    <h2>Featured Robot</H2>
-    <div id="grid" class="row flex-grid">
-    {% for post in site.posts %}
-       {% if post.title == site.featured_robot %}
-         {% include box-item.html %}
-       {% endif %}
+    <h2>Featured Robots</H2>
+    <div class="w3-content w3-display-container">
+    {% for robot in site.featured_robots %}
+      {% for post in site.posts %}
+        {% if post.title == robot %}
+      <div class="features">
+        <div id="grid" class="row flex-grid">
+          {% include box-item.html %}
+        </div>
+      </div>
+        {% endif %}
+      {% endfor %}
     {% endfor %}
-
+    
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
     </div>
+
+    <script>
+      var featureIndex = 1;
+      showFeatureDivs(featureIndex);
+
+      function plusDivs(n) {
+        showFeatureDivs(featureIndex += n);
+      }
+
+      function showFeatureDivs(n) {
+        var i;
+        var x = document.getElementsByClassName("features");
+        if (n > x.length) {featureIndex = 1}
+        if (n < 1) {featureIndex = x.length}
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[featureIndex-1].style.display = "block";
+      }
+    </script>
+
     <a href="/tags"><H2>Find a robot by tag:</H2></a>
     <div class="tags">
       {% assign tags_list = site.tags | sort %}

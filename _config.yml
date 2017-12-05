@@ -13,7 +13,9 @@ github_username:  ros
 gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
-featured_robot: TurtleBot3
+featured_robots:
+  - TurtleBot3
+  - Turtlebot Euclid
 
 
 # Build settings
