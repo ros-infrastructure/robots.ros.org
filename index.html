@@ -109,6 +109,7 @@ layout: minimal
     {% assign tags_list = nil %}
     </div>
 
+
     <H2>Find a robot by category:</H2>
       <div id="categories_grid" class="row flex-grid">
     {% for category in site.top_level_categories %}
@@ -120,10 +121,19 @@ layout: minimal
     {% endif %}
     </a>
     </div>
-  </article>
+    </article>
     {% endfor %}
-  </div>
-    <a href="/all"><H2>Browse all robots</H2></a>
+    </div>
+
+    <H2>Recently Added</H2>
+    <div id="grid" class="row flex-grid">
+    {% assign dateSortedPosts = site.posts | sort: 'date' | reverse %}
+    {% for post in dateSortedPosts limit:2 %}
+        {% include box-item.html %}
+    {% endfor %}
+    </div>
+    <H2>All Entries (Random Order)</H2>
+    <a href="/all"><h3>Browse all in Alphabetical Order</h3></a>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
       {% assign randomize = 'shuffle-order' %}
