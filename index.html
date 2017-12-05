@@ -54,7 +54,7 @@ layout: minimal
       {% for post in site.posts %}
         {% if post.title == robot %}
       <div class="features">
-        <div id="grid" class="row flex-grid">
+        <div id="grid" class="row flex-grid feature-container">
           {% include box-item.html %}
         </div>
       </div>
@@ -62,8 +62,8 @@ layout: minimal
       {% endfor %}
     {% endfor %}
     
-      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1); stopFeatures();">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1); stopFeatures();">&#10095;</button>
     </div>
 
     <script>
@@ -83,6 +83,14 @@ layout: minimal
           x[i].style.display = "none";
         }
         x[featureIndex-1].style.display = "block";
+      }
+      function incrementFeatures() {
+        plusDivs(1);
+      }
+      var intervalID = setInterval(incrementFeatures, 10000);
+      
+      function stopFeatures() {
+        clearInterval(intervalID);
       }
     </script>
 
