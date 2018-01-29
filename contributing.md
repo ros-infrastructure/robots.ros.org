@@ -69,7 +69,7 @@ You will need to create a new post. There's a script add_robot.py which will fil
 1. Checkout your fork.
 1. Create a new branch with your robot's name.
 1. In the repository run `python3 add_robot.py` and follow the prompts.
-1. Add the icons and images into the directories as guided by the script.
+1. Add the icons and images into the directories as guided by the script. Icons should be 80x80px, Images at least 600px
 1. Fill in additional details in the generated post.
 1. Commit the changes with a descriptive commit message.
 1. Push the branch back to your fork.
