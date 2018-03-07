@@ -48,7 +48,12 @@ layout: minimal
       }
     </script>
 
+    {% if site.featured_robots.size >= 1 %}
+    {% if site.featured_robots.size > 1 %}
     <h2>Featured Robots</H2>
+    {% else %}
+    <h2>Featured Robot</H2>
+    {% endif %}
     <div class="w3-content w3-display-container">
     {% for robot in site.featured_robots %}
       {% for post in site.posts %}
@@ -62,10 +67,13 @@ layout: minimal
       {% endfor %}
     {% endfor %}
     
+    {% if site.featured_robots.size > 1 %}
       <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1); stopFeatures();">&#10094;</button>
       <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1); stopFeatures();">&#10095;</button>
+    {% endif %}
+      
     </div>
-
+    {% if site.featured_robots.size > 1 %}
     <script>
       var featureIndex = 1;
       showFeatureDivs(featureIndex);
@@ -92,7 +100,9 @@ layout: minimal
       function stopFeatures() {
         clearInterval(intervalID);
       }
-    </script>
+      </script>
+    {% endif %}
+    {% endif %}
 
     <a href="/tags"><H2>Find a robot by tag:</H2></a>
     <div class="tags">
