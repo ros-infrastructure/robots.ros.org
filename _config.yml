@@ -14,8 +14,7 @@ gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
 featured_robots:
-  - TurtleBot3
-  - Turtlebot Euclid
+  - Magni
 
 
 # Build settings
