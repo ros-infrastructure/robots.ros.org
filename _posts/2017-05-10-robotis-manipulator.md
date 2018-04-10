@@ -21,9 +21,10 @@ tags:
 twitter_text: Checkout the ROBOTIS MANIPULATOR
 website: http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/
 wiki_homepage: http://wiki.ros.org/manipulator_h
+answers_tag: manipulator_h
 ---
 
-## ROBOTIS MANIPULATOR
+## ROBOTIS MANIPULATOR-H
 The MANIPULATOR-H is Dynamixel PRO-based 6 DOF Manipulator. It supports modular structure for easy maintenance. So you can use it for multi-purpose, research and automation. The ArmSDK is based on Windows and Visual Studio. Also, we provide ROS packages for the MANIPULATOR-H.
 
 ![Manipulator Series](/assets/img/robots/robotis-manipulator/manipulator_series.png)
