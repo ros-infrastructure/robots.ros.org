@@ -7,34 +7,56 @@ icon: /assets/img/robots/robotis-manipulator/manipulator_icon.png
 image: /assets/img/robots/robotis-manipulator/manipulator.png
 introduction: The ROBOTIS-MANIPULATOR is an affordable multi-purpose manipulator designed for research and automation.
 main-class: 'component'
-color: '#000000'
+color: ''
 tags:
+- 'kinetic'
+- 'melodic'
 - 'arm'
 - 'manipulator'
+- 'education'
 - 'research'
-twitter_text: Checkout the ROBOTIS-MANIPULATOR
-website: 
-wiki_homepage: http://wiki.ros.org/ROBOTIS-MANIPULATOR-H
+- 'platform'
+- 'robotis'
+- 'dynamixel'
+twitter_text: Checkout the ROBOTIS MANIPULATOR
+website: http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/
+wiki_homepage: http://wiki.ros.org/manipulator_h
+answers_tag: manipulator_h
 ---
 
-# ROBOTIS MANIPULATOR
+## ROBOTIS MANIPULATOR-H
+The MANIPULATOR-H is Dynamixel PRO-based 6 DOF Manipulator. It supports modular structure for easy maintenance. So you can use it for multi-purpose, research and automation. The ArmSDK is based on Windows and Visual Studio. Also, we provide ROS packages for the MANIPULATOR-H.
 
-The ROBOTIS-MANIPULATOR is an affordable multi-purpose manipulator designed for research and automation.
+![Manipulator Series](/assets/img/robots/robotis-manipulator/manipulator_series.png)
 
-## Features
+## ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H
+- [ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H](http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/)
 
-* Multi-purpose, low-cost manipulator
-* 6 degrees of freedom
-* Modular structure for easy maintenance
-* Lightweight design for easy placement and transferring
-* Endures payload suitable for small to mid scale operations
-* Wide operation range
-* Suitable for repetitive and high precision operation
-* USB interface, RS-485 communication
-* Provides SDK for user programming
+## Wiki for MANIPULATOR-H Packages
+- http://wiki.ros.org/manipulator_h (metapackage)
+- http://wiki.ros.org/manipulator_h_base_module
+- http://wiki.ros.org/manipulator_h_base_module_msgs
+- http://wiki.ros.org/manipulator_h_bringup
+- http://wiki.ros.org/manipulator_h_description
+- http://wiki.ros.org/manipulator_h_gazebo
+- http://wiki.ros.org/manipulator_h_gui
+- http://wiki.ros.org/manipulator_h_kinematics_dynamics
+- http://wiki.ros.org/manipulator_h_manager
 
-## Videos
+## Open Source related to ROBOTIS-MANIPULATOR-H
+- [manipulator_h](https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H)
+- [rh_p12_rn](https://github.com/ROBOTIS-GIT/RH-P12-RN)
+- [robotis_framework](https://github.com/ROBOTIS-GIT/ROBOTIS-Framework)
+- [robotis_controller_msgs](https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs)
+- [robotis_math](https://github.com/ROBOTIS-GIT/ROBOTIS-Math)
+- [dynamixel_sdk](https://github.com/ROBOTIS-GIT/DynamixelSDK)
 
-<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/VHpNbKvo0AE" frameborder="0" allowfullscreen></iframe>
+## Documents and Videos related to ROBOTIS-MANIPULATOR-H
+- [ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H](http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/)
+- [ROBOTIS e-Manual for RH-P12-RN](http://emanual.robotis.com/docs/en/platform/rh_p12_rn/)
+- [ROBOTIS e-Manual for ROBOTIS Framework](http://emanual.robotis.com/docs/en/software/robotis_framework_packages/)
+- [ROBOTIS e-Manual for Dynamixel SDK](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
 
-<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/Gu9PLb7F_QU" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VHpNbKvo0AE" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gu9PLb7F_QU" frameborder="0" allowfullscreen></iframe>
