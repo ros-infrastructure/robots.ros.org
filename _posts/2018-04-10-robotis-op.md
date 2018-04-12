@@ -9,6 +9,17 @@ introduction: ROBOTIS OP3 is the latest miniature humanoid robot platform from R
 main-class: 'ground'
 color: ''
 tags:
+- 'kinetic'
+- 'melodic'
+- 'ground'
+- 'biped'
+- 'humanoid'
+- 'walking'
+- 'education'
+- 'research'
+- 'platform'
+- 'robotis'
+- 'dynamixel'
 twitter_text: Checkout the ROBOTIS OP
 website: http://emanual.robotis.com/docs/en/platform/op3/introduction/
 wiki_homepage: http://wiki.ros.org/robotis_op3
