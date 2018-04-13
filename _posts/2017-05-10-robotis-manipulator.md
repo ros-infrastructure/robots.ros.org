@@ -33,15 +33,15 @@ The MANIPULATOR-H is Dynamixel PRO-based 6 DOF Manipulator. It supports modular 
 - [ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H](http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/)
 
 ## Wiki for MANIPULATOR-H Packages
-- http://wiki.ros.org/manipulator_h (metapackage)
-- http://wiki.ros.org/manipulator_h_base_module
-- http://wiki.ros.org/manipulator_h_base_module_msgs
-- http://wiki.ros.org/manipulator_h_bringup
-- http://wiki.ros.org/manipulator_h_description
-- http://wiki.ros.org/manipulator_h_gazebo
-- http://wiki.ros.org/manipulator_h_gui
-- http://wiki.ros.org/manipulator_h_kinematics_dynamics
-- http://wiki.ros.org/manipulator_h_manager
+- [http://wiki.ros.org/manipulator_h](http://wiki.ros.org/manipulator_h)
+- [http://wiki.ros.org/manipulator_h_base_module](http://wiki.ros.org/manipulator_h_base_module)
+- [http://wiki.ros.org/manipulator_h_base_module_msgs](http://wiki.ros.org/manipulator_h_base_module_msgs)
+- [http://wiki.ros.org/manipulator_h_bringup](http://wiki.ros.org/manipulator_h_bringup)
+- [http://wiki.ros.org/manipulator_h_description](http://wiki.ros.org/manipulator_h_description)
+- [http://wiki.ros.org/manipulator_h_gazebo](http://wiki.ros.org/manipulator_h_gazebo)
+- [http://wiki.ros.org/manipulator_h_gui](http://wiki.ros.org/manipulator_h_gui)
+- [http://wiki.ros.org/manipulator_h_kinematics_dynamics](http://wiki.ros.org/manipulator_h_kinematics_dynamics)
+- [http://wiki.ros.org/manipulator_h_manager](http://wiki.ros.org/manipulator_h_manager)
 
 ## Open Source related to ROBOTIS-MANIPULATOR-H
 - [manipulator_h](https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H)

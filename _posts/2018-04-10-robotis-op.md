@@ -9,6 +9,17 @@ introduction: ROBOTIS OP3 is the latest miniature humanoid robot platform from R
 main-class: 'ground'
 color: ''
 tags:
+- 'kinetic'
+- 'melodic'
+- 'ground'
+- 'biped'
+- 'humanoid'
+- 'walking'
+- 'education'
+- 'research'
+- 'platform'
+- 'robotis'
+- 'dynamixel'
 twitter_text: Checkout the ROBOTIS OP
 website: http://emanual.robotis.com/docs/en/platform/op3/introduction/
 wiki_homepage: http://wiki.ros.org/robotis_op3
@@ -23,11 +34,11 @@ ROBOTIS OP3 is the latest miniature humanoid robot platform from ROBOTIS that su
 - [ROBOTIS e-Manual for ROBOTIS OP3](http://emanual.robotis.com/docs/en/platform/op3/introduction/)
 
 ## Wiki for ROBOTIS OP3 Packages
-- http://wiki.ros.org/robotis_op3
-- http://wiki.ros.org/robotis_op3_msgs
-- http://wiki.ros.org/robotis_op3_common
-- http://wiki.ros.org/robotis_op3_tools
-- http://wiki.ros.org/robotis_op3_demo
+- [http://wiki.ros.org/robotis_op3](http://wiki.ros.org/robotis_op3) 
+- [http://wiki.ros.org/robotis_op3_msgs](http://wiki.ros.org/robotis_op3_msgs)
+- [http://wiki.ros.org/robotis_op3_common](http://wiki.ros.org/robotis_op3_common)
+- [http://wiki.ros.org/robotis_op3_tools](http://wiki.ros.org/robotis_op3_tools)
+- [http://wiki.ros.org/robotis_op3_demo](http://wiki.ros.org/robotis_op3_demo)
 
 ## Open Source related to ROBOTIS OP3
 - [robotis_op3](https://github.com/ROBOTIS-GIT/ROBOTIS-OP3)
@@ -47,7 +58,6 @@ ROBOTIS OP3 is the latest miniature humanoid robot platform from ROBOTIS that su
 - [ROBOTIS e-Manual for ROBOTIS OP3](http://emanual.robotis.com/docs/en/platform/op3/introduction/)
 - [ROBOTIS e-Manual for ROBOTIS Framework](http://emanual.robotis.com/docs/en/software/robotis_framework_packages/)
 - [ROBOTIS e-Manual for Dynamixel SDK](http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
-
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HqZa0LVjk2Y" frameborder="0" allowfullscreen></iframe>
 <br>
