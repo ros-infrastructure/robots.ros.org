@@ -16,6 +16,7 @@ tags:
 - 'mobile base'
 - 'mobile robot'
 - 'wheeled'
+- 'PAL Robotics'
 twitter_text: Checkout the TIAGo Base
 website: http://pal-robotics.com/en/products/tiago-base
 wiki_homepage: http://wiki.ros.org/Robots/TIAGo-base
