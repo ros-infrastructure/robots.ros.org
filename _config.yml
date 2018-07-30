@@ -42,12 +42,12 @@ top_level_categories:
   - title: Ground
     url: ground
     image: ground.png
+  - title: Manipulator
+    url: manipulator
+    image: manipulator.png
   - title: Marine
     url: marine
     image: marine.png
-  - title: Sensor
-    url: sensor
-    image: sensor.png
 
 
 # Links to include in menu navigation
