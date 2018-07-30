@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/aubo-i-series/aubo_icon.jpg
 image: /assets/img/robots/aubo-i-series/aubo.jpg
 introduction: Aubo robotics I-Series are high-quality and low-cost industrial robots.
-main-class: 'ground'
+main-class: 'manipulator'
 color: '#d08649'
 tags:
 - 'arm'

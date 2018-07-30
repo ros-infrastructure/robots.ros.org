@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/universal_robots/icon.png
 image: /assets/img/robots/universal_robots/image.png
 introduction: This repository is part of the ROS-Industrial program. It currently contains packages that provide nodes for communication with universal robot manipulators, URDF models for supported manipulators and associated MoveIt packages.
-main-class: 'component'
+main-class: 'manipulator'
 color: '#000000'
 tags:
 - 'ROS-Industrial'
