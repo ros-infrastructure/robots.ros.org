@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/robotis-manipulator/manipulator_icon.png
 image: /assets/img/robots/robotis-manipulator/manipulator.png
 introduction: The ROBOTIS-MANIPULATOR is an affordable multi-purpose manipulator designed for research and automation.
-main-class: 'component'
+main-class: 'manipulator'
 color: ''
 tags:
 - 'kinetic'
