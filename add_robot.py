@@ -7,7 +7,7 @@ import pprint
 import sys
 import time
 
-valid_categories = ['aerial', 'component', 'ground', 'marine', 'sensor']
+valid_categories = ['aerial', 'component', 'ground', 'marine', 'manipulator']
 
 d = {}
 

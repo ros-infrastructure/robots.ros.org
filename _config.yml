@@ -45,9 +45,9 @@ top_level_categories:
   - title: Marine
     url: marine
     image: marine.png
-  - title: Sensor
-    url: sensor
-    image: sensor.png
+  - title: Manipulator
+    url: manipulator
+    image: manipulator.png
 
 
 # Links to include in menu navigation
