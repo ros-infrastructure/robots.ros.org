@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/abb-manipulators/icon.jpg
 image: /assets/img/robots/abb-manipulators/icon.jpg
 introduction: ROS-Industrial support for ABB manipulators
-main-class: 'component'
+main-class: 'manipulator'
 color: ''
 tags:
 - 'ROS-Industrial'
