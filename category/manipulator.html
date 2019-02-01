@@ -1,16 +1,16 @@
 ---
 layout: default
-main-class: 'sensor'
+main-class: 'manipulator'
 ---
 
 <main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
     <div class="header-category">
-      <img src="/assets/img/sensor.png" align="right" width="100px"/>
-      <h1 class="title-category">Sensor</h1>
+      <img src="/assets/img/manipulator.png" align="right" width="100px"/>
+      <h1 class="title-category">Manipulator</h1>
     </div>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'sensor' %}
+        {% if post.main-class == 'manipulator' %}
           {% include box-item.html %}
         {% endif %}
     {% endfor %}

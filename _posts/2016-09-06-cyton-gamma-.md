@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/cyton-gamma/icon.png
 image: /assets/img/robots/cyton-gamma/image.png
 introduction: The ROS-Cyton Module provides a ROS interface for Energid's actinSE and Robai's Cyton 7-DOF humanoid manipulators. The aim of this module is to expose actinSE and the Cyton hardware API through ROS.
-main-class: 'component'
+main-class: 'manipulator'
 color: ''
 tags:
 - '7dof'

@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/openmanipulator/openmanipulator_icon.png
 image: /assets/img/robots/openmanipulator/openmanipulator.png
 introduction: ROS-enabled OpenManipulator is a full open robot platform consisting of OpenSoftware, OpenHardware and OpenCR(Embedded board)​.
-main-class: 'component'
+main-class: 'manipulator'
 color: ''
 tags:
 - 'kinetic'

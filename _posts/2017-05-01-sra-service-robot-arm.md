@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/sra-service-robot-arm/sra_icon.png
 image: /assets/img/robots/sra-service-robot-arm/sra.png
 introduction: The Commonplace Robotics SRA Service Robot Arm is a light robot arm for mobile applications, but provides a large reach and good payload.
-main-class: 'ground'
+main-class: 'manipulator'
 color: '#6FAABC'
 tags:
 - 'arm'
