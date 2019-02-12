@@ -22,7 +22,7 @@ tags:
 - 'open hardware'
 twitter_text: Checkout the Mini-Turty II
 website: www.rhoeby.com/product/mini-turty-ii
-wiki_homepage: http://wiki.ros.org/Robots/Mini-Turty-II
+wiki_homepage: http://wiki.ros.org/Mini-Turty-II
 ---
 
 The Mini-Turty II robot represents a new level of value and functionality in a ROS navigation-capable robot. Designed with the lowest cost and complete user serviceability in mind, this robot is providing greatly improved access to advanced robotics navigation, and much more!
