@@ -19,7 +19,7 @@ tags:
 - 'mobile base'
 twitter_text: Checkout the Open Rover
 website: https://roverrobotics.com/
-wiki_homepage: http://wiki.ros.org/rover_robotics
+wiki_homepage: http://wiki.ros.org/Robots/rover_robotics
 ---
 
 # Rover Robotics, see what you can build
