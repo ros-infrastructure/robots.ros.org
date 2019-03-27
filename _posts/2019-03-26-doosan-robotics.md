@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doosan-robotics
+title: Doosan-Robot
 date: 2019-03-26
 description:
 icon: /assets/img/robots/doosan-robotics/icon.png
