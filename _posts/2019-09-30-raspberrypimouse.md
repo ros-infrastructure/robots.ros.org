@@ -29,8 +29,6 @@ This robot complies with the rules of the micro-mice and can compete in the tour
 
 ## Features
 
-- Learn Linux, the world standard OS 
-- You can learn from the programing to the networking with this robot.
 - You can take advantage of your Raspberry Pi (3b, 2b, B +).
 - It supports a variety of programming languages, including Python, C++, and Java.
 - Compatible with ROS for robot-controlled middleware
