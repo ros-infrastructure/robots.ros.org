@@ -17,7 +17,7 @@ tags:
 - 'research'
 twitter_text: Checkout the RaspberryPiMouse
 website: https://www.rt-net.jp/products/raspimouse2?lang=en
-wiki_homepage: http://wiki.ros.org/ja/raspimouse_ros
+wiki_homepage: http://wiki.ros.org/raspimouse_ros
 ---
 
 # Raspberry Pi Mouse
