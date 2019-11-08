@@ -3,7 +3,8 @@ MAINTAINER Tully Foote<tfoote@osrfoundation.org>
 
 
 ENV DEBIAN_FRONTEND noninteractive
-RUN apt-get update && apt-get install -q -y curl net-tools python python-yaml build-essential ruby-dev nodejs npm
+RUN apt-get update
+RUN apt-get install -q -y curl net-tools python python-yaml build-essential ruby nodejs npm
 
 RUN gem install jekyll -v 2.5.3 --no-rdoc --no-ri
 RUN gem install jekyll-sitemap --no-rdoc --no-ri
