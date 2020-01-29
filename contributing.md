@@ -35,7 +35,7 @@ It should have its own website with the majority of its marketing and promotiona
 ## Featured Spotlight
 
 Robots may be promoted to the spotlight on the home page.
-To inquire about being promoted please contact info@osrfoundation.org .
+To inquire about being promoted please contact business@osrfoundation.org .
 
 ## How to contribute
 
