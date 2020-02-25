@@ -1,0 +1,21 @@
+I"�<p>The <a href="http://www.asctec.de/">AscTec</a> Pelican and Hummingbird quadrotor helicopters are built by Ascending Technologies and can be interfaced with ROS.</p>
+
+<h1 id="installation">Installation</h1>
+
+<p>Refer to the <a href="http://wiki.ros.org/astec_drivers">asctec_drivers</a> and <a href="http://wiki.ros.org/mav_tools">mav_tools</a> installation instructions.</p>
+
+<h1 id="tutorials">Tutorials</h1>
+
+<p>To get started with the driver, refer to the tutorials on the [[asctec_drivers](http://wiki.ros.org/asctec_drivers]] and [[mav_tools]] installation instructions.</p>
+
+<h2 id="tutorials-1">Tutorials</h2>
+<p>To get started with the driver, refer to the tutorials on the [[asctec_drivers) page.</p>
+
+<h1 id="resources">Resources</h1>
+
+<ul>
+  <li><a href="http://robotics.ccny.cuny.edu/wiki/AscTec">AscTec Wiki</a>: a community wiki maintained by the <a href="http://robotics.ccny.cuny.edu">CCNY Robotics Lab</a>. It contains useful information about the !AscTec quadrotors’ software and hardware.</li>
+  <li><a href="http://asctec-users.986163.n3.nabble.com">AscTec Users mailing list</a> community mailing list, maintained by the<a href="http://robotics.ccny.cuny.edu">CCNY Robotics Lab</a>.</li>
+  <li><a href="http://wiki.ros.org/http://answers.ros.org">http://answers.ros.org</a>: the ROS question-and-answer board. Please tag you questions with “ccny-ros-pkg” as well as any other relevant tags</li>
+</ul>
+:ET

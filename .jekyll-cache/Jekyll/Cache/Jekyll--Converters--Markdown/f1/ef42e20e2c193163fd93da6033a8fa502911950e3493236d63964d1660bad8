@@ -1,0 +1,26 @@
+I"�<p>Hamster is a robust micro Autonomous Unmanned Ground Vehicle.  It has a capable motor and 4WD (differential).</p>
+
+<p>Hamster is capable of powering carrying and interfacing various payloads and arrives with the following sensors</p>
+
+<ul>
+  <li>360 Lidar Indoor / can be upgraded to outdoor optics</li>
+  <li>HD video streaming / can be upgraded to 3D depth camera</li>
+  <li>2 x Rapsberry PI2</li>
+  <li>IMU and GPS</li>
+  <li>Built in Mapping and Localization</li>
+  <li>ROS (indigo/jade support)</li>
+  <li>PID control</li>
+  <li>1.2m/s speed</li>
+  <li>Battery monitoring / custom Lipo cutoff HW and SW</li>
+  <li>Wifi AC 2.4 or 5Gh for long range communication</li>
+</ul>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/f9Y_g1P_gz0?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Read more at: http://cogniteam.com/hamster4.html</p>
+
+<p>Hamster for Autonomy Research</p>
+
+<p>“Intelligent Agent Supporting Human-Multi-Robot Team Collaboration” by Ariel Rosenfeld, Oleg Maksimov, Noa Agmon and Sarit Kraus has been awarded the BEST ROBOTICS VIDEO prize at the IJCAI 2015 video competition. It uses Hamster V3 robots.
+https://vimeo.com/119434903</p>
+:ET

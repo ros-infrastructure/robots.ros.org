@@ -1,0 +1,10 @@
+I"<p>The Omron Adept MobileRobots Pioneer 3-AT is a rugged general purpose
+four-wheel skid-steer mobile robot platform with several options including
+sensors, onboard computer, autonomous navigation software, gripper, 
+and more.</p>
+
+<p>The Pioneer 3 can be used in ROS using the “rosaria”, “rosarnl”, or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

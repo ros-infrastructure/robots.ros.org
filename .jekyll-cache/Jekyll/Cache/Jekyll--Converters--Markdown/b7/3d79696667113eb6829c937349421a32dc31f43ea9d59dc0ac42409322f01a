@@ -1,0 +1,10 @@
+I"<p>The Omron Adept MobileRobots AmigoBot is a small, durable general purpose
+differential-drive mobile robot platform. The AmigoBot can receive motion
+commands and provide data via a wifi connection, or by adding your own small
+low-power computer.</p>
+
+<p>The AmigoBot can be used in ROS using the “rosaria” or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

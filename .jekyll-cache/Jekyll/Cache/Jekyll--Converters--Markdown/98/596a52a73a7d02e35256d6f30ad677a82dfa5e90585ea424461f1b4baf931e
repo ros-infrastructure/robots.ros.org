@@ -1,0 +1,30 @@
+I"∆<p>ROS Software Maintainer: Roberto Guzman, Rom√°n Navarro</p>
+
+<p>AGVS robot is a robot for logistics transport. It is motorized by two motors controlling direction and traction. The robot has a low profile chassis, making it suitable for movement under hospital roller containers.</p>
+
+<p>This mobile robot provides two safety laser rangefinders (rear and front) for objects detection.</p>
+
+<p>The robot is equipped with a mechanical braking system which acts in case of power loss or failure. The braking distance is calculated depending on the load conditions, velocity, slope, wheels waste or friction. The laser sensor adjusts the braking distance with the maximum load and velocity.</p>
+
+<p>The kinematic configuration of the robot allows the following of curves in an optimal way.</p>
+
+<p>This stack provides all the necessary packages for simulating in Gazebo and VREP.</p>
+
+<h2 id="related-repositories">Related Repositories</h2>
+
+<ul>
+  <li><a href="http://wiki.ros.org/agvs">agvs</a> (Only Hydro)</li>
+  <li><a href="http://wiki.ros.org/agvs_common">agvs_common</a></li>
+  <li><a href="http://wiki.ros.org/agvs_sim">agvs_sim</a></li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TKDtkkpsuiw?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="more-information">More Information</h2>
+
+<ul>
+  <li><a href="http://www.robotnik.eu/mobile-robots/autonomous-agvs/"> Robotnik AGVS</a></li>
+</ul>
+:ET

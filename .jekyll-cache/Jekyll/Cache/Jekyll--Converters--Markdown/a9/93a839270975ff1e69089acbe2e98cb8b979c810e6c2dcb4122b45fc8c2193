@@ -1,0 +1,6 @@
+I"p<p>Crazyflie is an open-source and open-hardware nano quadcopter made by <a href="https://www.bitcraze.io">Bitcraze</a>. 
+There are two models available: <a href="https://wiki.bitcraze.io/projects:crazyflie:index">Crazyflie 1</a> is the older discontinued version, weighing just 19g. 
+<a href="https://wiki.bitcraze.io/projects:crazyflie2:index">Crazyflie 2.0</a> is the current model with more features but slightly heavier (27g).</p>
+
+<p>Both are supported by ROS and can be controlled from a host computer using a special USB dongle called <a href="https://wiki.bitcraze.io/projects:crazyradio:index">Crazyradio</a>.</p>
+:ET

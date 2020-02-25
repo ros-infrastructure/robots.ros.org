@@ -1,0 +1,50 @@
+I"#<h1 id="aubo-robotics-i-series">Aubo Robotics I-Series</h1>
+
+<p>Aubo robotics I-Series are high-quality and low-cost industrial robots with a fully modulized design.
+The robotics can be configured 4 to 7 degrees of freedom to meet specific requirements.
+I-series robots adopt open source software architecture, which is convenient for users and developers to inregrate existing software and algorithms.
+Compared with the industral robots with similar features and payloads, I-series robots are compact, light weight, high accuray, and easy to instal and program.</p>
+
+<ul>
+  <li>Modulized design
+    <ul>
+      <li>User can configure 4-7 degrees of freedom to meet specific requirements.</li>
+    </ul>
+  </li>
+  <li>Light weight
+    <ul>
+      <li>Manipulator is less than 20kg,the ratio of maximun payload and weight is 1:4.</li>
+    </ul>
+  </li>
+  <li>Openness
+    <ul>
+      <li>Provides a ROS API</li>
+    </ul>
+  </li>
+  <li>Safety
+    <ul>
+      <li>Collision detection function. emergency brake distance is less than 1mm.</li>
+    </ul>
+  </li>
+  <li>Easy operation
+    <ul>
+      <li>Provides a graphic user interface to enable online programming and simulation.</li>
+    </ul>
+  </li>
+  <li>Intelligence
+    <ul>
+      <li>Based on a cloud platform with remote maintenance, fault diagnosis, and online upgrading.</li>
+    </ul>
+  </li>
+</ul>
+
+<p>More information can be found on the website: <a href="http://http://www.our-robotics.com">http://http://www.our-robotics.com</a></p>
+
+<h2 id="video">Video</h2>
+
+<iframe type="text/html" src="http://www.youtube-nocookie.com/embed/38KA7lD-92I" allowfullscreen="" width="480" height="270" frameborder="0"></iframe>
+
+<h2 id="contributing">Contributing</h2>
+
+<p>If you would like to contribute to the ROS software for Aubo Robot please contact liuxin@our-robotics.com .</p>
+:ET

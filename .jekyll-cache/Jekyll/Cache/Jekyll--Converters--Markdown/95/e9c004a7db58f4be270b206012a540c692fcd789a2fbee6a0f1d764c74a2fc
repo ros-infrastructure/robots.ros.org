@@ -1,0 +1,6 @@
+I"µ<p>Erle-copter is a Linux-based drone that uses the award winning APM:Copter autopilot software.
+Itâ€™s capable of the different flight modes and ideal for outdoor operations.
+It has been designed for an extended flight time and it can carry a takeoff weight of about 2 kilograms.</p>
+
+<p>Erle-copter is powered by Erle-brain Linux autopilot which includes ROS and communicates with the flight software using the mavros ROS package.</p>
+:ET

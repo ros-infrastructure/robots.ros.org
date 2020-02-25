@@ -1,0 +1,6 @@
+I"Þ<p>Romeo is a humanoid robot built by <a href="https://www.ald.softbankrobotics.com/en">Aldebaran</a>. 
+The ROS Romeo description was originally developed by LAAS <a href="https://github.com/laas/romeo">laas/romeo stack</a>. 
+Since the robot uses Aldebaranâ€™s NaoQI framework, we can use <a href="http://wiki.ros.org/naoqi_driver">naoqi_driver</a>
+ROS driver that is common for Nao, Pepper, and Romeo. 
+It wraps the needed parts of NaoQI API and makes it available in ROS.</p>
+:ET

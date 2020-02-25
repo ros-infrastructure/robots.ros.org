@@ -1,0 +1,23 @@
+I"
+<h1 id="elfin">Elfin</h1>
+
+<p>The Elfin is a 6 DOF manipulator built by Han’s Robot Co., Ltd. The <a href="https://github.com/hans-robot/elfin_robot">elfin_robot</a> software package uses ROS extensively. There are many capabilities that are available via ROS messages, services or actions. See this <a href="http://wiki.ros.org/Robots/Elfin">wiki</a> for more information.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>6 degrees of freedom</li>
+  <li>reasonable price</li>
+  <li>useful for integrated automatic production line, assembly, etc.</li>
+  <li>perfect for advanced manipulation research</li>
+  <li>modular structure for easy maintenance</li>
+  <li>wide operation range</li>
+  <li>provides support packages</li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/cvP4fJXXBFo" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/lBYbnbrK4jY" frameborder="0" allowfullscreen=""></iframe>
+:ET

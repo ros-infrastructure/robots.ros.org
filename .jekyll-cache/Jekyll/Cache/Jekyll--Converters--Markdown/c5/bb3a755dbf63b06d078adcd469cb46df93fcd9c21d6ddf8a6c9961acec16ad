@@ -1,0 +1,28 @@
+I"—<p>The mobile platform RBCAR has RWD Ackerman kinematics. The traction is controlled by an AC motor with incremental encoder and the direction through a power steering system with absolute encoder.</p>
+
+<p>Thanks to its mechanical structure and the rear drawer, this mobile platform can carry heavy loads. With the configuration of suitable sensors, the robot can navigate autonomously, teleoperated with a joystick or a steering wheel, as an electric vehicle.</p>
+
+<h2 id="related-repositories">Related Repositories</h2>
+<ul>
+  <li>
+    <p><a href="rbcar_sim">rbcar_sim</a>: Contains the Robotnik Car simulation packages.</p>
+  </li>
+  <li>
+    <p><a href="rbcar_common">rbcar_common</a>: Contains the Robotnik Car common packages.</p>
+  </li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/trNhTNRatk8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="more-information">More Information</h2>
+<ul>
+  <li>
+    <p><a href="http://www.robotnik.eu/mobile-robots/rbcar/">Robotnik RBCAR</a></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/RobotnikAutomation">Robotnik Github</a></p>
+  </li>
+</ul>
+:ET

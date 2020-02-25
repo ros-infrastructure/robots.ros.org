@@ -1,0 +1,60 @@
+I"[<h2 id="dynamixel">Dynamixel</h2>
+<p><img src="/assets/img/robots/dynamixel/dynamixel.png" alt="dynamixel" /></p>
+
+<p>Dynamixel (Dynamic + Cell) is a high-performance, all-in-one actuator designed for multi-jointed robot configurations.</p>
+
+<ul>
+  <li>Dynamixel is <strong>versatile</strong>. The actuators have been used in a wide variety of applications, from humanoid robots to manipulators.</li>
+  <li>Dynamixel is <strong>integrated</strong>. Each Dynamixel unit features DC motor, controller, driver, sensor, reduction gear, and network integrated into one module.</li>
+  <li>Dynamixel is <strong>modular, expandable,</strong> and <strong>reconfigurable</strong>. The actuators can be used for any system to fit the user’s needs and the system can be easily modified.</li>
+  <li>Dynamixels are driven by <strong>digital packet communication</strong>. The main communication protocol is half-duplex UART (8-bit, no parity, 1 stop). It supports TTL, RS485, or CAN networks. Dynamixel communicates with the main controller by sending and receiving packets of data on a bus.</li>
+  <li>Dynamixels can be **daisy chained. **Multiple Dynamixels can be wired together, allowing for easy system expansion.</li>
+  <li>Each Dynamixel contains a Control Table consisting of data (registers) that are readable and writable. Readable registers can provide **feedback **regarding the status of Dynamixel, including information regarding internal temperature, position, speed, torque, voltage, etc. By enabling the Alarm Shutdown and Alarm LED registers, Dynamixel can protect itself against overheating, overload, etc.</li>
+  <li>Dynamixels are <strong>energy efficient</strong> and <strong>stable</strong>. They are powered by high voltage and consume low current.</li>
+</ul>
+
+<p>The <a href="http://wiki.ros.org/dynamixel_sdk">dynamixel_sdk</a> is a ROS wrapper for the <strong>ROBOTIS Dynamixel SDK</strong>. The ROBOTIS Dynamixel SDK is a software development library that provides Dynamixel control functions for packet communication. The <a href="http://wiki.ros.org/dynamixel_workbench">dynamixel_workbench</a> is dynamixel solution for ROS. This metapackage allows you to easily change the ID, baudrate and operating mode of the Dynamixel. Furthermore, it supports various controllers based on operating mode and Dynamixel SDK. The API is designed for Dynamixel actuators and Dynamixel-based platforms like <a href="http://wiki.ros.org/turtlebot3">TurtleBot3</a>, <a href="http://wiki.ros.org/open_manipulator">OpenManipulator</a>, <a href="http://wiki.ros.org/robotis_op3">ROBOTIS OP3</a>, <a href="http://wiki.ros.org/thormang3_mpc">THORMANG3</a>, <a href="http://wiki.ros.org/manipulator_h">MANIPULATOR-H</a>, <a href="http://wiki.ros.org/rh_p12_rn">RH_P12_RN</a>.</p>
+
+<p><img src="/assets/img/robots/dynamixel/dynamixel_solution.png" alt="dynamixel_solution" /></p>
+
+<h2 id="robotis-e-manual-for-dynamixel">ROBOTIS e-Manual for Dynamixel</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/">ROBOTIS e-Manual for Dynamixel and Platforms using Dynamixel</a></li>
+</ul>
+
+<h2 id="wiki-for-dynamixel">Wiki for Dynamixel</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/dynamixel">http://wiki.ros.org/dynamixel</a></li>
+  <li><a href="http://wiki.ros.org/dynamixel_sdk">http://wiki.ros.org/dynamixel_sdk</a></li>
+  <li><a href="http://wiki.ros.org/dynamixel_workbench">http://wiki.ros.org/dynamixel_workbench</a></li>
+</ul>
+
+<h2 id="open-source-related-to-dynamixel">Open Source related to Dynamixel</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/dynamixel-workbench">dynamixel_workbench</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework">robotis_framework</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3">turtlebot3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/open_manipulator">open_manipulator</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3">robotis_op3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC">thormang3_mpc</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H">manipulator_h</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/RH-P12-RN">rh_p12_rn</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR">OpenCR</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR-Hardware">OpenCR-Hardware</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCM9.04">OpenCM 9.04</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-dynamixel">Documents and Videos related to Dynamixel</h2>
+<ul>
+  <li><a href="http://en.robotis.com/model/page.php?co_id=actuator">What is a Dynamixel?</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/">ROBOTIS e-Manual for Dynamixel Workbench</a></li>
+  <li><a href="https://www.youtube.com/user/ROBOTISCHANNEL/videos">YouTube Channel of ROBOTIS</a></li>
+  <li><a href="https://www.youtube.com/c/ROBOTISOpenSourceTeam">YouTube Channel of ROBOTIS OpenSourceTeam</a></li>
+  <li><a href="https://community.robotsource.org/">Community for People Making Robots</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gZWoyCvU-U8" frameborder="0" allowfullscreen=""></iframe>
+
+:ET

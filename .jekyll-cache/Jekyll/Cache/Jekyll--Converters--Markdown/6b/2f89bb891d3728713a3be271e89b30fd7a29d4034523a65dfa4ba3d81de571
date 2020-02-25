@@ -1,0 +1,54 @@
+I"~<h2 id="panther">Panther</h2>
+
+<p>Panther (Powerful Autonomous eNTity High-End Robot) is an outdoor tracked robot, with a ZED stereocamera and an NVIDIA Jetson TX2, this robot can interact with all objects around it.</p>
+
+<p>This robot can climbs little rocks and little bumps. it is heavy with 9kg and with the big size 42cm with, 40cm deep and 30cm height, have a ground clearance of 7cm. The tracks have a particular damping system, with three different dampers to absorbe all vibration when the robot drift on the grass.</p>
+
+<h3 id="characteristics">Characteristics:</h3>
+<ul>
+  <li>Dimensions: 42 x 40 x 30 cm</li>
+  <li>Ground clearance: 7cm</li>
+  <li>Weight: 11 Kg</li>
+  <li>Electronics and sensors:
+    <ul>
+      <li><a href="http://www.nvidia.com/object/embedded-systems-dev-kits-modules.html">NVIDIA Jetson TX2</a></li>
+      <li><a href="http://rnext.it/project/unav/">unav board</a> or roboteq SDC2130</li>
+      <li><a href="https://www.stereolabs.com/">ZED stereloabs camera</a></li>
+      <li>2x encoder 1024 CPR</li>
+      <li>LIDAR (upgrade coming soon)</li>
+    </ul>
+  </li>
+  <li>Motors:
+    <ul>
+      <li>2x P2052416 - 52.8W - 150Ncm</li>
+    </ul>
+  </li>
+  <li>Battery:
+    <ul>
+      <li>6S1P LiPo battery 22.2V - 5Ah</li>
+    </ul>
+  </li>
+  <li>Materials:
+    <ul>
+      <li>Makerbeam’s frame</li>
+      <li>Cover and Tracks in transparent PVC</li>
+    </ul>
+  </li>
+  <li>Other:
+    <ul>
+      <li>2 speakers</li>
+      <li>2 microphones</li>
+      <li>OLED strips</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Project author: <a href="http://rnext.it/raffaello-bonghi">Raffaello Bonghi</a></p>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r_Z3NF-z5V8" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fnjxk0AlESU" frameborder="0" allowfullscreen=""></iframe>
+
+:ET

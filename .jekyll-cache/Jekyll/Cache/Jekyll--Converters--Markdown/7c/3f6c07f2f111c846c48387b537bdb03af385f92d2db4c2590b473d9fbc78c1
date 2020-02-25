@@ -1,0 +1,12 @@
+I"�<p>The Omron Adept MobileRobots Seekur Jr is a rugged general purpose
+differential-drive skid-steer mobile robot platform capable of 
+outdoor use. It includes a motion controller and high-torque drive
+motors standard, and options include one or more internal onboard computers, 
+laser sensor, GPS, autonomous navigation software (using both laser and
+GPS sensor), and more.</p>
+
+<p>The Seekur Jr can be used in ROS using the “rosaria”, “rosarnl”, or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

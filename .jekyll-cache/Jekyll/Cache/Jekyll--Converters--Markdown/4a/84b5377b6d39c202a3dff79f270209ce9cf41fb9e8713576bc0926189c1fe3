@@ -1,0 +1,10 @@
+I"�<p>ROS Software Maintainer: <a href="http://dataspeedinc.com/">Dataspeed Inc.</a></p>
+
+<p>The Mobility Base is a mobile base for the Rethink Robotics Baxter robot. The Mecanum wheel system enables any combination of translation and rotation. The base can move forward, backward, or sideways while independently controlling its rotation. The base is able to travel on most flat surfaces like carpet, tile, cement and asphalt. The compact footprint (32” by 31”) enables Baxter to travel through office hallways and doorways on a Mobility Base.</p>
+
+<p>The Mobility Base comes with an onboard computer, IMU, and optional laser scanners (including 360° scanners).</p>
+
+<p>Try out the Mobility Base with <a href="https://bitbucket.org/DataspeedInc/mobility_base_simulator/">the gazebo simulation</a></p>
+
+<p>For more information or to receive a quote, please contact <a href="mailto:info@dataspeedinc.com">info@dataspeedinc.com</a>.</p>
+:ET

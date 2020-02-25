@@ -1,0 +1,45 @@
+I"5<h2 id="robotis-manipulator-h">ROBOTIS MANIPULATOR-H</h2>
+<p>The MANIPULATOR-H is Dynamixel PRO-based 6 DOF Manipulator. It supports modular structure for easy maintenance. So you can use it for multi-purpose, research and automation. The ArmSDK is based on Windows and Visual Studio. Also, we provide ROS packages for the MANIPULATOR-H.</p>
+
+<p><img src="/assets/img/robots/robotis-manipulator/manipulator_series.png" alt="Manipulator Series" /></p>
+
+<h2 id="robotis-e-manual-for-robotis-manipulator-h">ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/">ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H</a></li>
+</ul>
+
+<h2 id="wiki-for-manipulator-h-packages">Wiki for MANIPULATOR-H Packages</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/manipulator_h">http://wiki.ros.org/manipulator_h</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_base_module">http://wiki.ros.org/manipulator_h_base_module</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_base_module_msgs">http://wiki.ros.org/manipulator_h_base_module_msgs</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_bringup">http://wiki.ros.org/manipulator_h_bringup</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_description">http://wiki.ros.org/manipulator_h_description</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_gazebo">http://wiki.ros.org/manipulator_h_gazebo</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_gui">http://wiki.ros.org/manipulator_h_gui</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_kinematics_dynamics">http://wiki.ros.org/manipulator_h_kinematics_dynamics</a></li>
+  <li><a href="http://wiki.ros.org/manipulator_h_manager">http://wiki.ros.org/manipulator_h_manager</a></li>
+</ul>
+
+<h2 id="open-source-related-to-robotis-manipulator-h">Open Source related to ROBOTIS-MANIPULATOR-H</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H">manipulator_h</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/RH-P12-RN">rh_p12_rn</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework">robotis_framework</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs">robotis_controller_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Math">robotis_math</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-robotis-manipulator-h">Documents and Videos related to ROBOTIS-MANIPULATOR-H</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/">ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/rh_p12_rn/">ROBOTIS e-Manual for RH-P12-RN</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/robotis_framework_packages/">ROBOTIS e-Manual for ROBOTIS Framework</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VHpNbKvo0AE" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Gu9PLb7F_QU" frameborder="0" allowfullscreen=""></iframe>
+:ET

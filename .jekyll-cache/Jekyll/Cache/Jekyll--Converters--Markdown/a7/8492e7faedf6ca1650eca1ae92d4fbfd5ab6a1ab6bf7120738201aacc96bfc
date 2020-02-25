@@ -1,0 +1,21 @@
+I"1<h1 id="hans-cute">Han’s Cute</h1>
+
+<p>Han’s Cute is an affordable 7-DOF manipulator designed for research and automation. See this <a href="http://wiki.ros.org/Robots/Hans-Cute">wiki</a> for more information.</p>
+
+<h2 id="features">Features</h2>
+
+<ul>
+  <li>7 degrees of freedom</li>
+  <li>reasonable price</li>
+  <li>perfect for advanced manipulation research</li>
+  <li>Modular structure for easy maintenance</li>
+  <li>Lightweight design, wide operation range</li>
+  <li>Provides support packages</li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/anD7Wg-Wj2o" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="480" height="270" src="https://www.youtube-nocookie.com/embed/d_LGRPX4C8k" frameborder="0" allowfullscreen=""></iframe>
+:ET

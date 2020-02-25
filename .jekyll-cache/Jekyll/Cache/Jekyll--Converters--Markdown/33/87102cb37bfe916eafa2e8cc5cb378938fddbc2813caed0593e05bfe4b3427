@@ -1,0 +1,28 @@
+I"�	<h2 id="robai-cyton-gamma-7dof-arm">Robai Cyton Gamma 7DOF Arm</h2>
+
+<p>'’ROS Software Maintainers: <a href="http://www.robai.com">Robai</a>, <a href="http://www.lentinjoseph.com">Lentin Joseph</a></p>
+
+<p>'’The ROS-Cyton Module provides a ROS interface for ‘'’Energid’s actinSE’’’ and Robai’s Cyton 7-DOF humanoid manipulators. The aim of this module is to expose actinSE and the Cyton hardware API through ROS . ‘’</p>
+
+<p>'’Source : git clone https://code.google.com/p/cyton-ros-pkg/ ‘’</p>
+
+<h2 id="overview">Overview</h2>
+<p>'’Using the ROS-‘‘actionlib’’ a user can access the methods of Actin-SE and the Cyton hardware API. The methods included allow for direct, real-time control of the Cyton robot arms in both jointspace and end-effector modes. ‘’</p>
+
+<p>'’The module consist of six nodes named as follows: ‘‘actinSE_node’’ ,’‘cyton’’ ,’‘guide frame’’ ,’‘hardware’’ ,’‘send joints ‘‘,and ‘‘set home’’ .The core node(action server) is called ‘‘actinse’’. The actinse node accepts end effector (EE) coordinates and publishes joint values and joint rates. The node which sends EE coordinates is called the ‘‘guide frame node’’. It can be any program which is configured to send EE coordinates to a particular topic .The cyton node will subscribe to the output of the ‘‘actinse node’’ and send the valued to the cyton arm using the cyton hardware API (or the hardware node). The set home node moves the cyton to a default home position . ‘’</p>
+
+<p>'’Cyton can also be directly controlled using joint space values. There are two nodes for doing this task, the ‘‘hardware node’’ and send joints node. The ‘‘hardware node’’ is an action server which will receive the joint values from the send_joints action client and publishes to a topic. The ‘‘cyton node’’ will subscribe to the topic and move the cyton according to the joint values. ‘’</p>
+
+<h2 id="detailed-description">Detailed Description</h2>
+<p>'’For additional details on the control interface or Actin please see the Actin-SE API or the Cyton Hardware Interface API. ‘’</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>’’[[http://www.robai.com/content/docs/ActinSE_docs/index.html</td>
+      <td>ActinSE API’s]] [[http://www.robai.com/content/docs/HardwareInterface_docs/index.html</td>
+      <td>Cyton Hardware API’s]] ‘’</td>
+    </tr>
+  </tbody>
+</table>
+:ET

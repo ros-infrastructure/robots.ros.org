@@ -1,0 +1,29 @@
+I"Í<p>RB-1 BASE is an indoor robot platform designed for general applications. The mobile robot can carry different loads or materials and can integrate other components or platforms such as a robotic arm or a torso.</p>
+
+<p>The mobile platform can integrate a wide number of laser range finders with operation distances from 5 to 30-60 meters. RGBD sensors (Asus Xtion, Kinect One, etc.) can be mounted on the top of the platform for the detection of obstacles.</p>
+
+<p>The robot is able to detect obstacles in two different ways, by RGBD sensor installed and by the laser sensor that is used for navigation and positioning. In both cases, the robot can either stop or find an alternative route to avoid the obstacle and reach the next waypoint.</p>
+
+<p>The software includes a control system, a tracking system (laser-based), a navigation system and a user interface HMI (basic).</p>
+
+<p>The location and navigation components are standard packages that are configured to suit the application. The software for the low-level control system is supplied with the platform.</p>
+
+<p>As all Robotnik robots, RB-1 BASE is fully customizable and based on native ROS.</p>
+
+<h2 id="related-repositories">Related Repositories</h2>
+
+<ul>
+  <li><a href="https://github.com/RobotnikAutomation/rb1_base_common">rb1_base_common</a></li>
+  <li><a href="https://github.com/RobotnikAutomation/rb1_base_sim">rb1_base_sim</a></li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0gasC6AY5pA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="more-information">More Information</h2>
+
+<ul>
+  <li><a href="http://www.robotnik.eu/mobile-robots/rb-1-base/"> Robotnik Rb-1 base</a></li>
+</ul>
+:ET

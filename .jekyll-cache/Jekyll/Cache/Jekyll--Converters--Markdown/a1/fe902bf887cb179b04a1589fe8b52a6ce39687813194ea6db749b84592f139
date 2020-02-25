@@ -1,0 +1,50 @@
+I"©<h2 id="rh-p12-rn">RH-P12-RN</h2>
+<p>The RH-P12-RN is 1-DOF two-finger hand. It supports DYNAMIXEL 2.0 protocol via DYNAMIXEL BUS. This hand designed for adaptive gripping, so you can use it for adaptive gripping for various shapes of objects. Also, it supports torque control and current-based position control make it possible to pick up objects of various materials.</p>
+
+<p><img src="/assets/img/robots/rh-p12-rn/rh_p12_rn.png" alt="RH-P12-RN" /></p>
+
+<h2 id="robotis-e-manual-for-rh-p12-rn">ROBOTIS e-Manual for RH-P12-RN</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/rh_p12_rn/">ROBOTIS e-Manual for RH-P12-RN</a></li>
+</ul>
+
+<h2 id="wiki-for-rh-p12-rn-packages">Wiki for RH-P12-RN Packages</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/rh_p12_rn">http://wiki.ros.org/rh_p12_rn</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_base_module">http://wiki.ros.org/rh_p12_rn_base_module</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_base_module_msgs">http://wiki.ros.org/rh_p12_rn_base_module_msgs</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_description">http://wiki.ros.org/rh_p12_rn_description</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_gazebo">http://wiki.ros.org/rh_p12_rn_gazebo</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_gui">http://wiki.ros.org/rh_p12_rn_gui</a></li>
+  <li><a href="http://wiki.ros.org/rh_p12_rn_manager">http://wiki.ros.org/rh_p12_rn_manager</a></li>
+</ul>
+
+<h2 id="open-source-related-to-rh-p12-rn">Open Source related to RH-P12-RN</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/RH-P12-RN">rh_p12_rn</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H">manipulator_h</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-msgs">thormang3_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-Common">thormang3_common</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC">thormang3_mpc</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-MPC-SENSORs">thormang3_mpc_sensors</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-PPC">thormang3_ppc</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-OPC">thormang3_opc</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-THORMANG-Tools">thormang3_tools</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework">robotis_framework</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs">robotis_controller_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Math">robotis_math</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/RH-P12-RN_Example">RH-P12-RN_Example for Windows and Linux</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-rh-p12-rn">Documents and Videos related to RH-P12-RN</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/rh_p12_rn/">ROBOTIS e-Manual for RH-P12-RN</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/">ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/thormang3/introduction/">ROBOTIS e-Manual for ROBOTIS THORMANG3</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/robotis_framework_packages/">ROBOTIS e-Manual for ROBOTIS Framework</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/w9jmHUOeoWI" frameborder="0" allowfullscreen=""></iframe>
+:ET

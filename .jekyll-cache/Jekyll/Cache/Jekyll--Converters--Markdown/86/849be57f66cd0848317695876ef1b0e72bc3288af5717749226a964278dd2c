@@ -1,0 +1,42 @@
+I"‘<h2 id="opencr-open-source-control-module-for-ros">OpenCR: Open Source Control Module for ROS</h2>
+<p>OpenCR means Open-source Control Module for ROS. OpenCR is developed for ROS embedded systems to provide completely open-source hardware and software. Everything about the board; Schematics, PCB Gerber, BOM and the firmware source code for the TurtleBot3 and OP3 are free to distribute under open-source licenses for users and the ROS community. The STM32F7 series chip inside the OpenCR board is based on a very powerful ARM Cortex-M7 with floating point unit. The development environment for OpenCR is wide open from Arduino IDE and Scratch for young students to traditional firmware development for the expert.</p>
+
+<p><img src="/assets/img/robots/opencr/opencr.png" alt="OpenCR" /></p>
+
+<h2 id="robotis-e-manual-for-opencr">ROBOTIS e-Manual for OpenCR</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/parts/controller/opencr10/">ROBOTIS e-Manual for OpenCR</a></li>
+</ul>
+
+<h2 id="wiki-for-opencr">Wiki for OpenCR</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/opencr">http://wiki.ros.org/opencr</a></li>
+</ul>
+
+<h2 id="open-source-related-to-opencr">Open Source related to OpenCR</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR">OpenCR</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR-Hardware">OpenCR-Hardware</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCM9.04">OpenCM 9.04</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/dynamixel-workbench">dynamixel_workbench</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3">turtlebot3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/open_manipulator">open_manipulator</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3">robotis_op3</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-opencr">Documents and Videos related to OpenCR</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/parts/controller/opencr10/">ROBOTIS e-Manual for OpenCR</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/parts/controller/opencm904/">ROBOTIS e-Manual for OpenCM 9.04</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/parts/controller/opencm485exp/">ROBOTIS e-Manual for OpenCM 485 Expansion Board</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/">ROBOTIS e-Manual for Dynamixel Workbench</a></li>
+  <li><a href="http://turtlebot3.robotis.com/">ROBOTIS e-Manual for TurtleBot3</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/openmanipulator/">ROBOTIS e-Manual for OpenManipulator</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/op3/introduction/">ROBOTIS e-Manual for ROBOTIS OP3</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLRG6WP3c31_VTd-u90LVXaT1B8NMjCSoj">Videos for OpenCR</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-_kBfIS6wJs" frameborder="0" allowfullscreen=""></iframe>
+:ET

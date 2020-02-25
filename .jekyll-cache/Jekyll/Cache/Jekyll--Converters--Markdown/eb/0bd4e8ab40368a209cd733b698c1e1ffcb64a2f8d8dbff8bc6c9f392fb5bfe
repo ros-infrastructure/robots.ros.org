@@ -1,0 +1,10 @@
+I"<p>REEM-C is the latest commercial humanoid robot of PAL Robotics. REEM-C is an adult size humanoid (165 cm), and it has 44 degrees of freedom, two i7 computers, force/torque and range finders on each feet, stereo camera, 4 microphones, and other devices that make REEM-C one of the best equipped research platforms today. Optionally, a depth camera can also be attached to the head. It also has already developed software for walking, grasping, navigation and human-robot interaction. REEM-C runs on ROS internally, and uses state-of-the-art <a href="http://wiki.ros.org/ros_control">ros_control</a> and OROCOS.</p>
+
+<p>More information can be found in the <a href="http://pal-robotics.com">PAL Robotics</a> website.</p>
+
+<h2 id="installation">Installation</h2>
+
+<p>A feature-rich Gazebo simulation setup for REEM-C is freely available on PAL Robotics’ github page.</p>
+
+<p>Instructions on how to install can be found in the <a href="http://wiki.ros.org/Robots/REEM-C/Tutorials">how to launch REEM-C in gazebo tutorial</a>.</p>
+:ET

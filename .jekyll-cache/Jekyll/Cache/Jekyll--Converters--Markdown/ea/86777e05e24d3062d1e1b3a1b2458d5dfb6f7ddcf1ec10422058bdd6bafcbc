@@ -1,0 +1,54 @@
+I"�<h2 id="turtlebot">TurtleBot</h2>
+<p>TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications. For more information, we recommend an interview with TurtleBot creators, Tully Foote and Melonee Wise. <a href="http://spectrum.ieee.org/automaton/robotics/diy/interview-turtlebot-inventors-tell-us-everything-about-the-robot">TurtleBot Inventors Tell Us Everything About the Robot (IEEE Spectrum, By Evan Ackerman, 26 Mar 2013)</a>
+For more information: <a href="http://www.turtlebot.com">TurtleBot Brand Website</a></p>
+
+<h2 id="turtlebot3">TurtleBot3</h2>
+<p>TurtleBot3 is a new generation mobile robot that is modular, compact and customizable. Let’s explore ROS and create exciting applications for education, research and product development. The goal of TurtleBot3 is to drastically reduce the size and lower the price of the platform without sacrificing capability, functionality, and quality. Optional parts such as chassis, computers and sensors are available, and TurtleBot3 can be customized in various ways. TurtleBot3 is willing to be in the center of the maker movement by applying the latest technical advances of the SBC (Single Board Computer), the Depth sensor and 3D printing technology.</p>
+
+<p><img src="/assets/img/robots/turtlebot3/turtlebot3_series.png" alt="turtlebot3 Series" /></p>
+
+<h2 id="robotis-e-manual-for-turtlebot3">ROBOTIS e-Manual for TurtleBot3</h2>
+<ul>
+  <li><a href="http://turtlebot3.robotis.com/">ROBOTIS e-Manual for TurtleBot3</a></li>
+</ul>
+
+<h2 id="wiki-for-turtlebot3-packages">Wiki for TurtleBot3 Packages</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/turtlebot3">http://wiki.ros.org/turtlebot3</a></li>
+  <li><a href="http://wiki.ros.org/turtlebot3_msgs">http://wiki.ros.org/turtlebot3_msgs</a></li>
+  <li><a href="http://wiki.ros.org/turtlebot3_simulations">http://wiki.ros.org/turtlebot3_simulations</a></li>
+  <li><a href="http://wiki.ros.org/turtlebot3_applications">http://wiki.ros.org/turtlebot3_applications</a></li>
+  <li><a href="http://wiki.ros.org/turtlebot3_autorace">http://wiki.ros.org/turtlebot3_autorace</a></li>
+  <li><a href="http://wiki.ros.org/turtlebot3_deliver">http://wiki.ros.org/turtlebot3_deliver</a></li>
+  <li><a href="http://wiki.ros.org/hls_lfcd_lds_driver">http://wiki.ros.org/hls_lfcd_lds_driver</a></li>
+</ul>
+
+<h2 id="open-source-related-to-turtlebot3">Open Source related to TurtleBot3</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3">turtlebot3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_msgs">turtlebot3_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_simulations">turtlebot3_simulations</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_applications">turtlebot3_applications</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_autorace">turtlebot3_autorace</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_deliver">turtlebot3_deliver</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver">hls_lfcd_lds_driver</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/open_manipulator">open_manipulator</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/dynamixel-workbench">dynamixel_workbench</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR-Hardware">OpenCR-Hardware</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR">OpenCR</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-turtlebot3">Documents and Videos related to TurtleBot3</h2>
+<ul>
+  <li><a href="http://turtlebot3.robotis.com/">ROBOTIS e-Manual for TurtleBot3</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/openmanipulator/">ROBOTIS e-Manual for OpenManipulator</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/">ROBOTIS e-Manual for Dynamixel Workbench</a></li>
+  <li><a href="http://www.turtlebot.com/">Website for TurtleBot Series</a></li>
+  <li><a href="https://community.robotsource.org/t/download-the-ros-robot-programming-book-for-free/51/">e-Book for TurtleBot3</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLRG6WP3c31_XI3wlvHlx2Mp8BYqgqDURU">Videos for TurtleBot3 </a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9OC3J53RUsk" frameborder="0" allowfullscreen=""></iframe>
+:ET

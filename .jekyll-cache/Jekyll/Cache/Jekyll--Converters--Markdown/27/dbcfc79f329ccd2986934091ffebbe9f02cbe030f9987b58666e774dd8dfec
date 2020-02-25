@@ -1,0 +1,17 @@
+I"¨<p>TIAGo is a service robot designed to work in indoor environments. TIAGoâ€™s features make it the ideal platform for research, especially on ambient assisted living or light industry. It combines mobility, perception, manipulation and human-robot interaction capabilities for one specific goal: to be able to assist in research.</p>
+
+<p>For technical questions regarding the public simulation of the robot please write to tiago-support@pal-robotics.com .</p>
+
+<p>If you wish to know more or request a quote, please <a href="http://pal-robotics.com/en/company">send us a message</a> or <a href="http://tiago.pal-robotics.com/en/">refer to the product microsite</a></p>
+
+<h2 id="gallery">Gallery</h2>
+<p>A picture is worth a thousand words:
+<img src="/assets/img/robots/tiago/TIAGo_gallery.jpg" alt="TiagoGallery" /></p>
+
+<h2 id="tutorials">Tutorials</h2>
+<p>A comprehensive set of tutorials are now available for the TIAGo robot in <a href="Robots/TIAGo/Tutorials]]. The tutorials make use of the [[http://gazebosim.org">Gazebo</a> simulator and currently contains tutorials on how to use <a href="http://opencv.org">OpenCV</a>, <a href="http://pointclouds.org">PCL</a>, autonomous navigation, <a href="http://moveit.ros.org">MoveIt!</a> and Human Robot Interaction.</p>
+
+<h2 id="public-simulation-packages-overview">Public simulation packages overview</h2>
+
+<p>This section presents an overview of the packages used in the public simulation of TIAGo, with links to the corresponding wiki pages describing the packages. For the installation instructions of the packages please refer to <a href="http://wiki.ros.org/Robots/TIAGo/Tutorials/TiagoSimulation">TIAGo simulation installation tutorial</a>.</p>
+:ET

@@ -1,0 +1,12 @@
+I"<p>The Omron Adept MobileRobots Pioneer LX is a professional-quality general purpose
+differential-drive mobile robot platform for high level robotics research and
+experimental applications.  The Pioneer LX is capable of 12+ hours of continuous
+run time every day, and can carry up to 60kg payload. A scanning laser
+rangefinder and small intergated computer are included in all robots and additional sensor and 
+manipulator options are also available from MobileRobots.</p>
+
+<p>The Pioneer LX can be used in ROS using the “rosaria”, “rosarnl”, or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

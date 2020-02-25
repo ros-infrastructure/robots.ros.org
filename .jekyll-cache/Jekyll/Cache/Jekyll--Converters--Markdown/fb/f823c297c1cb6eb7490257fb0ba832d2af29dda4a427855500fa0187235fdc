@@ -1,0 +1,48 @@
+I"a<h2 id="robotis-op3">ROBOTIS OP3</h2>
+<p>ROBOTIS OP3 is the latest miniature humanoid robot platform from ROBOTIS that succeeds ROBOTIS OP(aka “DARWIN OP”) and ROBOTIS OP2(aka “DARWIN 2” or “DARWIN OP2”). One of the noticeable changes of ROBOTIS OP3 is made in actuator by replacing MX-28 actuators with XM-430 actuators. Another significant change is also made in internal PC by replacing Atom based SBC(Single Board Computer) with Intel i3 based NUC. With the XM-430 which supports Dynamixel Protocol 2.0, OP3 has improved torque along with current based control and loaded with various functions. Intel NUC allows highly improved computing power that supports 64-bit OS and Bluetooth 4.1. In addition, OP3 is developed under ROS(Robot Operating System) to utilize various packages in ROS ecosystem. All these hardware improvements and ROS support allows developers to focus more on research and development compare to the preceding robots.</p>
+
+<p><img src="/assets/img/robots/robotis-op/robotis_op3_series.png" alt="ROBOTIS OP Series" /></p>
+
+<h2 id="robotis-e-manual-for-robotis-op3">ROBOTIS e-Manual for ROBOTIS OP3</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/op3/introduction/">ROBOTIS e-Manual for ROBOTIS OP3</a></li>
+</ul>
+
+<h2 id="wiki-for-robotis-op3-packages">Wiki for ROBOTIS OP3 Packages</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/robotis_op3">http://wiki.ros.org/robotis_op3</a></li>
+  <li><a href="http://wiki.ros.org/robotis_op3_msgs">http://wiki.ros.org/robotis_op3_msgs</a></li>
+  <li><a href="http://wiki.ros.org/robotis_op3_common">http://wiki.ros.org/robotis_op3_common</a></li>
+  <li><a href="http://wiki.ros.org/robotis_op3_tools">http://wiki.ros.org/robotis_op3_tools</a></li>
+  <li><a href="http://wiki.ros.org/robotis_op3_demo">http://wiki.ros.org/robotis_op3_demo</a></li>
+</ul>
+
+<h2 id="open-source-related-to-robotis-op3">Open Source related to ROBOTIS OP3</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3">robotis_op3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-msgs">robotis_op3_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-Common">robotis_op3_common</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-Tools">robotis_op3_tools</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-OP3-Demo">robotis_op3_demo</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework">robotis_framework</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Framework-msgs">robotis_controller_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Utility">robotis_utility</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Math">robotis_math</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR-Hardware">OpenCR-Hardware</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR">OpenCR</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-robotis-op3">Documents and Videos related to ROBOTIS OP3</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/op3/introduction/">ROBOTIS e-Manual for ROBOTIS OP3</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/robotis_framework_packages/">ROBOTIS e-Manual for ROBOTIS Framework</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HqZa0LVjk2Y" frameborder="0" allowfullscreen=""></iframe>
+<p><br /></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vIGx3hVRono" frameborder="0" allowfullscreen=""></iframe>
+<p><br /></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wNLuZNLBegw" frameborder="0" allowfullscreen=""></iframe>
+:ET

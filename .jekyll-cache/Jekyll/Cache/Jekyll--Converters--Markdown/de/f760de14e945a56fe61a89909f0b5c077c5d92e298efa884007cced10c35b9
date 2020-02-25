@@ -1,0 +1,54 @@
+I")<h1 id="jaguar---all-terrain-unmanned-ground-vehicle">Jaguar - All terrain unmanned ground vehicle</h1>
+<p>'’ROS Software Maintainer: Dr Robot Inc’’</p>
+
+<p><a href="http://www.drrobot.com">Dr Robot</a> is a manufacturer of mobile robots and robot systems. We provide robots and manipulators for a wide range of applications.</p>
+
+<h2 id="supported-platforms">Supported Platforms</h2>
+<p>Platforms with full driver support:</p>
+
+<p><a href="http://jaguar.drrobot.com/specification_V4Arm.asp"><img src="/assets/img/robots/jaguar/v4arm.jpg" alt="alt text" /></a></p>
+
+<p><a href="http://jaguar.drrobot.com/specification.asp"><img src="/assets/img/robots/jaguar/orig.jpg" alt="alt text2" /></a></p>
+
+<p><a href="http://jaguar.drrobot.com/specification_4x4wArm.asp"><img src="/assets/img/robots/jaguar/4x4warm.jpg" alt="alt text" /></a></p>
+
+<p><a href="http://jaguar.drrobot.com/specification_4x4w.asp"><img src="/assets/img/robots/jaguar/4x4.jpg" alt="alt text" /></a></p>
+
+<p><a href="http://jaguar.drrobot.com/specification_lite.asp"><img src="/assets/img/robots/jaguar/lite.jpg" alt="alt text" /></a></p>
+
+<p><a href="http://jaguar.drrobot.com/specification_V4.asp"><img src="/assets/img/robots/jaguar/v4.jpg" alt="alt text" /></a></p>
+
+<p>More information about these platforms can be found <a href="http://jaguar.drrobot.com/index.asp">here</a>.</p>
+
+<p>For Mainpulator Arm on the Jaguar robot, you could find the package from [[https://github.com/gitdrrobot/dri_manipulator_arm_ctrl1]]. You need install Qt4.8 on your PC to use this package.</p>
+
+<p>You could contact <a href="http://jaguar.drrobot.com/Contactus.asp">Dr Robot</a> if you have any question or which version package you should use.</p>
+
+<h2 id="package-overview">Package Overview</h2>
+<p><a href="https://github.com/gitdrrobot/jaguar4x4_2014">jaguar4xr4_2014</a>: This package is for Jaguar 4x4 robot with RoboteQ motor driver board.</p>
+
+<p>For Jaguar 4x4 before 2014, you could use below package.</p>
+
+<p><a href="https://github.com/gitdrrobot/DrRobotMotionSensorDriver.git">DrRobotMotionSensorDriver</a>: This package contains hardware/communnication drivers for Jaguar series robots.</p>
+
+<p><a href="https://github.com/gitdrrobot/drrobot_jaguar4x4_player.git">drrobot_jaguar4x4_player</a>: This package will publish all the sensors message on the Jaguar robot and translate the received velocity control command and send them to robot.
+There is a REDME.md file in each package folder. Please read it before build and run the package.</p>
+
+<h2 id="media">Media</h2>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/39F82aNhAcA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<ul>
+  <li>Jaguar V4 With Manipulator Arm</li>
+</ul>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/bOeOMNk15h0?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<ul>
+  <li>Jaguar 4X4 with Manipulator Arm</li>
+</ul>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/ExHgc9VIfE8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<ul>
+  <li>Jaguar Lite</li>
+</ul>
+:ET

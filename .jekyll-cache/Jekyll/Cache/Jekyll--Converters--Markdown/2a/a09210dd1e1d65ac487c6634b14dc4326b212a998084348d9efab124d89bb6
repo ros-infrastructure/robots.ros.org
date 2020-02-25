@@ -1,0 +1,24 @@
+I"<h1 id="oculus-prime-slam-navigator">Oculus Prime SLAM Navigator</h1>
+
+<p>Oculus Prime SLAM Navigator is a low cost, open-source autonomous mobile robot available from <a href="http://www.xaxxon.com/oculusprime/slamnavigator">Xaxxon Technologies</a>, ready for ROS applications. It packs a full mini-ITX motherboard, pre-loaded with Linux Xubuntu 16.04 and ROS Kinetic.</p>
+
+<ul>
+  <li>Auto-docking charging station</li>
+  <li>Orbbec Astra depth camera</li>
+  <li>Servo-tilting camera and lights</li>
+  <li>4 wheel gearmotors including encoder</li>
+  <li>Precision odometry linear/rotational</li>
+  <li>Xaxxon MALG motor/audio/lights/gyro Arduino compatible controller PCB</li>
+  <li>4-hour LiPo battery</li>
+  <li>Wifi connectivity, overlapping network auto-switching</li>
+  <li>3G/4G/LTE connectivity relay server</li>
+  <li>Integrated battery charging and power management</li>
+  <li>Internet tele-operation web UI</li>
+</ul>
+
+<p><img src="/assets/img/robots/oculus-prime/oculusprime_charging.jpg" alt="Oculus Prime Charging" /></p>
+
+<p>Please check out <a href="http://www.xaxxon.com/oculusprime/slamnavigator">xaxxon.com</a> for more info and pricing</p>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/EnGYGacxyBc?rel=0" frameborder="0" allowfullscreen=""></iframe>
+:ET

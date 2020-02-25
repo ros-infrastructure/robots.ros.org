@@ -1,0 +1,30 @@
+I"�<h4 id="jet-hardware">‘Jet’ Hardware</h4>
+
+<p>Purchase the complete ‘Jet’ Robot Kit – which includes either Jetson <a href="https://www.servocity.com/tx1-jet-robot-kit">TX1</a> or the Jetson <a href="https://www.servocity.com/tk1-jet-robot-kit">TK1</a> - directly from Servocity.</p>
+
+<p>The complete TX1 ‘Jet’ Robot Kit can be purchased <a href="https://www.servocity.com/tx1-jet-robot-kit">here</a>.</p>
+
+<p>The complete TK1 ‘Jet’ Robot Kit can be purchased <a href="https://www.servocity.com/tk1-jet-robot-kit">here</a>.</p>
+
+<h4 id="jet-software">‘Jet’ Software</h4>
+
+<p>Jet utilizes the Robot Operating System (ROS) for abstraction, scaling from K-12 projects to real industrial applications.</p>
+
+<p>The downloadable <a href="https://developer.nvidia.com/jet-robot">‘Jet’ Toolkit</a> contains build instructions, example code, and educational materials covering:</p>
+
+<ul>
+  <li>Introduction to Robotics, ‘Jet’, and Robot Operating System (ROS)</li>
+  <li>Sensors and Actuators</li>
+  <li>Obstacle detection and avoidance using sonar</li>
+  <li>Image processing and edge detection using blurs, Canny Edge Detection, and Hough Lines Transform</li>
+  <li>GPU-accelerated HAAR Cascade Classifiers for facial detection</li>
+</ul>
+
+<p>The ‘Jet’ Toolkit can be downloaded <a href="https://developer.nvidia.com/jet-robot">here</a>.</p>
+
+<h4 id="robotics-teaching-kit-with-jet">Robotics Teaching Kit with ‘Jet’</h4>
+
+<p>NVIDIA and CalPoly University have collaborated to bring educators the <a href="https://developer.nvidia.com/teaching-kits">Robotics Teaching Kit with ‘Jet’</a>. This free teaching kit contains everything needed to teach a full-term course covering introductory and advanced robotics concepts such as sensors, computer vision, machine learning, robot localization, and control. The Robotics Teaching Kit with ‘Jet’ is available to <strong>qualified instructors</strong> and includes lecture slides, hands-on labs/solutions, quiz/exam problem sets/solutions, larger coding project ideas, build plans, and source code for the Robot Operating System (ROS) using Jetson.</p>
+
+<p>Educators can request the Robotics Teaching Kit with ‘Jet’ <a href="https://developer.nvidia.com/teaching-kits">here</a>.</p>
+:ET

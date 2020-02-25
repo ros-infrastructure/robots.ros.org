@@ -1,0 +1,8 @@
+I"<h1 id="the-r12">The r12</h1>
+<p>The R12 is a complete self-contained five or six axis vertically articulated robot arm system designed as a cost effective solution for bench top automation. Applications include testing, sample handling, machine feeding. The hand terminates in a mounting plate to which can be mounted one of our low cost grippers, vacuum pickups or your own device.</p>
+
+<p>R12 is a very low cost entry to real industrial robotics, fast, accurate and reliable and easy to program yet capable of the most complex tasks. It has a useful 500mm reach and a 500g payload. Designed by a young engineer building on our existing R17 technology it is a breakthrough in bench top robotics. It is lighter, faster and quieter than R17, using high efficiency digital motors driving through steel reinforced polyurethane timing belts. Optional incremental optical encoders provide exceptional integrity as well as safety.</p>
+
+<h2 id="ros-integration">ROS integration</h2>
+<p>The r12 offers ROS support through the FollowJointTrajectory action interface, allowing control and feedback from the robot using standard ROS packages. It also has pre-configured moveit! support. The packages that enable this are freely available under open source licensing at https://github.com/ST-ROBOTICS</p>
+:ET

@@ -1,0 +1,10 @@
+I"n<h1 id="nox">Nox</h1>
+
+<p>Nox is a DIY differential drive robot which uses SLAM (gmapping) with a Kinect to navigate in its environment. It is powered by ROS running on a Raspberry Pi 3 Model B and an Arduino Mega controlling two DC motors with encoders.</p>
+
+<p>Nox is a low-cost robot built with simple hardware, allowing for easy replication.</p>
+
+<iframe width="560" height="405" src="https://www.youtube-nocookie.com/embed/XMEy7iYv_mw" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="405" src="https://www.youtube-nocookie.com/embed/VhidE8I-iDw" frameborder="0" allowfullscreen=""></iframe>
+
+:ET

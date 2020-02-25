@@ -1,0 +1,34 @@
+I"�<h1 id="robosavvy-self-balancing-robotic-platform">RoboSavvy Self-balancing robotic platform</h1>
+
+<p>A robust, reliable and flexible self-balancing mobile platform for robotic applications.</p>
+
+<p>This platform provides researchers, engineers and hackers the ability to easily design their robotic application on top of a modular hardware interface. The user can quickly develop and integrate their own hardware, integrate sensors, manipulators, other types of payload and third party equipment on top of the platform.</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>Self-balancing mobile platform for loads from 10 kg up to 100 kg.</li>
+  <li>Integrated PC running Ubuntu 14.04 and ROS Indigo.</li>
+  <li>Urban dweller and countryside explorer.</li>
+  <li>Dual control:
+    <ol>
+      <li>9 channel RC input</li>
+      <li>UART protocol over USB CDC device</li>
+    </ol>
+  </li>
+  <li>ROS packages for communication, visualization and simulation.</li>
+</ul>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rsUJatttq4Y?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="tutorials">Tutorials</h2>
+
+<p>You can find <a href="RoboSavvy/RoboSavvy-Balance/Tutorials">tutorials</a> on how to use the simulated RoboSavvy’s self-balance platform and how to customize it for your simulated application.</p>
+
+<h2 id="links-and-resources">Links and resources</h2>
+<p><a href="http://www.robosavvy.com">RoboSavvy</a> is a manufacturer of mobile robots and robot systems.</p>
+
+<p><a href="http://robosavvy.com/store/sb-platform.html">Robosavvy Self-balance platform</a></p>
+
+<p>ROS packages can be found on RoboSavvy’s <a href="https://github.com/robosavvy">repository</a></p>
+:ET

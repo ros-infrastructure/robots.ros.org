@@ -1,0 +1,8 @@
+I"|<h1 id="commonplace-robotics-sra-service-robot-arm">Commonplace Robotics SRA Service Robot Arm</h1>
+
+<p>The Commonplace Robotics SRA Service Robot Arm is a light robot arm for mobile applications, but provides a large reach and good payload.
+The arm works on 24V supply, control computer and motor electronics are integrated in the arm.
+ROS packages establish the hardware interface, provide and RViz teleop plugin and MoveIt functionality.</p>
+
+<p>Follow these links for <a href="http://www.cpr-robots.com/products/sra.html">datasheets and media</a> and <a href="http://wiki.cpr-robots.com">suitable use cases and interfacing</a>.</p>
+:ET

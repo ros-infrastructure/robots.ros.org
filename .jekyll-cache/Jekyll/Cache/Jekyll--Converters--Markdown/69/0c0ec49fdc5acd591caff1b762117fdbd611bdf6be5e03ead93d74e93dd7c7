@@ -1,0 +1,3 @@
+I"Â<p>Doosan Robotics enables smart factories by developing and manufacturing cobots that are capable of doing complex tasks based on precise detection skills via torque sensors, excellent safety performance and detailed power control.
+This repository is about 6-axis <a href="http://github.com/doosan-robotics/doosan-robot">Doosan robots</a>. It includes packages such as moveit, Gazebo, as well as Doosan controller interlocking packages for ROS.</p>
+:ET

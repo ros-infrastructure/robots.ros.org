@@ -1,0 +1,12 @@
+I"W<h1 id="ready-to-use-out-of-the-box">Ready to use out of the box</h1>
+
+<p>Intel Euclid Development Kit comes pre-installed with Ubuntu and ROS the Robotic Operating System. The device runs our Software layer on top of Ubuntu and ROS, which gives enables a simple and easy to use developer experience. With this software layer, a developer can control the device using a web interface from any other phone or a computer with WiFi and a web browser without the need of installing any software. A developer can run, monitor, and manage their robotics application easily with the web interface.</p>
+
+<h1 id="intuitive-web-interface">Intuitive Web Interface</h1>
+
+<p>Intel Euclid Development Kit can be used from any computer using a browser. With this web interface, you can monitor the device, visualize the data from the sensors to see what the robot sees, monitor and manage running ROS nodes, start and stop applications on your robot.</p>
+
+<p>#Making it easier to learn ROS</p>
+
+<p>Traditionally, learning to make Robots using ROS has a steep learning curve. Intel Euclid Development Kit simplifies this learning curve for new developers. New roboticists can get the device and can use it out of the box. You can play with the samples applications provided and make your ROS based robot move without knowing ROS and later you can dive deeper in how stuff works.</p>
+:ET

@@ -1,0 +1,10 @@
+I"=<p>AMIGO is an acronym for ‘'’A’'’utonomous ‘'’M’'’ate for ‘'’I’'’ntelli’'’G’'’ent ‘'’O’'’perations. AMIGO is a domestic service robot developed and created at the <a href="http://www.tue.nl/en/research/column-1/top-research-groups/robotics-research/">Eindhoven University of Technology</a>. It is used as a demonstrator in several projects, among which <a href="http://www.bobbierobotics.nl/">Bobbie Robotics</a>, <a href="http://www.r3-cop.eu/">R3-COP</a> and <a href="http://www.roboearth.org/">RoboEarth</a>. Furthermore, it competes in the <a href="http://www.robocup.org/robocup-home/">RoboCup@Home league</a> on behalf of <a href="http://www.techunited.nl/en">Tech United Eindhoven</a>.</p>
+
+<p>CAD drawings and electric schemes are available on the <a href="http://www.roboticopenplatform.org/wiki/AMIGO">Robotic Open Platform</a></p>
+
+<p>A URDF description of the robot and the accompanying controller configurations can be found in the <a href="http://wiki.ros.org/amigo_gazebo">amigo_gazebo</a> stack.</p>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/z5EO0UFtqNA?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/TOxMg-senGQ?rel=0" frameborder="0" allowfullscreen=""></iframe>
+:ET

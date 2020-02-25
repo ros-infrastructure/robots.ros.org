@@ -1,0 +1,6 @@
+I")<p><a href="http://erlerobotics.com/blog/erle-plane/">Erle-Plane</a> is a fixed-wing drone based on the award winner <a href="http://plane.ardupilot.com/">APM:Plane</a> platform. Our hardware autopilot, <a href="Robots/Erle-brain">Erle-brain</a>, uses the APM autopilot thereby it can run missions following a list of recorded GPS waypoints.</p>
+
+<p>Compared to other aerial robots such as <a href="Robots/Erle-copter">Erle-Copter</a>, <a href="http://erlerobotics.com/blog/erle-plane/">Erle-Plane</a> is ideal for missions that require more autonomy (time-wise) and where a big terrain must be covered.</p>
+
+<p><a href="http://erlerobotics.com/blog/erle-plane/">Erle-Plane</a> is powered by a Linux autopilot which includes ROS and communicates with the flight software using the [[mavros]] ROS package.</p>
+:ET

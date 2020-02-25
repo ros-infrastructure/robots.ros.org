@@ -1,0 +1,8 @@
+I"�<h1 id="nav2">Nav2</h1>
+
+<p>The Nav2 is a modular robotics platform created by Crosswing Inc, consisting of an omniwheel holonomic mobile base and interchangeable upper components.
+The Nav2’s base configuration is that of a telepresence robot, the VirtualMe.
+To operate the mobile base, you must connect your control computer to the Nav2’s control board, located in the lower compartment.
+The board can be networked with using a variety of configurations such as static IP, or DHCP with zeroconf DNS (e.g. avahi).
+Once connected, you can start the appropriate launch file in the <code class="highlighter-rouge">nav2_platform</code> stack to begin controlling the base.</p>
+:ET

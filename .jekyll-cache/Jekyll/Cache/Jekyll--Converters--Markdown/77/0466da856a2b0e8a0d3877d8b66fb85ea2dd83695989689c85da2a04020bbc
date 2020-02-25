@@ -1,0 +1,14 @@
+I"/<p>The Mini-Turty II robot represents a new level of value and functionality in a ROS navigation-capable robot. Designed with the lowest cost and complete user serviceability in mind, this robot is providing greatly improved access to advanced robotics navigation, and much more!</p>
+
+<p>There are many things you can do with your Mini-Turty robot, including:</p>
+
+<p>Basics: ROS learning
+  Teleop: robot remote control
+  Map Building: make maps of your home or office for the robot to use
+  Navigation: the robot moves autonomously around your home or office
+  Tele-Viewing: see what your robot sees, even from another room*
+  Frontier Exploration: the robot autonomously explores unknown terrain*
+  Computer Vision: Mini-Turty recognizes objects in its environment*</p>
+
+<p>*Coming soon, to a robot near you!</p>
+:ET

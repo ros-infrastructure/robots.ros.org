@@ -1,0 +1,14 @@
+I"G<p>ARI is a high-performance robotic platform designed for a wide range of multimodal expressive gestures and behaviours, making it the ideal social robot and suitable for human-robot interaction, perception, cognition and navigation, especially thanks to its touchscreen, gaze control and versatile gestures. With a combination of Intel i7 and NVIDIA Jetson TX2 GPU, you will have enough processing power available for AI development.</p>
+
+<p>For technical questions regarding the public simulation of the robot please write to ari-support@pal-robotics.com.</p>
+
+<p>If you wish to know more or request a quote, please <a href="http://pal-robotics.com/">send us a message</a> or <a href="http://pal-robotics.com/robots/ari/">refer to the product microsite</a></p>
+
+<h2 id="tutorials">Tutorials</h2>
+<p>A comprehensive set of tutorials are now available for the ARI robot in <a href="Robots/ARI/Tutorials]]. The tutorials make use of the [[http://gazebosim.org">Gazebo</a> simulator and currently contains tutorials on how to use <a href="http://opencv.org">OpenCV</a>, autonomous navigation, <a href="http://moveit.ros.org">MoveIt!</a> and Human Robot Interaction.</p>
+
+<h2 id="public-simulation-packages-overview">Public simulation packages overview</h2>
+
+<p>This section presents an overview of the packages used in the public simulation of ARI, with links to the corresponding wiki pages describing the packages. For the installation instructions of the packages please refer to <a href="http://wiki.ros.org/Robots/ARI/Tutorials/Installation/ARISimulation">ARI simulation installation tutorial</a>.</p>
+
+:ET

@@ -1,0 +1,11 @@
+I"�<p>The Omron Adept MobileRobots Pioneer LX Manipulator is a professional-quality general purpose
+differential-drive mobile robot platform carrying two Kinova Jaco manipulator
+arms, Kinect 2 or other sensor on optional pan-tilt unit, and two computers. The
+configuration can be easily customized by the user, by moving or removing and
+replacing most components.</p>
+
+<p>The Pioneer LX Manipulator can be used in ROS using the “rosaria”, “rosarnl”, or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

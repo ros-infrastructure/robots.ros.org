@@ -1,0 +1,25 @@
+I"ï<p>Components of this stack:</p>
+
+<ul>
+  <li><a href="http://wiki.ros.org/kobuki_auto_docking">kobuki_auto_docking</a> : Automatic docking for Kobuki</li>
+  <li><a href="http://wiki.ros.org/kobuki_bumper2pc">kobuki_bumper2pc</a> : Publish bumpers and cliff sensors events as a pointcloud so navistack can use them</li>
+  <li><a href="http://wiki.ros.org/kobuki_controller_tutorial">kobuki_controller_tutorial</a> : Tutorial-related code</li>
+  <li><a href="http://wiki.ros.org/kobuki_description">kobuki_description</a> : URDF and Gazebo model description of Kobuki</li>
+  <li><a href="http://wiki.ros.org/kobuki_keyop">kobuki_keyop</a> : Keyboard teleoperation for Kobuki</li>
+  <li><a href="http://wiki.ros.org/kobuki_node">kobuki_node</a> : A ROS node wrapper for the kobuki driver</li>
+  <li><a href="http://wiki.ros.org/kobuki_random_walker">kobuki_random_walker</a> : Random walker demo controller for Kobuki</li>
+  <li><a href="http://wiki.ros.org/kobuki_safety_controller">kobuki_safety_controller</a> : Watches the bumper, cliff and wheel drop sensor to allow safe operation</li>
+  <li><a href="http://wiki.ros.org/kobuki_testsuite">kobuki_testsuite</a> : Set of tools to thoroughly test Kobukiâ€™s hardware</li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+
+<p>Check out the <a href="http://wiki.ros.org/kobuki/Tutorials">tutorials</a> section to find out about installing and running Kobukibot.</p>
+
+<h2 id="other">Other</h2>
+
+<ul>
+  <li>Use github to <a href="http://wiki.ros.org/https://github.com/yujinrobot/kobuki/issues">report bugs</a> or <a href="http://wiki.ros.org/https://github.com/yujinrobot/kobuki/issues">request features</a>.</li>
+  <li>Check <a href="http://wiki.ros.org/http://kobuki.yujinrobot.com">kobuki.yujinrobot.com</a> for more information!</li>
+</ul>
+:ET

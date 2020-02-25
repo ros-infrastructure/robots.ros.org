@@ -1,0 +1,81 @@
+I"�<h2 id="bulldog">Bulldog</h2>
+<p>Bulldog(professional Robot) is a robust and versatile middle size plazfrom designed for outdoor operations.All-terrain,all-weather for wheel skid-steer,the robot can climb stairs,slope,and maneuver directly toa point of interest on rough road outside.The robot can be teleoperated,follow the leader or use GPS waypoint navigation.</p>
+
+<p>Modular design and provide 5/12/24/48V power and reconfigurable I/O.Make the robot easy to integrate serveral sensors(indoor/outdoor laser,cameras,3D cameras,inertial measurement units,GPS…)and actuator(light weight robot arm,sterovision,pan-tilt units…).</p>
+
+<p>Base on open-source an modular,ROS(http://www.ros.org) framework simplifies the software development and allows easy integration and reutilization of software components whether they are device drivers or state of the art algorithms in vision,SLAM,point cloud processing,grasping,planning,swarming,etc.</p>
+
+<h3 id="specifcations">Specifcations:</h3>
+
+<ul>
+  <li>Dimensions(L<em>W</em>H):
+    <ul>
+      <li>880x680x450m</li>
+    </ul>
+  </li>
+  <li>Weight:
+    <ul>
+      <li>60kg</li>
+    </ul>
+  </li>
+  <li>Max Payload Weight:
+    <ul>
+      <li>100kg</li>
+    </ul>
+  </li>
+  <li>Max Speedt:
+    <ul>
+      <li>2m/s</li>
+    </ul>
+  </li>
+  <li>Drivers and API:
+    <ul>
+      <li>ROS/Phthon/C++</li>
+    </ul>
+  </li>
+  <li>Operational Time:
+    <ul>
+      <li>3hrs typ/8hrs max</li>
+    </ul>
+  </li>
+  <li>Power:
+    <ul>
+      <li>1000W peak</li>
+    </ul>
+  </li>
+  <li>Battery:
+    <ul>
+      <li>48V 20Ah Li-Po</li>
+    </ul>
+  </li>
+  <li>Maximum Permissible Gradient:
+    <ul>
+      <li>IP66</li>
+    </ul>
+  </li>
+  <li>Encoder:
+    <ul>
+      <li>25000Pulses/m</li>
+    </ul>
+  </li>
+  <li>Feedback:
+    <ul>
+      <li>battery status/running status</li>
+    </ul>
+  </li>
+  <li>Control Mode:
+    <ul>
+      <li>Voltage,Speed,Whell,Speed</li>
+    </ul>
+  </li>
+  <li>Communitcation：
+    <ul>
+      <li>USB/Ethernet</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="more-information">More information</h4>
+
+<p>More information, please click <a href="http://intelrope.de/bulldog-mobile-robot-outdoor/">http://intelrope.de/bulldog-mobile-robot-outdoor/</a></p>
+:ET

@@ -1,0 +1,61 @@
+I"�
+<h1 id="crane-x7">CRANE-X7</h1>
+
+<p>X7 is compact, well styled and compatible for Ros Kinetic Kame and suit for research on collaborative robots.
+Compact and Stylish! It is ideal for research of collaborative robots.</p>
+
+<p><img src="/assets/img/robots/crane-x7/crane-x7_image.png" alt="crane-x7_image" /></p>
+
+<h2 id="features">Features</h2>
+
+<p><strong>Work operation with obstacle avoidance</strong>
+Redundant 7-axis, orthogonal-axis design allows for close-to-human operation depending on the program.
+You can set the action to avoid obstacles.</p>
+
+<p><strong>Selectable Mode</strong>
+By the ROBOTIS servo, the position, speed, and torque (current) control can be selected in the mode.</p>
+
+<p><strong>ROS Adaptive</strong>
+Standard ROS Support.
+Combined with a variety of ROS packages, the range of research is broadened.</p>
+
+<ul>
+  <li><a href="https://github.com/rt-net/crane_x7_ros">ROS Package</a></li>
+  <li><a href="https://github.com/rt-net/crane_x7_ros/blob/master/crane_x7_examples/README.md">ROS Examples</a></li>
+</ul>
+
+<p><strong>Two Finger Hand End effecter equipped</strong>
+The CAD data will be released.
+You can make your own spare parts for repair, or make your own hand.</p>
+
+<p><strong>Compact Body</strong>
+Body weight is approximately 1,800 g
+Easy to carry and easy to set on a desk with a clamp.</p>
+
+<p><strong>Selectable body color</strong>
+You can enjoy the color variations of the body parts.
+The color can be selected from white ､ black ､ red ､ blue ､ yellow ､ green.</p>
+
+<h2 id="videos">Videos</h2>
+
+<p>CRANE-X7 Dice Stacking Demonstration</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o4QRqX-k5aE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>CRANE-X7 Dice Sorting Demonstration</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nu0attJPS7o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>CRANE-X7 ROS Operating Screen</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A3BTH81N6D8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>CRANE-X7 Node.js+Three.js</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3mZW4eVuI-c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<p>CRANE-X7 Gazebo</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YUSIregHHnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+:ET

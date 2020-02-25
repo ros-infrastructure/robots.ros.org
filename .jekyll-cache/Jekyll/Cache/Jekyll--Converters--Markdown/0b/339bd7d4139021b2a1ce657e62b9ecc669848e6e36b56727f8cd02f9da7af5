@@ -1,0 +1,12 @@
+I"<h1 id="manipulator-prbt">Manipulator PRBT</h1>
+
+<p>The PRBT by the automation company Pilz is a 6 axis manipulator module with a compact design and low weight (19kg). It has a load capacity of 6 kg and runs on a 24 V DC power supply which makes it very flexible in use.</p>
+
+<p>The PRBT is part of the Pilz Service Robotics Modules which also include a control module PRCM, an operator module PRTM and ROS modules. Suitable application areas are pick&amp;place applications, partially automated small-scale robotic cells and automated guided vehicle systems (AGVs). Besides the industrial environment, the PRBT is also ideal for universities and R&amp;D enviroments.</p>
+
+<p>ROS support for the PRBT is provided through a configuration package and a generic trajectory generator for the commands PTP, LIN and CIRC. As the ROS packages meet industrial quality requirements, the PRBT is ready for use with ROS in industrial and service robotics environments.</p>
+
+<p>Learn more about the ROS modules on the <a href="http://wiki.ros.org/pilz_robots">wiki page</a> and in the <a href="http://wiki.ros.org/pilz_robots/Tutorials">tutorials</a>.</p>
+
+<p>Find out more about the Pilz Service Robotics Modules on the <a href="https://www.pilz.com/en-DE/products-solutions/robotics">Pilz website</a>.</p>
+:ET

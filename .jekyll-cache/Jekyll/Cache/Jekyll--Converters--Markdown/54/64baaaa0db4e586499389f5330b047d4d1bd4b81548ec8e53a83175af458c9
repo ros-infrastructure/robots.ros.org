@@ -1,0 +1,16 @@
+I"@<h1 id="ar10-robotic-hand">AR10 Robotic Hand</h1>
+
+<p>This is the AR10 robotic hand from Active8 Robots.
+It is actuated using 10 prismatic servos which can be used to achieve a wide variety of poses.
+The hand is compatible with both Sawyer and Baxter, allowing it to cover a wide range of applications.</p>
+
+<h2 id="video">Video</h2>
+
+<iframe type="text/html" src="http://www.youtube-nocookie.com/embed/2vvypmp75K8" allowfullscreen="" width="480" height="270" frameborder="0"></iframe>
+
+<h2 id="installation-tutorials-and-support">Installation, Tutorials, and Support</h2>
+
+<p>Download the latest versions of the ROS packages <a href="https://github.com/Active8Robots/AR10">from here</a>.
+Tutorials are available <a href="http://wiki.ros.org/AR10/Tutorials">here</a>.
+For further support please contact Nick@active8robots.com .</p>
+:ET

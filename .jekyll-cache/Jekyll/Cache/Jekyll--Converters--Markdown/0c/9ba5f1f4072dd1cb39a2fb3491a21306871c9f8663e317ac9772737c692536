@@ -1,0 +1,4 @@
+I"V<p>Tally is an autonomous robot designed by Simbe Robotics for shelf auditing and analytics in retail stores. It drives around retail stores capturing high resolution sensor data of the shelves which is then uploaded to the cloud. This data is then processed and analyzed to generate insights that are of great value to the retailer.</p>
+
+<p>Tally is a differential drive robot that is powered by ROS. It has many sensors including planar LIDAR, RGBD cameras, high resolution RGB cameras, and sonars. Tally is also equipped with a charging dock that it can autonomously dock with when low on power. The main openly-available packages used from ROS are the various hardware/sensor drivers as well as foundational components of the ROS standard 2D navigation stack. All of the custom proprietary software within Tally is also implemented as ROS nodes.</p>
+:ET

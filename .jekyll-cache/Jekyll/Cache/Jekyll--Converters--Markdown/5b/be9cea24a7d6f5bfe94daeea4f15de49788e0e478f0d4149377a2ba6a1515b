@@ -1,0 +1,17 @@
+I"²<p>ROSbot is an autonomous, open source robot platform running on <a href="https://husarion.com/#products">CORE2-ROS</a> controller. It can be used as a learning platform for Robot Operating System as well as a base for a variety of robotic applications like inspection robots, custom service robots etc.</p>
+
+<iframe width="100%" height="360" src="https://www.youtube-nocookie.com/embed/aqJC23XcnyI" frameborder="0" allowfullscreen=""></iframe>
+
+<p>It integrates:</p>
+
+<ul>
+  <li>CORE2-ROS controller</li>
+  <li>4-wheels mobile platform containing DC motors with encoders and an alluminium frame</li>
+  <li>Digital camera</li>
+  <li>RPLIDAR A2 laser scanner</li>
+  <li>MPU 9250 inertial sensor (accelerometer + gyro)</li>
+  <li>rear panel providing interfaces for additional modules</li>
+</ul>
+
+<p>You can find dedicated ROSbot tutorials and manuals <a href="https://husarion.com/core2/tutorials/ros-tutorials/1-ros-introduction/">here</a>.</p>
+:ET

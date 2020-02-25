@@ -1,0 +1,78 @@
+I"<p>= Erle-Brain 2 =</p>
+
+<p>'’ROS Software Maintainer: <a href="http://erlerobotics.com">Erle Robotics</a>’’</p>
+
+<h2 id="overview">Overview</h2>
+<p>Since we made Erle-Brain we’ve got a lot of feedback on what’s most used and useful for users. With this in mind we are happy to announce we have released a new version of our brain: <a href="http://erlerobotics.com/blog/product/erle-brain-v2/">Erle-Brain 2</a>, a more powerful unit, smaller, faster and cheaper brain for building robots and drones.</p>
+
+<p>Erle-Brain 2 ships with a cost of 199 €, includes a quad-core Cortex-A7 with all the sensors needed to create copters, rovers, planes or even hexapods. It includes integrated optional 1080 HD 5MP camera, Wi-Fi, Bluetooth, 3G/4G networks, USB, Ethernet, I2C, HDMI and UART.</p>
+
+<p><img src="/assets/img/robots/erle-brain/io.png" alt="input output" /></p>
+
+<p>Erle-Brain 2 comes with a Debian image flashed, it used the <a href="http://ardupilot.com/">APM autopilot</a> and has ROS Indigo preinstalled including mavros package which exposes many of the APM features on ROS interfaces.</p>
+
+<p>For more information, check out the documentation section related to the latest <a href="http://erlerobotics.com/docs/Artificial_Brains_and_Autopilots/Operating_System_images/Debian.html">images</a></p>
+
+<h3 id="core-software-characteristics">Core software characteristics</h3>
+<ul>
+  <li>Linux 4.1 kernel compiled with the PREEMPT option</li>
+  <li>Debian Jessie file System</li>
+  <li>ROS Indigo</li>
+</ul>
+
+<h3 id="core-hardware-characteristics">Core hardware characteristics</h3>
+<p><img src="/assets/img/robots/erle-brain/connectors.jpg" alt="connectors" /></p>
+
+<ul>
+  <li>CPU: 900MHz quad-core ARM Cortex-A7 CPU, VideoCore IV 3D graphics core</li>
+  <li>RAM Memory:  1GB RAM</li>
+  <li>Flash memory: microSD compatible</li>
+  <li>Sensors: Gravity sensor, gyroscope, digital compass, Pressure sensor and tempertature sensor, ADC for battery sensing</li>
+  <li>Camera: 5MP Fixed focus lens, 2592 x 1944 pixel static images, supports 1080p30, 720p60 and 640x480p60/90 video record</li>
+</ul>
+
+<h2 id="documentation">Documentation</h2>
+
+<p>Erle-Brain</p>
+
+<ul>
+  <li><a href="http://erlerobotics.com/docs/Artificial_Brains_and_Autopilots/Erle-Brain_2/index.html">Erle-Brain Operation manual (English)</a></li>
+</ul>
+
+<p>Erle-Rover</p>
+
+<ul>
+  <li><a href="http://erlerobotics.com/docs/Robots/Erle-Rover/index.html">Erle-Rover Index (English)</a></li>
+</ul>
+
+<p>Erle-Copter</p>
+
+<ul>
+  <li><a href="http://erlerobotics.com/docs/Robots/Erle-Copter/index.html">Erle Copter Documentation Index (English)</a></li>
+  <li><a href="http://goo.gl/eEW5B8">Erle-Copter Assembly Instruction (English)</a></li>
+  <li><a href="http://goo.gl/ASYhTo">Erle-Copter Assembly Instruction (Spanish)</a></li>
+  <li><a href="http://erlerobotics.com/docs/Robots/Common_Parts/Legs_Assembly.html">Assembly instructions – Legs (English)</a></li>
+</ul>
+
+<p>Erle-Spider</p>
+
+<ul>
+  <li><a href="http://erlerobotics.com/docs/Robots/Erle-Spider/index.html">Erle-Spider Documentation Index</a></li>
+</ul>
+
+<p>PXFmini Autopilot shield</p>
+
+<ul>
+  <li><a href="http://erlerobotics.com/docs/Artificial_Brains_and_Autopilots/Autopilot_shields/PXFmini/index.html">PXFmini Documentation Index</a></li>
+</ul>
+
+<p>Erle Robotics maintains a <a href="http://erlerobotics.com/docs">Documentation</a> that mean to instruct how to use their technology.</p>
+
+<p>A video series about how to code autonomous behaviors for drones with our brains technology is available at https://www.youtube.com/playlist?list=PL39WpgKDjDfVfiNVG47DBi93wsh2XHKVO.</p>
+
+<h2 id="getting-help">Getting Help</h2>
+<p>Post in our forum at http://forum.erlerobotics.com/.</p>
+
+<h2 id="purchase">Purchase</h2>
+<p>Erle-Brain 2 is available through the <a href="https://erlerobotics.com/blog/tienda/">Erle Robotics store</a>.</p>
+:ET

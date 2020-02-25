@@ -1,0 +1,25 @@
+I"P<p>SUMMIT-X is a dual configuration mobile platform designed mainly for indoor tasks, although it also can work outdoor. SUMMIT-X robot can be raised to a considerable height (such a table, for example). The scissor mechanism of the mobile robot, has also the ability to lower its CDG allowing it to reach speeds up to 3m/s.</p>
+
+<p>It has omnidirectional or skid-steering kinematics based on 4 high-power motor wheels. Each wheel integrates a hub brushless motor with gearbox, speed sensors and optional encoder.</p>
+
+<h2 id="related-repositories">Related Repositories</h2>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/RobotnikAutomation/summit_x_sim">summit_x_sim</a>: Packages used for the simulation of the SUMMIT-X.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/RobotnikAutomation/summit_x_common">summit_x_common</a>: Contains the URDF description of the SUMMIT-X, platform messages and other files for simulation.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/RobotnikAutomation/summit_x_robot">summit_x_robot</a>: Packages used for the configuration and bringup of the SUMMIT-X robot.</p>
+  </li>
+</ul>
+
+<h2 id="more-information">More Information</h2>
+
+<ul>
+  <li><a href="http://www.robotnik.eu/mobile-robots/summit-x/">Robotnik SUMMIT-X</a></li>
+  <li><a href="https://github.com/RobotnikAutomation">Robotnik Github</a></li>
+</ul>
+:ET

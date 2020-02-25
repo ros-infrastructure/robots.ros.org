@@ -1,0 +1,60 @@
+I"0<p>Innok Heros is a modular outdoor all-terrain robot platform available in 2 or 4 wheel drive configurations. Due to its modular construction, it can be easily modified to suit lots of different agricultural, logistics, industrial and research applications.</p>
+
+<p><img src="/assets/img/robots/innok-heros/innok-heros-modular.jpg" alt="Modular" /></p>
+
+<h1 id="features">Features</h1>
+
+<p>Innok Heros is</p>
+
+<ul>
+  <li>very rugged</li>
+  <li>strong enough to pull a car</li>
+  <li>can carry payloads over 200kg</li>
+</ul>
+
+<p>Battery runtime between 3 - 16h can be expected depending on payload and usage.</p>
+
+<p>Innok Robotics offers integration of various sensors and actors onto the robot:</p>
+
+<ul>
+  <li>Cameras</li>
+  <li>laser scanners</li>
+  <li>GPS</li>
+  <li>IMU</li>
+  <li>mutliple high-end PCs for data processing</li>
+  <li>robot arms</li>
+  <li>carry boxes and trailers</li>
+  <li>scraper bars (robotic snow plow)</li>
+  <li>LED searchlights</li>
+  <li>wireless communication</li>
+  <li>…</li>
+</ul>
+
+<p>This robot can handle it all!</p>
+
+<p>Read more about Innok Heros at its <a href="http://www.innok-robotics.de/en/products/heros/applications/research-platform">homepage</a>.</p>
+
+<h1 id="ros-compatibility">ROS Compatibility</h1>
+
+<p>Innok Heros fully supports ROS. Find more information about its driver: <a href="http://wiki.ros.org/innok_heros_driver">innok_heros_driver</a>
+.</p>
+
+<p>The driver is using the ROS naming conventions for robot bases (e. g. “base_link” for the tf robot’s tf frame and “cmd_vel” for the velocity command message). Thus it is easy to use the Innok Heros with existing ROS software such as <a href="http://wiki.ros.org/navigation">the navigation stack</a> or mapping algorithms such as <a href="http://wiki.ros.org/hector_mapping">hector_mapping stack</a>.</p>
+
+<h1 id="simulation">Simulation</h1>
+
+<p><img src="/assets/img/robots/innok-heros/gazebo-heros-collage.png" alt="Modular" /></p>
+
+<p>To simulate Innok Heros with Gazebo <a href="http://wiki.ros.org/innok_heros_gazebo/Tutorials/Simulating Innok Heros">see here</a>.</p>
+
+<h1 id="videos">Videos</h1>
+
+<p>You can find several videos of some of Innok Heros in action on our <a href="http://www.youtube.com/user/InnokRobotics">Youtube channel</a>.</p>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/0qryoXi2ZN8?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Kum_6XkFluY?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/T_OOAaGwLBM?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/yRacjZVGh80?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/SPhMIFlpiUU?rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Wg-bU8r0l6E?rel=0" frameborder="0" allowfullscreen=""></iframe>
+:ET

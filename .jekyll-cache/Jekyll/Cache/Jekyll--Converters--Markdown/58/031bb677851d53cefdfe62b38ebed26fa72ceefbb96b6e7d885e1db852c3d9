@@ -1,0 +1,15 @@
+I"G<p>Allegro Hand is a low-cost and highly adaptive robotic hand.
+With four fingers and sixteen independent torque-controlled joints, it’s the perfect platform for grasp and manipulation research.</p>
+
+<ul>
+  <li>Lightweight and portable anthropomorphic design</li>
+  <li>Low-cost dexterous manipulation with applications in research and industry</li>
+  <li>Multiple ready-to-use sensorless grasping algorithms capable of handling a variety of object geometries</li>
+  <li>Capable of holding over 1.5kg</li>
+  <li>16 independent torque-controlled joints (4 fingers x 4 DOF ea.)</li>
+  <li>Support for real-time control and online simulation</li>
+  <li>ROS integration</li>
+</ul>
+
+<p>More information can be found on the Allegro Hand wiki: <a href="http://www.simlab.co.kr/AllegroHand/wiki">http://www.simlab.co.kr/AllegroHand/wiki</a></p>
+:ET

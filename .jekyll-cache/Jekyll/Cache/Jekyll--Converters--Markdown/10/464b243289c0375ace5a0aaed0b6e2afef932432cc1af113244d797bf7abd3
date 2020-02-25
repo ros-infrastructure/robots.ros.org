@@ -1,0 +1,19 @@
+I"(<p>Jazz is a mobile telepresence robot developed by <a href="http://www.gostai.com">Gostai</a>.</p>
+
+<p>Its main features are:</p>
+
+<ul>
+  <li>A mobile base providing odometry, and linear/angular speed control.</li>
+  <li>8 ultrasonic sensors, 4 IR sensors</li>
+  <li>Optional high-end 30m range telemetric laser for autonomous navigation.</li>
+  <li>800x480 LCD screen</li>
+  <li>Wifi 802.11G</li>
+  <li>A USB2 port  for extra accessories (cameras, modules…)</li>
+  <li>D510 1.66GHz processor with Linux OS (Ubuntu 10.04 server)</li>
+  <li>2 camera types: 1600 X 1200 – 30 FPS - Vision angle: 90° OR 720 x 576 – 25 FPS – Vision angle: 170°</li>
+  <li>A battery providing 5 hours of autonomy.</li>
+  <li>A charging dock. The robot is capable of docking itself automatically if positioned near its docking station.</li>
+</ul>
+
+<p>Jazz is available in multiple versions. The <a href="http://www.gostai.com/products/jazz/openjazz/">Open Jazz</a> version is specifically tailored for research purposes and comes with a SDK that provides a ROS interface.</p>
+:ET

@@ -1,0 +1,4 @@
+I"`<p><a href="http://erlerobotics.com/blog/erle-rover">Erle-Rover</a> is a Linux-based Unmanned Ground Vehicle (UGV) that uses the Robot Operating System (ROS) and the APM:Rover APM:Rover autopilot.</p>
+
+<p>Erle-Rover is powered by Erle-brain Linux autopilot which includes ROS and communicates with the flight software using the mavros ROS package.</p>
+:ET

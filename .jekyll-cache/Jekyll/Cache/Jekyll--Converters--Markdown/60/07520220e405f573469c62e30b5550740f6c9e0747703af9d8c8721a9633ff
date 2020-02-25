@@ -1,0 +1,8 @@
+I"�<h1 id="softbank-robotics-pepper">Softbank Robotics Pepper</h1>
+<p>Pepper is a commercially available humanoid robot built by Aldebaran and Softbank Robotics.
+Since the robot uses Aldebaran’s NaoQI framework, we can use naoqi driver ROS driver that is common for Nao, Pepper, and Romeo.
+It wraps the needed parts of NaoQI API and makes it available in ROS.</p>
+
+<p>A list of tutorials inclusive install and bring-up instructions can be found <a href="http://wiki.ros.org/pepper/Tutorials">here</a>.
+Since Pepper and Nao both use the same NaoQI framework, see <a href="http://wiki.ros.org/nao/Tutorials">Nao’s tutorials</a> for further references.</p>
+:ET

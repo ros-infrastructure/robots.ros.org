@@ -1,0 +1,10 @@
+I"¶<h1 id="commonplace-robotics-slidersra">Commonplace Robotics SliderSRA</h1>
+
+<p>The Commonplace Robotics SliderSRA is a light indoor manipulation platform.
+The Slider150 platform provides excellent positioning with its mecanum wheels.
+The SRA robot arm provides a high reach with good payload.
+Integrated embedded PC with WLAN, batteries and sensors provide the necessary autonomy.
+Basic ROS packages establish the hardware interface, provide a RViz teleop plugin and MoveIt functionality.</p>
+
+<p>Follow these links for <a href="http://www.cpr-robots.com/products/slider150SRA.html">datasheets and media</a> and <a href="http://wiki.cpr-robots.com">suitable use cases and interfacing</a>.</p>
+:ET

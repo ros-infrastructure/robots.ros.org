@@ -1,0 +1,18 @@
+I";<h1 id="x-terrabot">X-Terrabot</h1>
+
+<p>ASIMoV Robotics has launched a new series of multi-purpose mobile platforms useful for indoor and outdoor applications with unique omni-directional mobility and unmatched payload capabilities.
+X-Terrabot’s software system is written entirely in ROS.
+X-Terrabot is available in two flavors: X-Terrabot(Omni) and X-Terrabot(Mecanum).</p>
+
+<p><strong>X-Terrabot Omni</strong> wheel base is a unique four wheel drive mobile platform with each wheel independently steered.
+With this capability, the robot can move omni-directionally unlike other standard four wheeled robots.
+With the help of advanced suspension systems, it can also move over carpets and small bumps when used indoor and on leveled roads in outdoor applications.</p>
+
+<p><strong>X-Terrabot Mecanum</strong> is a four wheel drive mobile platform with Mecanum wheels.
+Its unique feature is that it has a split mount platform suitable for mounting two manipulators and other accessories simultaneously.
+These platforms are on a slider base which can extend outwards whenever required to increase the work envelop of the arms.</p>
+
+<h2 id="support">Support</h2>
+
+<p>ASIMoV Robotics supports the X-Terrabot’s software and infrastructure. Visit <a href="http://www.asimovrobotics.com">http://www.asimovrobotics.com</a> for more info.</p>
+:ET

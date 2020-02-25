@@ -1,0 +1,8 @@
+I"—<h1 id="hironxo">HiroNXO</h1>
+
+<p>The NEXTAGE OPEN / Hiro (HiroNXO) is a manipulation platform built by Kawada Industries.
+The HiroNXO software system is written in hrpsys (OpenRTM-based controller), and its programming interface is available in ROS as well.
+Most of HiroNXO capabilities are available via ROS interfaces.</p>
+
+<p>It is recommended to start with its opensource software tutorial series.</p>
+:ET

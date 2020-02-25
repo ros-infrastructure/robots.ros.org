@@ -1,0 +1,10 @@
+I"<<p>The Omron Adept MobileRobots PowerBot is a rugged general purpose
+differential-drive mobile robot platform with several options including
+sensors, onboard computer, autonomous navigation software, and more.
+The PowerBot is designed for large and/or very heavy payloads.</p>
+
+<p>The PowerBot can be used in ROS using the “rosaria”, “rosarnl”, or “p2os” drivers,
+and model and launch configuration is available. Visit
+<a href="http://wiki.ros.org/Robots/AMR_Pioneer_Compatible">http://wiki.ros.org/Robots/AMR_Pioneer_Compatible</a> for more information.</p>
+
+:ET

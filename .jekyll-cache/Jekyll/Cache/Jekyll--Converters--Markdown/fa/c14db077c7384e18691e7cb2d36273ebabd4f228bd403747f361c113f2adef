@@ -1,0 +1,4 @@
+I"�<p><a href="https://erlerobotics.com/blog/product/erle-hexacopter/">Erle-HexaCopter</a> is a “heavy lifter” version of <a href="http://wiki.ros.org/Robots/Erle-copter">Erle-Copter</a>, a Linux-based drone that uses the award winning <a href="http://copter.ardupilot.com/">APM:Copter</a> autopilot software. It’s capable of the different flight modes and ideal for outdoor operations. It has been designed for an extended flight time and it can carry a takeoff weight of about 3-4  kilograms.</p>
+
+<p><a href="https://erlerobotics.com/blog/product/erle-hexacopter/">Erle-HexaCopter</a> is powered by <a href="Robots/Erle-brain">Erle-brain</a> Linux autopilot which includes ROS and communicates with the flight software using the [[mavros]] ROS package.</p>
+:ET

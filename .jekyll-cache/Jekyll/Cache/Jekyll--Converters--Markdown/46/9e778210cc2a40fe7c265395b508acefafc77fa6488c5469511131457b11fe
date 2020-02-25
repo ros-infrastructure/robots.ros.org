@@ -1,0 +1,29 @@
+I"�<h1 id="robotino">Robotino</h1>
+
+<p>'’ROS Software Maintainer: <a href="HozefaIndorewala">Hozefa Indorewala</a> for <a href="http://servicerobotics.eu/">REC GmbH</a>’’</p>
+
+<p>Robotino is a popular mobile robot system developed by <a href="http://www.festo-didactic.com/int-en/">Festo Didactic</a>. Robotino comes with sensors, actuators and software interfaces that you would expect from a modern state of the art mobile robot system.</p>
+
+<p><a href="http://www.ros.org/news/2010/06/robots-using-ros-robotino.html">Robots using ROS</a>.</p>
+
+<h2 id="sensors--actuators">Sensors &amp; Actuators</h2>
+
+<p>Robotino is equipped with the following sensors:</p>
+<ol>
+  <li>Infrared sensors</li>
+  <li>Bumper sensor</li>
+  <li>Optical sensors</li>
+  <li>Inductive sensors</li>
+  <li>Colour Camera</li>
+</ol>
+
+<p>Robotino can be further enhanced by equipping it with the following sensors. These sensors can be also purchased from the online store <a href="http://www.roboparts.de/">robotparts.de</a></p>
+<ol>
+  <li>Kinect Sensor</li>
+  <li>Hokuyo Laser Range Finder</li>
+</ol>
+
+<h2 id="support">Support</h2>
+
+<p>For bug reports, feature requests and other help, please use the <a href="http://www.openrobotino.org"> OpenRobotino Forum</a>.</p>
+:ET

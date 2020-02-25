@@ -1,0 +1,71 @@
+I" <h1 id="niryo-one">NIRYO ONE</h1>
+
+<p>Niryo One is a <strong>collaborative</strong> and <strong>open source</strong> <strong>6-axis robot</strong> made in France for:</p>
+
+<ul>
+  <li>Higher education</li>
+  <li>Vocational training</li>
+  <li>R&amp;D laboratories</li>
+</ul>
+
+<p>Its use is particularly adapted to study robotics and programming in the context of the <strong>industry 4.0</strong>.</p>
+
+<h2 id="features">Features</h2>
+
+<h3 id="a-powerful-robot">A powerful robot</h3>
+<ul>
+  <li>Powered by Arduino and Raspberry Pi.</li>
+  <li>3 Dynamixels XL servomotors.</li>
+  <li>3 Smart stepper motors.</li>
+</ul>
+
+<h3 id="effective-design">Effective design</h3>
+<ul>
+  <li><strong>Affordable</strong> and <strong>polyvalent</strong>.</li>
+  <li><strong>6 degrees of freedom</strong> to stay true to the industry context.</li>
+</ul>
+
+<h3 id="ros">ROS</h3>
+<ul>
+  <li>Based on ROS.</li>
+  <li>Animated by MoveIt.</li>
+  <li>
+    <p>Gazebo simulation</p>
+  </li>
+  <li><a href="https://github.com/NiryoRobotics/niryo_one_ros">ROS Package</a></li>
+  <li><a href="https://github.com/NiryoRobotics/niryo_one_ros_simulation">ROS Package Simulation</a></li>
+</ul>
+
+<h3 id="v-rep">V-REP</h3>
+<ul>
+  <li>V-REP model available soon.</li>
+  <li>Use for simulation and <strong>Digital-Twin</strong>.</li>
+</ul>
+
+<h3 id="multiple-end-effectors">Multiple End Effectors</h3>
+<ul>
+  <li>3 different grippers,</li>
+  <li>A vacuum pump,</li>
+  <li>And an electromagnet.</li>
+</ul>
+
+<h3 id="a-full-open-source-robot">A full open source robot</h3>
+<ul>
+  <li>3D printed</li>
+  <li>Source code and STL files accessible</li>
+  <li>Fully customizable</li>
+</ul>
+
+<h2 id="overview">Overview</h2>
+
+<iframe width="80%" height="360" src="https://www.youtube-nocookie.com/embed/QUqCi0_axxI?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="links">Links</h2>
+<ul>
+  <li><a href="https://niryo.com/niryo-one/">Niryo One</a></li>
+  <li><a href="https://niryo.com/niryo-one-accessories/">Niryo Oneâ€™s accessories</a></li>
+  <li><a href="https://niryo.com/docs/niryo-one/user-manual/mechanical-specifications/">Mechanical specifications</a></li>
+  <li><a href="https://niryo.com/docs/niryo-one/">Documentation</a></li>
+</ul>
+
+:ET

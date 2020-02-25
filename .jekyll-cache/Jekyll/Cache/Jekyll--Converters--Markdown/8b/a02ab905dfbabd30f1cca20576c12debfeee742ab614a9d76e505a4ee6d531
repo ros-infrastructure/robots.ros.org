@@ -1,0 +1,22 @@
+I"0<p>'’ROS Software Maintainer: Román Navarro’’</p>
+
+<p>Guardian is a modular robot with high mobility built by Robotnik Automation. In this page you can find the different drivers that we have implemented and all the necessary for the ‘'’Guardian’’’ robot simulation (including teleoperation and AMCL/SLAM navigation).</p>
+
+<h2 id="guardian-mobile-manipulators">Guardian Mobile Manipulators</h2>
+<p>To run this modifications you need to download and compile previously some additional packages.</p>
+
+<h3 id="g-wam-guardian--barret-wam-arm">G-WAM (Guardian + Barret WAM Arm)</h3>
+<ul>
+  <li><a href="http://code.google.com/p/guardian-ros-pkg/wiki/gwam">G-WAM repository</a></li>
+</ul>
+
+<h3 id="g-ball-guardian--schunk-powerball-lightweight-arm">G-BALL (Guardian + Schunk Powerball Lightweight Arm)</h3>
+<ul>
+  <li><a href="http://code.google.com/p/guardian-ros-pkg/wiki/gball">G-BALL repository</a></li>
+</ul>
+
+<h2 id="related-repositories">Related Repositories</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/guardian-ros-pkg">guardian-ros-pkg</a></li>
+</ul>
+:ET

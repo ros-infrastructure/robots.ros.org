@@ -1,0 +1,43 @@
+I"A<h1 id="summit-xl-steel">Summit-XL-Steel</h1>
+
+<p>SUMMIT-XL STEEL is a robotic platform for application development (logistics, indoor transport, etc.) manufactured by <a href="http://www.robotnik.eu/">Robotnik</a>. Its excellent mechanical steel structure allows carrying heavy loads up to 130 Kg.</p>
+
+<p>The robot base can navigate autonomously or teleoperated by means of a PTZ camera that transmits video in real time.</p>
+
+<h2 id="characteristics">Characteristics</h2>
+
+<ul>
+  <li>Dimensions: 843 x 524 x 415 mm</li>
+  <li>Weight: 90 Kg</li>
+  <li>Load capacity: 130 Kg</li>
+  <li>Speed: 3 m/s</li>
+  <li>Accessories:
+    <ul>
+      <li>2x Laser (e.g. Hokuyo, Sick family) providing 360 degrees of coverage</li>
+      <li>Inertial Measurement System nIMU</li>
+      <li>2x Cameras PTZ (front and rear)</li>
+      <li>GPS</li>
+      <li>Camera range 3D (ORBBEC)</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="releated-repositories">Releated Repositories</h2>
+
+<p>The following metapackages provide all the necessary ROSpackages for simulating in Gazebo and Rviz.</p>
+
+<ul>
+  <li><a href="http://wiki.ros.org/summit_xl_sim">summit_xl_sim</a> : Packages for the simulation of the SUMMIT XL and SUMMIT XL STEEL.</li>
+  <li><a href="http://wiki.ros.org/summit_xl_common">summit_xl_common</a> : Common packages of the SUMMIT XL: URDF description of the SUMMIT XL, SUMMIT XL HL, SUMMIT XL STEEL, platform messages and other files for simulation.</li>
+</ul>
+
+<h2 id="videos">Videos</h2>
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/sux1CQDGuSs?rel=0" frameborder="0" allowfullscreen=""></iframe>
+
+<h2 id="more-information">More Information</h2>
+<ul>
+  <li><a href="https://www.robotnik.eu/mobile-robots/summit-xl-steel/">Robotnik Automation</a></li>
+  <li><a href="https://github.com/RobotnikAutomation">Robotnik Github</a></li>
+</ul>
+:ET

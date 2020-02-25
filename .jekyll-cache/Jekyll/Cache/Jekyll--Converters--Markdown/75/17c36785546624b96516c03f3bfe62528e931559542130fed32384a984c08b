@@ -1,0 +1,11 @@
+I"æ<p>#TUlip</p>
+
+<p>TUlip is a humanoid robot developed in the <a href="http://www.tue.nl/en/university/departments/mechanical-engineering/research/research-groups/dynamics-and-control/">Dynamics and Control group</a> of the <a href="http://www.tue.nl/en/university/departments/mechanical-engineering/">department of Mechanical Engineering</a> at the <a href="http://www.tue.nl/en/">Eindhoven University of Technology</a>.</p>
+
+<p>TUlip has been designed and realized in 2009 by the Eindhoven University of Technology in cooperation with the Delft University of Technology, the University of Twente en Philips.
+The robot is 125 centimeters tall, weighs approximately 25 kilograms, and has two legs with each six degrees of freedom.
+An inertial measurement unit provides orientation information for the robot and a head with a stereovision camera system mounted on a neck mechanism gives TUlip 3D vision.
+Contact forces with the ground are measured through pressure sensors under its feet.</p>
+
+<p>Research in the humanoid robotics group focuses on dynamics and balance of human-like walking, computer vision, localization and path planning to ensure autonomous operation of walking robots in natural environments, such as homes, offices and hospitals.</p>
+:ET

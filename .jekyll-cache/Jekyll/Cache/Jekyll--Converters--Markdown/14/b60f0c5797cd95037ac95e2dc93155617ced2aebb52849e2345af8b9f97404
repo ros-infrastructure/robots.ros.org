@@ -1,0 +1,46 @@
+I"<h1 id="what-is-qtrobot">What is QTrobot?</h1>
+<p>QTrobot, is a commercial available toddler-like humanoid robot built by <a href="http://www.luxai.com">LuxAI S.A.</a>. It is a socially engaging and interactive robot with a wide areas of application. QTrobot is currently being used for emotional training of children with autism, post-stroke rehabilitation and elderly cognitive and physical rehabilitation.</p>
+
+<h2 id="develop-engaging-applications-effortlessly">Develop engaging applications effortlessly</h2>
+<p>QTrobot is a powerful and developer-friendly humanoid robot for research on human-robot interaction and robotics. With exceptional processing capabilities, standard development environment and direct connections to the robot’s <em>display, Lan/Wifi, Mouse and Keyboard</em>, QTrobot is a <strong>stand-alone</strong> social robot platform to save your time in R&amp;D and teaching. (<strong>No need for cross compilation!</strong>)
+<a href="http://www.luxai.com/"><img src="/assets/img/robots/qtrobot/qtrobot-devel.png" alt="N|Solid" /></a></p>
+
+<h2 id="graphical-interface-for-even-easier-programming">Graphical Interface for even easier programming</h2>
+<p>Using its graphical interface, you can easily script new applications for your QTrobot according to your experiment’s setup. Just by drag and drop, put different components together and build interactive applications to integrate QTrobot in your research.
+<a href="http://www.luxai.com/"><img src="/assets/img/robots/qtrobot/qtrobot-gui.jpg" alt="N|Solid" /></a></p>
+
+<h2 id="qtrobot-ros-standard-interfaces">QTrobot ROS standard interfaces</h2>
+<p>The QTrobot ROS interface aims to facilitate accessing basic robot functionalities leveraging a set of user-friendly ROS interfaces. Each robot’s functionality can be accessed in blocking and non-blocking mode using ROS publish/subscribe and Service/Client interfaces. For the time being, the following interfaces have been implemented:</p>
+<ul>
+  <li><strong>Robot Emotion</strong>  : implements robot facial emotion</li>
+  <li><strong>Robot Speech</strong>   : implements robot text to speech functionality</li>
+  <li><strong>Robot Audio</strong>    : implement a simple player to play standard audio files</li>
+  <li><strong>Robot Gesture</strong>  : implements robot gesture control</li>
+  <li><strong>Robot Behavior</strong> : implements more complex behaviors by combining the robot basic functionality</li>
+</ul>
+
+<p>Please visit <a href="http://wiki.ros.org/Robots/qtrobot">QTrobot Wiki</a> page for detailed information on how to use QTrobot in ROS.</p>
+
+<h3 id="example-accessing-qt-robot-interface-from-a-python-script">Example: Accessing QT Robot interface from a python script</h3>
+<p><strong>[Non-blocking mode]</strong> The following example shows how to access QT Robot <em>Speech</em> functionality using ROS publish/subscribe method from python:</p>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">rospy</span>
+<span class="kn">from</span> <span class="nn">std_msgs.msg</span> <span class="kn">import</span> <span class="n">String</span>
+
+<span class="c1"># create a publisher
+</span><span class="n">speechSay_pub</span> <span class="o">=</span> <span class="n">rospy</span><span class="o">.</span><span class="n">Publisher</span><span class="p">(</span><span class="s">'/qt_robot/speech/say'</span><span class="p">,</span> <span class="n">String</span><span class="p">,</span> <span class="n">queue_size</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+<span class="o">...</span>
+<span class="c1"># publish a text message to TTS (non-blocking)
+</span><span class="n">speechSay_pub</span><span class="o">.</span><span class="n">publish</span><span class="p">(</span><span class="s">"Hello! I am QT!"</span><span class="p">)</span>
+</code></pre></div></div>
+<p><strong>[blocking mode]</strong> And the following example, re-implements the previous one using ROS Service/Client method from python:</p>
+<div class="language-py highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">rospy</span>
+<span class="kn">from</span> <span class="nn">std_msgs.msg</span> <span class="kn">import</span> <span class="n">String</span>
+<span class="kn">from</span> <span class="nn">qt_robot_interface.srv</span> <span class="kn">import</span> <span class="o">*</span>
+
+<span class="c1"># create a service clients
+</span><span class="n">speechSay</span> <span class="o">=</span> <span class="n">rospy</span><span class="o">.</span><span class="n">ServiceProxy</span><span class="p">(</span><span class="s">'/qt_robot/speech/say'</span><span class="p">,</span> <span class="n">speech_say</span><span class="p">)</span>
+<span class="o">...</span>
+<span class="c1"># call the service (blocking)
+</span><span class="n">resp</span> <span class="o">=</span> <span class="n">speechSay</span><span class="p">(</span><span class="s">"Hello! I am QT."</span><span class="p">)</span>
+</code></pre></div></div>
+:ET

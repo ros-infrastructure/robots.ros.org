@@ -1,0 +1,8 @@
+I"+<h1 id="commonplace-robotics-mover4-mover5-and-mover6">Commonplace Robotics Mover4, Mover5, and Mover6</h1>
+
+<p>The Commonplace Robotics Mover robots are developed for education, research and entertainment.
+Three versions with 4, 5, and 6 joints plus gripper are available.
+ROS packages establish the hardware interface, provide and RViz teleop plugin and MoveIt functionality.</p>
+
+<p>Follow these links for <a href="http://www.cpr-robots.com">datasheets and media</a> and <a href="http://wiki.cpr-robots.com">suitable use cases and interfacing</a>.</p>
+:ET

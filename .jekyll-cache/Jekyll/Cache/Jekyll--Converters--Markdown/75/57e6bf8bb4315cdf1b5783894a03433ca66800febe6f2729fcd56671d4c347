@@ -1,0 +1,7 @@
+I"�<h1 id="otto-bock-sensorhand-speed">Otto Bock SensorHand Speed</h1>
+<p>SensorHand Speed is a hand prosthetics product developed by Otto Bock.
+The device essentially consists of a force and velocity controlled gripper that is controlled by integrated electronics.
+In normal operation mode, electrodes that are attached to the user’s arm are connected to the hand’s interface and provide analog signals that allow gripping operations.
+The hand can also be switched to communications mode which allows accessing the device via an RS-232 interface (19200-8-N-1).
+It is also possible to set the device to a mode in which internal data (measured forces, voltages and currents) is sent over the serial interface every 12 ms.</p>
+:ET

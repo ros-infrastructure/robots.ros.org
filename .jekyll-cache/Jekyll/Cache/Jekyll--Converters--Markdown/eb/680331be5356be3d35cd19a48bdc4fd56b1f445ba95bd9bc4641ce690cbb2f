@@ -1,0 +1,51 @@
+I"�<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/o8F8DLXMTv8" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+
+<h2 id="what-is-revel">What is Revel?</h2>
+<p>Revel is a medium sized, lightweight, power efficient 6 degree of freedom robotic manipulator from Svenzva Robotics. But Revel is also…</p>
+
+<h3 id="a-platform-for-teaching">A platform for teaching</h3>
+<p><img src="/assets/img/robots/revel/revel_education.jpg" alt="Revel is used for education" class="img-responsive" /></p>
+
+<p>The Revel Robotic Arm’s abilities make it uniquely poised as an inexpensive platform for education. Whether you’re teaching robotic principles, robotics in manufacturing, control theory or artificial intelligence- Revel is a perfect test bed.</p>
+
+<h3 id="a-way-to-automate">A way to automate</h3>
+<p><img src="/assets/img/robots/revel/revel_automation.jpg" alt="Revel automates material handling" class="img-responsive" /></p>
+
+<p>Using ROS and Svenzva Robotics’ software, Revel can be taught a new behavior quickly and repeatably. This makes Revel an inexpensive option to test or add automation to your company’s light manufacturing workflow.</p>
+
+<h3 id="a-flexible-research-tool">A flexible research tool</h3>
+<p><img src="/assets/img/robots/revel/revel_research.jpg" alt="Revel conducts material research" class="img-responsive" /></p>
+
+<p>Revel’s motors provide you with all the data you could need: position, velocity, acceleration, torque through current sensing, just to name a few.
+Revel has high level control through ROS drivers, the MoveIt! and  ros_control packages, and cartesian commanded movement, allowing you to get up and running on the platform quickly.</p>
+
+<p>However, the motors also have low level access, should you need it. So you can implement your own control loop algorithm at any time.</p>
+
+<h3 id="a-tailor-made-experience">A tailor made experience</h3>
+<p><img src="/assets/img/robots/revel/revel_solder.jpg" alt="Revel solder station" class="img-responsive" /></p>
+
+<p>Modifying your robot shouldn’t be a headache. With Revel, its a breeze.
+Revel’s design allows you to make modifications for your specific use case. Use Svenzva’s own accessories like their <a href="https://svenzva.com/product/ultra-quiet-vacuum-gripper-system-for-robotic-arms/">vacuum gripper system</a>. Or bring your own with confidence with Revel’s open body design and mountable accessory areas.</p>
+
+<p>Visit Revel’s <a href="https://svenzva.com/revel">product page</a> for more information.</p>
+
+<p>Feature highlights</p>
+<ul>
+  <li>$6.5k USD price point</li>
+  <li>6 DOF + Parallel Gripper</li>
+  <li>modular gripper fingers</li>
+  <li>low power consumption &amp; lightweight</li>
+  <li>63cm maximum reach</li>
+  <li>1.2kg maximum payload at full reach</li>
+  <li>embedded, MoveIt! and ros_control control interfaces</li>
+  <li>force control and gravity compensation for human-to-robot kinesthetic teaching</li>
+  <li>highly customizable with a growing accessory arsenal</li>
+</ul>
+
+<h2 id="force-control-with-gravity-compensation">Force control with gravity compensation</h2>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MlfV4AAb_Os" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+
+<h1 id="moveit-demonstration">MoveIt! Demonstration</h1>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4sGlWGcBTSk?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+
+:ET

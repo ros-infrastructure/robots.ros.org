@@ -1,0 +1,66 @@
+I"�<h2 id="openmanipulator">OpenManipulator</h2>
+<p><img src="/assets/img/robots/openmanipulator/openmanipulator.png" alt="OpenManipulator" /></p>
+
+<p>ROS-enabled OpenManipulator is a full open robot platform consisting of OpenSoftware, OpenHardware and OpenCR(Embedded board)​.</p>
+
+<h3 id="opensoftware">OpenSoftware</h3>
+<p>OpenManipulator are based on ROS ​and OpenSource. ROS official hardware platform, TurtleBot series has been supporting TurtleBot Arm. The OpenManipulator has full hardware compatibility with TurtleBot3​, and allows users to control it more easily by linking with the MoveIT! package. Even if you do not have a real robot, you can control the robot in the Gazebo simulator​.</p>
+
+<h3 id="openhardware">OpenHardware</h3>
+<p>The OpenManipulator is oriented towards Open Hardware​. Most of the components except for some frames are uploaded as <a href="https://cad.onshape.com/documents/9442f03bd8ccac084fda9dd3/w/039e8dbd53e0782540ea5b0d/e/9d3986b1e15cd5dce9557032">STL files</a> that can be 3d printing. This allows users to modify the length of the link and the design of the robot to suit the intended use. The open manipulator also uses the Dynamixel X ​series used in TurtleBot3. Dynamixel has a modular form and adopts daisy chain method. This allows users to easily change and add joints for some torque and degree of freedom they need. Taking advantage of these advantages, we are planning a total of seven different types (For example, Chain, SCARA, Link, Planar, Delta, Stewart and Linear) of OpenManipulator.</p>
+
+<h3 id="opencr-embedded-board">OpenCR (Embedded board)</h3>
+<p>The OpenManipulator can also be controlled via <a href="http://emanual.robotis.com/docs/en/parts/controller/opencr10/">OpenCR (Open-source Control module for ROS)</a>, the control board of TurtleBot3. OpenCR’s computing power and real-time control are used to support forward, inverse kinematics, and profile control examples. In addition, OpenCR can interoperate with many functions provided by ROS through message communication with ROS, which will evolve into ROS 2.0 in the future.</p>
+
+<h3 id="examples">Examples</h3>
+<p>OpenManipulator is composed by <a href="http://www.robotis-shop-en.com/?act=shop_en.goods_list&amp;GC=GD0801">Dynamixel X series</a> and <a href="https://cad.onshape.com/documents/9442f03bd8ccac084fda9dd3/w/039e8dbd53e0782540ea5b0d/e/9d3986b1e15cd5dce9557032">3D printing parts</a>. Dynamixel has a modular form and adopts daisy chain method. This allows users to easily change and add joints for some torque and degree of freedom they need. Moreover, growing 3D printing technology makes anyone can make anything they want with low cost and rapid time. We suggest some examples of links and safety parts. Taking advantage of these advantages, we are planning a total of seven different types of OpenManipulator.</p>
+
+<h2 id="robotis-e-manual-for-openmanipulator">ROBOTIS e-Manual for OpenManipulator</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/openmanipulator/">ROBOTIS e-Manual for OpenManipulator</a></li>
+</ul>
+
+<h2 id="wiki-for-openmanipulator-packages">Wiki for OpenManipulator Packages</h2>
+<ul>
+  <li><a href="http://wiki.ros.org/open_manipulator">http://wiki.ros.org/open_manipulator</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_description">http://wiki.ros.org/open_manipulator_description</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_dynamixel_ctrl">http://wiki.ros.org/open_manipulator_dynamixel_ctrl</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_gazebo">http://wiki.ros.org/open_manipulator_gazebo</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_moveit">http://wiki.ros.org/open_manipulator_moveit</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_msgs">http://wiki.ros.org/open_manipulator_msgs</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_position_ctrl">http://wiki.ros.org/open_manipulator_position_ctrl</a></li>
+  <li><a href="http://wiki.ros.org/open_manipulator_with_tb3">http://wiki.ros.org/open_manipulator_with_tb3</a></li>
+</ul>
+
+<h2 id="open-source-related-to-openmanipulator">Open Source related to OpenManipulator</h2>
+<ul>
+  <li><a href="https://github.com/ROBOTIS-GIT/open_manipulator">open_manipulator</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3">turtlebot3</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_msgs">turtlebot3_msgs</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_simulations">turtlebot3_simulations</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_applications">turtlebot3_applications</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_autorace">turtlebot3_autorace</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/turtlebot3_deliver">turtlebot3_deliver</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/hls_lfcd_lds_driver">hls_lfcd_lds_driver</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-MANIPULATOR-H">manipulator_h</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/DynamixelSDK">dynamixel_sdk</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/dynamixel-workbench">dynamixel_workbench</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/ROBOTIS-Math">robotis_math</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR-Hardware">OpenCR-Hardware</a></li>
+  <li><a href="https://github.com/ROBOTIS-GIT/OpenCR">OpenCR</a></li>
+</ul>
+
+<h2 id="documents-and-videos-related-to-openmanipulator">Documents and Videos related to OpenManipulator</h2>
+<ul>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/openmanipulator/">ROBOTIS e-Manual for OpenManipulator</a></li>
+  <li><a href="http://turtlebot3.robotis.com/">ROBOTIS e-Manual for TurtleBot3</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/platform/manipulator_h/introduction/">ROBOTIS e-Manual for ROBOTIS MANIPULATOR-H</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/">ROBOTIS e-Manual for Dynamixel SDK</a></li>
+  <li><a href="http://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_workbench/">ROBOTIS e-Manual for Dynamixel Workbench</a></li>
+  <li><a href="https://community.robotsource.org/t/download-the-ros-robot-programming-book-for-free/51/">e-Book for TurtleBot3 and OpenManipulator</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLRG6WP3c31_WpEsB6_Rdt3KhiopXQlUkb">Videos for OpenManipulator</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLRG6WP3c31_XI3wlvHlx2Mp8BYqgqDURU">Videos for TurtleBot3 and OpenManipulator</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B2pnXtooKOg" frameborder="0" allowfullscreen=""></iframe>
+:ET
