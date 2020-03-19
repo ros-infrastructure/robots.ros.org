@@ -5,7 +5,7 @@ date: 2020-03-06
 description:
 icon: /assets/img/robots/xseries-robot-turret/xseries_robot_turrets.jpg
 image: /assets/img/robots/xseries-robot-turret/xseries_robot_turrets_large.jpg
-introduction: "X-Series Robot Turrets are high resolution pan and tilt kits built around the high performance DYNAMIXEL X-Series smart servos from Robotis. The turrets are ideal for applications utilizing vision tracking or cameras.
+introduction: "X-Series Robot Turrets are high resolution pan and tilt kits built around the high performance DYNAMIXEL X-Series smart servos from Robotis. The turrets are ideal for applications utilizing vision tracking or cameras."
 main-class: 'manipulator'
 color: '#BF16EB'
 tags:
