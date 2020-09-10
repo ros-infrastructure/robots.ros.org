@@ -1,8 +1,3 @@
----
-layout: post
-title: caster-moma
-date: 2020-07-30
-​---
 layout: post
 title: Caster Moma
 date: 2020-07-23
