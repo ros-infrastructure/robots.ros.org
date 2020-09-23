@@ -16,7 +16,6 @@ disqus_username: lorem_ipsum
 featured_robots:
   - Magni Silver
 
-
 # Build settings
 markdown: kramdown
 highlighter: rouge
