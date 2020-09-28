@@ -19,7 +19,7 @@ tags:
 - 'pick and place'
 twitter_text: Checkout the MIP robotics Junior 300
 website: https://www.mip-robotics.com/
-wiki_homepage: https://github.com/MIPRobotics/ROS_robotics_simulation
+wiki_homepage: http://wiki.ros.org/mip-robotics/junior-300
 ---
 
 # **MIP robotics : Making Industrial Robotics Accessible To All**
