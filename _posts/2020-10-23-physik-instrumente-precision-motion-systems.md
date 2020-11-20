@@ -38,28 +38,33 @@ Please also note that the “PIHexapodemulator” – a virtual machine to simul
 
 ### Github - Resource
 
-*   Find at Github - PI ROS Treiber: https://github.com/PI-PhysikInstrumente/PI_ROS_Driver 
+*   [Find at Github - PI ROS Driver](https://github.com/PI-PhysikInstrumente/PI_ROS_Driver "Github") 
 
 
 ### Contact us/Technical Support
 
-*   Contact Physik Instrumente (PI) GmbH & Co. KG: https://www.physikinstrumente.com/en/service/contact-form/contact-form-service/
+*   [Contact Physik Instrumente (PI) GmbH & Co. KG](https://www.physikinstrumente.com/en/service/contact-form/contact-form-service "Service")
 
 
 ### PI Manipulators in Motion
 
 #### Fastest Way to Program a 6DOF Hexapod 6-Axis Motion Platform: Software, Mechanics, Controller
-<iframe width="560" height="420" src="https://www.youtube.com/watch?v=hkoTRNfivbU&feature" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/hkoTRNfivbU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The video shows PI's expertise in hexapod 6DOF motion platform design and the ease of operation for the user: mechanics, controller  and sofware tools were optimized over 25 years.
-A hexapod is based on a 6-axis (XYZ, Pitch, Roll, Yaw) actuator system arranged in parallel between a top and bottom platform. PI parallel kinematics (PKM) precision positioning systems have many advantages over serial kinematics stages, such as lower inertia, improved dynamics, smaller package size and higher stiffness. In addition hexaods are more flexible than conventional 6 axis positioners.
+A hexapod is based on a 6-axis (XYZ, Pitch, Roll, Yaw) actuator system arranged in parallel between a top and bottom platform. PI parallel kinematics (PKM) precision positioning systems have many advantages over serial kinematics stages, such as lower inertia, improved dynamics, smaller package size and higher stiffness. In addition hexapods are more flexible than conventional 6 axis positioners.
+
+> watch the video directly on [youtube.com](https://www.youtube.com/watch?v=hkoTRNfivbU&feature)
 
 #### PI Hexapod software for collision testing
-<iframe width="560" height="420" src="https://www.youtube.com/watch?v=7lR3J7m-zFU&feature" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7lR3J7m-zFU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 Does your PI hexapod position valuable equipment within a very limited space? Learn how PI VeriMove software helps to prevent collisions of moving and static parts.
 
-#### High-Dynamic Hexapod for Test and Qualification Equipment
-<iframe width="560" height="420" src="https://www.youtube.com/watch?v=m78S4eHpSHU&feature" frameborder="0" allowfullscreen></iframe>
+> watch the video directly on [youtube.com](https://www.youtube.com/watch?v=7lR3J7m-zFU&feature)
 
+#### High-Dynamic Hexapod for Test and Qualification Equipment
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/m78S4eHpSHU" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> watch the video directly on [youtube.com](https://www.youtube.com/watch?v=m78S4eHpSHU&feature)
 
 
 
