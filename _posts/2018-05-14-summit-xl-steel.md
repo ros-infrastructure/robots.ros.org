@@ -48,7 +48,7 @@ The following metapackages provide all the necessary ROSpackages for simulating 
 
 ## Videos
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/sux1CQDGuSs?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_vASU9eei04" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## More Information
