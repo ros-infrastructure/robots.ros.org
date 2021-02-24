@@ -14,8 +14,8 @@ gplus_username:  rosorg
 disqus_username: lorem_ipsum
 
 featured_robots:
-  - VOLTA Robot
-  - Copernicus Robot
+  - TurtleBot3
+  - TurtleBot2
 
 # Build settings
 markdown: kramdown
