@@ -3,9 +3,9 @@ layout: post
 title: Panther
 date: 2021-08-11
 description:
-icon: /assets/img/robots/rosbot-2.0-pro/rosbot2pro_icon.jpg
-image: /assets/img/robots/rosbot-2.0-pro/rosbot2pro.jpg
-introduction: ROSbot 2.0 is a successor of ROSbot - an autonomous, open source robot platform - now with a RGBD camera and improved design. It can be used as a learning platform for ROS as well as a base for a variety of robotic applications.
+icon: /assets/img/robots/husarion-panther/panther_icon.jpg
+image: /assets/img/robots/husarion-panther/panther_1.jpg
+introduction: Panther is an industrial grade, professional UGV designed with outdoor environment in mind. It is an autonomous, open source robot platform running on ROS (Robot Operating System). Depending on the use-case it can be equipped with a LIDAR, RGB-D camera, robotic arm and other hardware. It can be used in a variety of applications such as agriculture, logistics, rescue, inspection and more.
 main-class: 'ground'
 color: '#EF0A15'
 tags:
