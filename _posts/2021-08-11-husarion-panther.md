@@ -36,8 +36,8 @@ The base platform integrates:
 - Router:  Teltonika RUTX11 - Dual-band (2.4 GHz/5 GHz), Access Point / Client Mode, 4G LTE CAT 6 dual SIM, Bluetooth 4.0 LE, GNSS (GPS, GLONASS, BeiDou, Galileo and QZSS)
 - 4x Brushless Motor with planetary gearbox
 - Intertial navigation system:  PhidgetSpatial 3/3/3 Basic (3-axis compass, a 3-axis gyroscope, and a 3-axis accelerometer)
-- 740 Wh Li-Ion batteries with protection circuits
-- Front and rear ligths:  Signal lighting made of 48 pcs. APA102C LED chips build into an aluminum profile on the robot's bumpers
+- 720 Wh Li-Ion batteries with protection circuits
+- Front and rear ligths:  Signal lighting made of 44 pcs. APA102C LED chips build into an aluminum profile on the robot's bumpers
 - High profile off-road wheels
 - Robust aluminium chassis
 - IP54 protection
