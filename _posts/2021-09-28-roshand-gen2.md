@@ -16,7 +16,6 @@ wiki_homepage: http://wiki.ros.org/Robots/roshand-gen2
 ---
 
 TODO Fill in the long description/article here.
-The RoboCar 1/10**X** model utilizes **NVIDIA Jetson AGX Xavier** Developer Kit allowing implementation of advanced AI algorithms. 
 
 ## UI
 [![](/assets/img/robots/robocar-1-10/animation.gif)](https://www.zmp.co.jp/en/products/robocar/robocar-110x)
