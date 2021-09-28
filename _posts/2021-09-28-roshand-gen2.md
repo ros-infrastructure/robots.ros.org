@@ -3,8 +3,8 @@ layout: post
 title: roshand-gen2
 date: 2021-09-28
 description:
-icon: /assets/img/robots/roshand-gen2/roshand_gen2.png
-image: /assets/img/robots/roshand-gen2/roshand_gen2_pic.png
+icon: /assets/img/robots/roshand-gen2/roshand_icion.png
+image: /assets/img/robots/roshand-gen2/roshand.png
 introduction: roshand of gripper
 main-class: 'manipulator'
 color: '16'
