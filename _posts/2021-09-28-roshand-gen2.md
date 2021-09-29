@@ -15,12 +15,11 @@ website: http://www.verma-robot.com/product/278091899
 wiki_homepage: http://wiki.ros.org/Robots/roshand-gen2
 ---
 
-TODO Fill in the long description/article here.
+roshand gen2 is a low-cost and highly adaptive robotic hand. every fingertips have 14 tactile sensors, 28 tactile sensors in total, it's the perfect platform for grasp and manipulation research.
 
-## UI
-[![](/assets/img/robots/robocar-1-10/animation.gif)](https://www.zmp.co.jp/en/products/robocar/robocar-110x)
+Low-cost manipulation with applications in research and education
+Capable of holding over 1.0kg
+Every fingertips have 14 tactile sensors, 28 tactile sensors in total.
 
-## Used sensors
-
-
-## Other Features
+ROS integration
+More information can be found on the website: http://wiki.ros.org/Robots/roshand-gen2
