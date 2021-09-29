@@ -6,10 +6,10 @@ description:
 icon: /assets/img/robots/roshand-gen2/roshand_icion.png
 image: /assets/img/robots/roshand-gen2/roshand.png
 introduction: roshand of gripper
-main-class: 'manipulator'
+main-class: 'component'
 color: '16'
 tags:
-- 'maniputor'
+- 'hand'
 twitter_text: Checkout the roshand-gen2
 website: http://www.verma-robot.com/product/278091899
 wiki_homepage: http://wiki.ros.org/Robots/roshand-gen2
