@@ -5,7 +5,7 @@ date: 2021-09-28
 description:
 icon: /assets/img/robots/roshand-gen2/roshand_icion.png
 image: /assets/img/robots/roshand-gen2/roshand.png
-introduction: roshand of gripper
+introduction: roshand gen2 is a low-cost and highly adaptive robotic hand, every fingertips have 14 tactile sensors, 28 tactile sensors in total.
 main-class: 'component'
 color: '16'
 tags:
