@@ -3,7 +3,7 @@ layout: post
 title: BveetaMini
 date: 2022-02-01
 description:
-icon: /assets/img/robots/bveetamini/BveetaFamily.jpg
+icon: /assets/img/robots/bveetamini/icon_bveetaMini.png
 image: /assets/img/robots/bveetamini/BveetaFamily.jpg
 introduction: Educational mobile robot for ROS beginners
 main-class: 'ground'
