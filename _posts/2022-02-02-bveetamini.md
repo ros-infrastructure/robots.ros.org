@@ -3,8 +3,10 @@ layout: post
 title: bveetaMini
 date: 2022-02-02
 description:
+
 icon: /assets/img/robots/BveetaMini/icon_bveetaMini.png
 image: /assets/img/robots/BveetaMini/BveetaFamily.jpg
+
 introduction: Bveeta mini is an educational ROS mobile robot created by Bizbot Technology, Malaysia.
 main-class: 'ground'
 color: '#FBFEFE'
