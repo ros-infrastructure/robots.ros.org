@@ -3,7 +3,6 @@ layout: post
 title: bveetaMini
 date: 2022-02-02
 description:
-
 icon: /assets/img/robots/BveetaMini/icon_bveetaMini.png
 image: /assets/img/robots/BveetaMini/BveetaFamily.jpg
 
