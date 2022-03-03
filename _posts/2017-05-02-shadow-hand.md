@@ -11,6 +11,7 @@ color: '#4F224B'
 tags:
 - 'manipulator'
 - 'hand'
+- 'noetic'
 - 'research'
 - 'dexterity'
 - '20dof'
