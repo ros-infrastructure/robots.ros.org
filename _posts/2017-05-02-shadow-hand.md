@@ -15,6 +15,7 @@ tags:
 - 'dexterity'
 - '20dof'
 - 'anthropomorphic'
+- 'teleoperator'
 - 'noetic'
 - 'melodic'
 twitter_text: Checkout the Shadow Hand
