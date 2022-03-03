@@ -10,6 +10,17 @@ main-class: 'component'
 color: '#4F224B'
 tags:
 - 'manipulator'
+- 'manipulation'
+- 'grasping'
+- 'hand'
+- 'research'
+- 'industry'
+- 'dexterity'
+- '20dof'
+- 'anthropomorphic'
+- 'teleoperation'
+- 'open-source'
+- 'noetic'
 twitter_text: Checkout the Shadow Hand
 website: http://www.shadowrobot.com/products/dexterous-hand/
 wiki_homepage: http://wiki.ros.org/Robots/Shadow_Hand
