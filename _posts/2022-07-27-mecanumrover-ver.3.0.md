@@ -5,7 +5,7 @@ date: 2022-07-27
 description:
 icon: /assets/img/robots/mecanumrover-ver.3.0/icon.jpg
 image: /assets/img/robots/mecanumrover-ver.3.0/image.png
-introduction: its mecanumy
+introduction: Mecanumrover Ver.3.0 is a four-wheel drive mobile platform with BLDC mecanum wheels and has a payload of 40kg which is developed by Vstone.
 main-class: 'ground'
 color: '#000000'
 tags:
