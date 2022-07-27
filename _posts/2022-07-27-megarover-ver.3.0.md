@@ -46,10 +46,10 @@ Megarover Ver.3.0 can transport payload up to **40kg**
 with a max speed of **1.6m/s**.
 
 **ROS Compatible**
-Megarover Ver.3.0 is able to communicate with ROS via rosserial. ROS packages with samples are also provided. 
+Megarover Ver.3.0 is able to communicate with ROS via rosserial(Wi-Fi or USB serial). ROS packages with samples are also provided. 
 
 **ESP32 main board**
-With ESP32 built-in, that features Wi-Fi and Bluetooth, allowing Megarover Ver.3.0 to be controlled wirelessly and programmed with the Arduino IDE.
+With ESP32 built-in, users can program Megarover Ver.3.0 with Arduino IDE. Users could also control Megarover Ver.3.0 wirelessly, through the integrated Wi-Fi and Bluetooth functionality.
 
 **Easily Customizable**
 It supports a wide variety of options, such as LRF, bumpers, wireless charging, ROS PC, depth camera, etc.
