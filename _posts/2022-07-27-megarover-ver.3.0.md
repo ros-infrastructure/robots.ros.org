@@ -5,7 +5,7 @@ date: 2022-07-27
 description:
 icon: /assets/img/robots/megarover-ver.3.0/icon.jpg
 image: /assets/img/robots/megarover-ver.3.0/image.png
-introduction: Megarover is a cool robot
+introduction: Megarover Ver.3.0 is a differential drive mobile base robot with a payload of 40kg developed by Vstone.
 main-class: 'ground'
 color: '#000000'
 tags:
