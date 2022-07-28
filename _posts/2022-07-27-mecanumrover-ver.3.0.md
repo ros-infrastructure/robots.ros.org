@@ -26,7 +26,7 @@ wiki_homepage: http://wiki.ros.org/Robots/Mecanumrover/MecanumroverVer.3.0
 
 ![Mecanumrover_Ver.3.0_image](/assets/img/robots/mecanumrover-ver.3.0/image.png)
 
-**Mecanumrover Ver.3.0** is a four-wheel drive mobile platform with mecanum wheels developed by [[Vstone Co., Ltd.](https://www.vstone.co.jp/english/index.html)] for researchers. 
+**Mecanumrover Ver.3.0** is a four-wheel drive mobile platform with mecanum wheels developed by [Vstone Co., Ltd.](https://www.vstone.co.jp/english/index.html) for researchers. 
 The omnidirectional base provides precision positioning in constrained environments.
 
 Mecanumrover Ver.3.0 inherits most of the features from its [predecessor](http://wiki.ros.org/Robots/Mecanumrover/MecanumroverVer2.1), such as:
