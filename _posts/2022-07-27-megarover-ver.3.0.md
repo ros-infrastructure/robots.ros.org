@@ -25,7 +25,7 @@ wiki_homepage: http://wiki.ros.org/Robots/Megarover/MegaroverVer.3.0
 
 ![Megarover_Ver.3.0_image](/assets/img/robots/megarover-ver.3.0/image.png)
 
-**Megarover Ver.3.0** is a differential drive mobile base robot developed by [[Vstone Co., Ltd.](https://www.vstone.co.jp/english/index.html)] for researchers. 
+**Megarover Ver.3.0** is a differential drive mobile base robot developed by [Vstone Co., Ltd.](https://www.vstone.co.jp/english/index.html) for researchers. 
 
 Megarover Ver.3.0 inherits most of the features from its [predecessor](http://wiki.ros.org/Robots/Megarover/MegaroverVer2.1), such as:
 - a large payload of 40 kg
