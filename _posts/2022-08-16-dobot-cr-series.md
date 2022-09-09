@@ -4,7 +4,7 @@ title: Dobot CR
 date: 2022-08-16
 description:
 icon: /assets/img/robots/dobot-cr/icon.png
-image: /assets/img/robots/dobot-cr/icon.png
+image: /assets/img/robots/dobot-cr/image.png
 introduction: Dobot CR is is a collaborative 6-axis robot.
 main-class: 'manipulator'
 color: '#fff0d2'
@@ -21,7 +21,7 @@ wiki_homepage: http://wiki.ros.org/Robots/Dobot/CR-Series
 
 # Dobot CR series
 
-![Dobot-CR_series](/assets/img/robots/dobot-cr/image.jpg)
+![Dobot-CR_series](/assets/img/robots/dobot-cr/cr_series.jpg)
 
 **Dobot CR series** are series of co-robot developed by [Shenzhen Yuejiang Technology Co.,Ltd.](https://en.dobot.cn/about/about-dobot).  
 
