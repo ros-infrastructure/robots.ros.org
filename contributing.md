@@ -85,12 +85,18 @@ To make use of this you must have docker installed.
 
 ## Steps
 
-1. Run `test_site.bash`
+1. `python3 -m venv ~/ghrocker_venv`
 
-1. You can then open http://localhost:3000 in your browser to view the site. The page in the browser will automatically refresh when files are changed.
+1. `. ~/ghrocker_venv/bin/activate`
+
+1. `pip install ghrocker`
+
+1. Run `./test_site.bash`
+
+1. You can then open http://localhost:4000 in your browser to view the site. The page in the browser will automatically refresh when files are changed.
 
 Notes:
-The `test_site.bash` script must be restarted if `_config.yml` is changed. Kill the script with `Ctrl-C` the test_site.bash and rerun it. Then reload the page in your browser.
+The `ghrocker` must be restarted if `_config.yml` is changed. Kill the script with `Ctrl-C` the test_site.bash and rerun it. Then reload the page in your browser.
 
 # About the backend
 
