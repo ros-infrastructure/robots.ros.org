@@ -16,8 +16,8 @@ tags:
 - 'tracking'
 answers_tag: euclid
 twitter_text: Checkout the Intel Euclid
-website: euclidcommunity.intel.com
-wiki_homepage: wiki.ros.org/IntelEuclid
+website: http://euclidcommunity.intel.com
+wiki_homepage: https://wiki.ros.org/IntelEuclid
 ---
 
 

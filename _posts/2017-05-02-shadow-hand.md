@@ -9,6 +9,20 @@ introduction: The Shadow Dexterous Hand is a truly anthropomorphic approach to r
 main-class: 'component'
 color: '#4F224B'
 tags:
+- 'manipulation'
+- 'grasping'
+- 'hand'
+- 'research'
+- 'industry'
+- 'dexterity'
+- '20dof'
+- 'anthropomorphic'
+- 'AI'
+- 'deep learning'
+- 'machine learning'
+- 'teleoperation'
+- 'open-source'
+- 'noetic'
 - 'manipulator'
 twitter_text: Checkout the Shadow Hand
 website: http://www.shadowrobot.com/products/dexterous-hand/

@@ -68,8 +68,8 @@ layout: minimal
     {% endfor %}
     
     {% if site.featured_robots.size > 1 %}
-      <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1); stopFeatures();">&#10094;</button>
-      <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1); stopFeatures();">&#10095;</button>
+      <button class="w3-button w3-black w3-display-left" onclick="plusFeatureDivs(-1); stopFeatures();">&#10094;</button>
+      <button class="w3-button w3-black w3-display-right" onclick="plusFeatureDivs(1); stopFeatures();">&#10095;</button>
     {% endif %}
       
     </div>
@@ -78,7 +78,7 @@ layout: minimal
       var featureIndex = 1;
       showFeatureDivs(featureIndex);
 
-      function plusDivs(n) {
+      function plusFeatureDivs(n) {
         showFeatureDivs(featureIndex += n);
       }
 
@@ -93,7 +93,7 @@ layout: minimal
         x[featureIndex-1].style.display = "block";
       }
       function incrementFeatures() {
-        plusDivs(1);
+        plusFeatureDivs(1);
       }
       var intervalID = setInterval(incrementFeatures, 10000);
       

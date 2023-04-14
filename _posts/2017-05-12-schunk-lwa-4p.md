@@ -6,7 +6,7 @@ description:
 icon: /assets/img/robots/schunk-lwa-4p/icon.png
 image: /assets/img/robots/schunk-lwa-4p/schunk_lwa4p.png
 introduction: The most compact, powerful lightweight arm in the world with three highly-integrated Powerball modules offers 6 degrees of freedom. Integrated intelligence makes powerful, mobile handling possible as never before.
-main-class: 'component'
+main-class: 'manipulator'
 color: '#009EE0'
 tags:
 - 'arm'
