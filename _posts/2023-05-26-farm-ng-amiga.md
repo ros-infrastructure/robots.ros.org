@@ -17,8 +17,16 @@ tags:
 - 'robot'
 - 'robotics'
 twitter_text: Checkout the Farm-ng Amiga
-website: https://farm-ng.com/pages/for-research 
-wiki_homepage: https://farm-ng.com/pages/for-research 
+website: https://farm-ng.com/pages/for-research
+wiki_homepage: https://farm-ng.com/pages/for-research
 ---
 
-TODO Fill in the long description/article here.
+# Farm-ng Amiga
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DU8MGAbr1VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+The Farm-NG Amiga is an advanced agricultural management system designed to revolutionize farming practices and enhance productivity in the agricultural industry. It combines cutting-edge technologies and data-driven insights to provide farmers and agricultural professionals with comprehensive monitoring, control, and optimization capabilities for their farming operations.
+Overall, the Farm-NG Amiga is a comprehensive agricultural management system that leverages advanced technologies to optimize farming operations, maximize yields, and promote sustainable and efficient farming practices.
+
+
+
