@@ -5,7 +5,7 @@ date: 2023-05-26
 description:
 icon: /assets/img/robots/farm-ng-amiga/farm-ng-logo-green-on-white.png
 image: /assets/img/robots/farm-ng-amiga/DSCF6664.png
-introduction: Farm-ng’s Amiga is an all-electric micro-tractor that is easy to adapt to any farm’s cropping systems.  The Amiga allows growers to easily and repeatedly implement cultural practices, profitably, while reducing manual labor, maintenance and fuel costs.
+introduction: Farm-ng's Amiga is an all-electric micro-tractor that is easy to adapt to any farm's cropping systems. The Amiga allows growers to easily and repeatedly implement cultural practices, profitably, while reducing manual labor, maintenance and fuel costs.
 main-class: 'ground'
 color: '#00FF00'
 tags:
@@ -26,7 +26,5 @@ wiki_homepage: https://farm-ng.com/pages/for-research
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DU8MGAbr1VM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 The Farm-NG Amiga is an advanced agricultural management system designed to revolutionize farming practices and enhance productivity in the agricultural industry. It combines cutting-edge technologies and data-driven insights to provide farmers and agricultural professionals with comprehensive monitoring, control, and optimization capabilities for their farming operations.
+
 Overall, the Farm-NG Amiga is a comprehensive agricultural management system that leverages advanced technologies to optimize farming operations, maximize yields, and promote sustainable and efficient farming practices.
-
-
-
