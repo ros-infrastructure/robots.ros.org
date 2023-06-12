@@ -3,7 +3,7 @@ layout: post
 title: Farm-ng Amiga
 date: 2023-05-26
 description:
-icon: /assets/img/robots/farm-ng-amiga/farm-ng-logo.png
+icon: /assets/img/robots/farm-ng-amiga/80x80.png
 image: /assets/img/robots/farm-ng-amiga/amiga.png
 introduction: Farm-ng's Amiga is an all-electric micro-tractor that is easy to adapt to any farm's cropping systems. The Amiga allows growers to easily and repeatedly implement cultural practices, profitably, while reducing manual labor, maintenance and fuel costs.
 main-class: 'ground'
