@@ -21,7 +21,7 @@ tags:
 - 'outdoor'
 twitter_text: Checkout the Farm-ng Amiga
 website: https://farm-ng.com/pages/for-research
-wiki_homepage: http://wiki.ros.org/Robots/farm-ng-amiga
+wiki_homepage: http://wiki.ros.org/Robots/Amiga
 ---
 
 # Farm-ng Amiga
