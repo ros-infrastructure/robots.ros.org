@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Panther
-date: 2021-08-11
+date: 2023-08-25
 description:
 icon: /assets/img/robots/husarion-panther/panther_icon.jpg
 image: /assets/img/robots/husarion-panther/panther_1.jpg
-introduction: Panther is an industrial grade, professional UGV designed with outdoor environment in mind. It is an autonomous, open source robot platform running on ROS (Robot Operating System). Depending on the use-case it can be equipped with a LIDAR, RGB-D camera, robotic arm and other hardware. It can be used in a variety of applications such as agriculture, logistics, rescue, inspection and more.
+introduction: Autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use-case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as agriculture, rescue, inspection and many more.
 main-class: 'ground'
 color: '#EF0A15'
 tags:
@@ -23,8 +23,7 @@ website: https://store.husarion.com/products/panther
 wiki_homepage: http://wiki.ros.org/Robots/Husarion-Panther
 ---
 
-
-Panther is an industrial grade, professional UGV designed with outdoor environment in mind. It is an autonomous, open source robot platform running on ROS (Robot Operating System). Depending on the use-case it can be equipped with a LIDAR, RGB-D camera, robotic arm and other hardware. It can be used in a variety of applications such as agriculture, logistics, rescue, inspection and more.
+Autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use-case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as agriculture, rescue, inspection and many more.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/72sSM0DN9YY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -32,7 +31,7 @@ Panther is an industrial grade, professional UGV designed with outdoor environme
 
 The base platform integrates:
 
-- Low level CPU: Raspberry Pi 4B with Broadcom BCM2711 processor, quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz and 4GB LPDDR4 RAM. 
+- Low level CPU: Raspberry Pi 4B with Broadcom BCM2711 processor, quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz and 4GB LPDDR4 RAM.
 - Router:  Teltonika RUTX11 - Dual-band (2.4 GHz/5 GHz), Access Point / Client Mode, 4G LTE CAT 6 dual SIM, Bluetooth 4.0 LE, GNSS (GPS, GLONASS, BeiDou, Galileo and QZSS)
 - 4x Brushless Motor with planetary gearbox
 - Intertial navigation system:  PhidgetSpatial 3/3/3 Basic (3-axis compass, a 3-axis gyroscope, and a 3-axis accelerometer)
