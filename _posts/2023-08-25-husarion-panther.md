@@ -3,15 +3,15 @@ layout: post
 title: Panther
 date: 2023-08-25
 description:
-icon: /assets/img/robots/husarion-panther/panther_icon.jpg
-image: /assets/img/robots/husarion-panther/panther_1.jpg
-introduction: Autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use-case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as agriculture, rescue, inspection and many more.
+icon: /assets/img/robots/husarion-panther/panther-icon.png
+image: /assets/img/robots/husarion-panther/panther-1.png
+introduction: Panther is an autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as construction, agriculture, logistics, inspection and many more.
 main-class: 'ground'
 color: '#EF0A15'
 tags:
 - 'autonomous'
-- 'education'
 - 'ground'
+- 'outdoor'
 - 'lidar'
 - 'mobile base'
 - 'research'
@@ -23,11 +23,11 @@ website: https://store.husarion.com/products/panther
 wiki_homepage: http://wiki.ros.org/Robots/Husarion-Panther
 ---
 
-Autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use-case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as agriculture, rescue, inspection and many more.
+Pather is an autonomous, mobile robot (AMR) platform dedicated for outdoor environment. Compliant with IP54 or IP66 rate of protection. Depending on the use case it can be equipped with a robot arm, LIDAR, RGB-D camera, GPS, UWB and other additional equipment. It can be used in various areas of application such as agriculture, rescue, inspection and many more.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/72sSM0DN9YY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aABlD3RVOc8?si=6aPGqp9ayO6sElWo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Appearance](/assets/img/robots/husarion-panther/panther_1.jpg)
+![Appearance](/assets/img/robots/husarion-panther/panther-1.png)
 
 The base platform integrates:
 
@@ -43,14 +43,14 @@ The base platform integrates:
 
 Available options:
 
-- User computer: Intel NUC10i7FNK / ADLINK Vizi-AI / HP Z2 Mini Workstation
-- LIDAR: Slamtec RpLidar S1 / Velodyne Puck / Ouster OS1-16
-- RGBD camera: Orbbec Astra / Intel RealSense D435 / Stereolabs ZED
+- User computer: Intel NUC10 Performance / Lenovo ThinkStation P360 Tiny
+- LIDAR: Slamtec RpLidar S1 / Velodyne / Ouster / LSLIDAR
+- RGBD camera: Orbbec Astra / Intel RealSense D435 / Stereolabs ZED 2 / Stereolabs ZED 2i
 - Protection rate: IP66
 - Battery: 1440 Wh Li-Ion batteries with protection circuits
 - Wheels: Mecanum (8") / Standard + Mecanum set / Small Pneumatic wheels
 
-![Appearance](/assets/img/robots/husarion-panther/panther_2.jpg)
-![Appearance](/assets/img/robots/husarion-panther/panther_3.jpg)
+![Appearance](/assets/img/robots/husarion-panther/panther-3.png)
+![Appearance](/assets/img/robots/husarion-panther/panther-6.png)
 
 The official documentation can be found on [Husarion Docs webpage](https://husarion.com/manuals/panther)
