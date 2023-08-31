@@ -10,14 +10,15 @@ main-class: 'ground'
 color: '#EF0A15'
 tags:
 - 'autonomous'
-- 'education'
-- 'ground'
 - 'lidar'
 - 'mobile base'
 - 'research'
 - 'wireless'
 - 'unmanned ground vehicle'
-- 'ROS2'
+- 'ros2'
+- 'outdoor'
+- 'outside'
+- '80kg payload'
 twitter_text: Checkout the Panther
 website: https://store.husarion.com/products/panther
 wiki_homepage: http://wiki.ros.org/Robots/Husarion-Panther
