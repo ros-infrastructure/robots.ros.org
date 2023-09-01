@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Panther
+title: Husarion Panther
 date: 2023-08-25
 description:
 icon: /assets/img/robots/husarion-panther/panther-icon.png

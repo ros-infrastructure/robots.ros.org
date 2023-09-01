@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ROSbot XL
+title: Husarion ROSbot XL
 date: 2023-08-25
 description:
-icon: /assets/img/robots/rosbot-xl/rosbot_xl_icon.png
-image: /assets/img/robots/rosbot-xl/rosbot_xl.png
+icon: /assets/img/robots/husarion-rosbot-xl/rosbot_xl_icon.png
+image: /assets/img/robots/husarion-rosbot-xl/rosbot_xl.png
 introduction: ROSbot XL is a universal, ROS 2-native autonomous mobile robot platform dedicated for R&D, rapid prototyping and custom robot development for indoor use cases.
 main-class: 'ground'
 color: '#960000'
@@ -22,6 +22,10 @@ website: https://store.husarion.com/products/rosbot-xl
 wiki_homepage: http://wiki.ros.org/Robots/ROSbot-XL
 ---
 
+ROSbot XL is a universal, ROS 2-native autonomous mobile robot platform dedicated for R&D, rapid prototyping and custom robot development for indoor use cases.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVLyZ2ae4k0?si=bNp2govRmF5onr6K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 It integrates:
  - One of three powerful SBCs (Raspberry Pi 4, Nvidia Jetson Nano, Intel NUC)
  - IMU: Bosch BNO055 (accelerometer + gyro)
@@ -34,11 +38,11 @@ It integrates:
  - Ethernet based communication between SBC and STM32F4 based digital controller
  - Universal mounting plate (for LIDARs, robot arms etc.)
 
-![Appearance](/assets/img/robots/rosbot-xl/rosbot_xl_appearance.png)
+![Appearance](/assets/img/robots/husarion-rosbot-xl/rosbot_xl_appearance.png)
 
 Rear panel:
 
-![Rear panel](/assets/img/robots/rosbot-xl/rosbot_xl_rear_panel.png)
+![Rear panel](/assets/img/robots/husarion-rosbot-xl/rosbot_xl_rear_panel.png)
 
 Demos with ROSbot XL:
 1. [ROSbot XL with OpenMANIPULATOR-X](https://husarion.com/tutorials/ros-projects/rosbot-xl-openmanipulator-x/)
