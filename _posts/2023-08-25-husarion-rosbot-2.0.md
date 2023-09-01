@@ -1,10 +1,10 @@
 ---
 layout: post
-title: ROSbot 2.0
+title: Husarion ROSbot 2.0
 date: 2023-08-25
 description:
-icon: /assets/img/robots/rosbot-2.0/rosbot2_icon.jpg
-image: /assets/img/robots/rosbot-2.0/rosbot2.jpg
+icon: /assets/img/robots/husarion-rosbot-2.0/rosbot2_icon.jpg
+image: /assets/img/robots/husarion-rosbot-2.0/rosbot2.jpg
 introduction: ROSbot 2.0 is a successor of ROSbot - an autonomous, open source robot platform, equipped with an RGBD camera. It can be used as a learning platform for ROS as well as a base for a variety of robotic applications.
 main-class: 'ground'
 color: '#960000'
@@ -26,8 +26,9 @@ wiki_homepage: http://wiki.ros.org/Robots/ROSbot-2.0
 >
 > Starting from August 31 ROSbot 2 will go end-of-life. As of this date, new features won’t be developed for ROSbot 2 and no support will be provided for this model.
 >
-> If you require continued support and advanced capabilities, please consider switching to [ROSbot 2R](./2023-08-25-rosbot-2r.md) or [ROSbot 2 PRO](./2023-08-31-rosbot-2.0-pro.md).
-> ROSbot is an autonomous, open source robot platform based on ROS. Reinforced with set of tutorials, manuals, simulation model and examples, it is a great choice for prototyping and learning how to program autonomous vehicles.
+> If you require continued support and advanced capabilities, please consider switching to [ROSbot 2R](/husarion-rosbot-2r) or [ROSbot 2 PRO](/husarion-rosbot-2.0-pro).
+
+ROSbot 2.0 is a successor of ROSbot - an autonomous, open source robot platform, equipped with an RGBD camera. It can be used as a learning platform for ROS as well as a base for a variety of robotic applications.
 
 It integrates:
 
@@ -42,10 +43,10 @@ It integrates:
 - Robust aluminum chassis
 
 
-![Appearance](/assets/img/robots/rosbot-2.0/rosbot2_appearance.jpg)
+![Appearance](/assets/img/robots/husarion-rosbot-2.0/rosbot2_appearance.jpg)
 
 Rear panel:
 
-![Rear panel](/assets/img/robots/rosbot-2.0/rosbot2_rear_panel.png)
+![Rear panel](/assets/img/robots/husarion-rosbot-2.0/rosbot2_rear_panel.png)
 
 The official documentation can be found on [Husarion Docs webpage](https://husarion.com/manuals/rosbot)
