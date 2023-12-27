@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Husarion ROSbot 2 PRO
-date: 2023-08-31
+date: 2023-12-27
 description:
 icon: /assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_icon.png
 image: /assets/img/robots/husarion-rosbot-2-pro/rosbot2pro.png
@@ -44,6 +44,7 @@ It integrates:
 
 The rear panel allows to connect additional devices (eg. sensors or servos). USB and HDMI ports are useful for the software development.
 ![Rear panel](/assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_rear_panel.png)
+
 
 ROS tutorials dedicated for ROSbot 2.0 PRO:
 1. [ROS introduction](https://husarion.com/tutorials/ros-tutorials/1-ros-introduction)
