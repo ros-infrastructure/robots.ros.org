@@ -26,7 +26,7 @@ wiki_homepage: http://wiki.ros.org/Robots/ROSbot-2.0
 >
 > Starting from August 31 ROSbot 2 will go end-of-life. As of this date, new features won’t be developed for ROSbot 2 and no support will be provided for this model.
 >
-> If you require continued support and advanced capabilities, please consider switching to [ROSbot 2R](/husarion-rosbot-2r) or [ROSbot 2 PRO](/husarion-rosbot-2.0-pro).
+> If you require continued support and advanced capabilities, please consider switching to [ROSbot 2R](/husarion-rosbot-2r) or [ROSbot 2 PRO](/husarion-rosbot-2-pro).
 
 ROSbot 2.0 is a successor of ROSbot - an autonomous, open source robot platform, equipped with an RGBD camera. It can be used as a learning platform for ROS as well as a base for a variety of robotic applications.
 
