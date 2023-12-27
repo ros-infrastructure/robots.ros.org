@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Husarion ROSbot 2.0 PRO
+title: Husarion ROSbot 2 PRO
 date: 2023-08-31
 description:
-icon: /assets/img/robots/husarion-rosbot-2.0-pro/rosbot2pro_icon.png
-image: /assets/img/robots/husarion-rosbot-2.0-pro/rosbot2pro.png
+icon: /assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_icon.png
+image: /assets/img/robots/husarion-rosbot-2-pro/rosbot2pro.png
 introduction: ROSbot 2 PRO is an autonomous, open source robot platform running on UpBoard single board computer (x64). 4GB of RAM, newest RPLIDAR A3 and awesome looking alloy wheels is what you are looking for in an autonomous robot built for the toughest jobs. ROS and ROS 2 system image options are available.
 main-class: 'ground'
 color: '#EF0A15'
@@ -38,12 +38,12 @@ It integrates:
  - High profile alloy wheels
  - Robust aluminium chassis
 
-![Appearance](/assets/img/robots/husarion-rosbot-2.0-pro/rosbot2pro_appearance1.png)
-![Appearance](/assets/img/robots/husarion-rosbot-2.0-pro/rosbot2pro_appearance.png)
+![Appearance](/assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_appearance1.png)
+![Appearance](/assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_appearance.png)
 
 
 The rear panel allows to connect additional devices (eg. sensors or servos). USB and HDMI ports are useful for the software development.
-![Rear panel](/assets/img/robots/husarion-rosbot-2.0-pro/rosbot2pro_rear_panel.png)
+![Rear panel](/assets/img/robots/husarion-rosbot-2-pro/rosbot2pro_rear_panel.png)
 
 ROS tutorials dedicated for ROSbot 2.0 PRO:
 1. [ROS introduction](https://husarion.com/tutorials/ros-tutorials/1-ros-introduction)
