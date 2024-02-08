@@ -50,10 +50,15 @@ Demos with ROSbot XL:
 3. [Gazebo: ROSbot XL + SLAM Toolbox](https://husarion.com/tutorials/simulations/gazebo-rosbot-xl-slam-toolbox/)
 
 ROS 2 tutorials dedicated for ROSbot XL:
-1. [ROS 2 introduction](https://husarion.com/tutorials/ros2-tutorials/1-ros2-introduction/)
+1. [ROS 2 Introduction](https://husarion.com/tutorials/ros2-tutorials/1-ros2-introduction/)
 2. [Creating nodes - messages](https://husarion.com/tutorials/ros2-tutorials/2-creating-nodes-messages/)
-3. [Creating nodes - services](https://husarion.com/tutorials/ros2-tutorials/3-creating-nodes-services/)
-4. [Simple kinematics and visualization](https://husarion.com/tutorials/ros2-tutorials/4-simple-kinematics-and-visualization/)
-5. [Visual object recognition](https://husarion.com/tutorials/ros2-tutorials/5-visual-object-recognition/)
+3. [Creating Nodes - Services](https://husarion.com/tutorials/ros2-tutorials/3-creating-nodes-services/)
+4. [Kinematics and Visualization](https://husarion.com/tutorials/ros2-tutorials/4-kinematics-and-visualization/)
+5. [Track object with OpenCV](https://husarion.com/tutorials/ros2-tutorials/5-opencv-tracking/)
+6. [Robot Network](https://husarion.com/tutorials/ros2-tutorials/6-robot-network/)
+7. [Transformation](https://husarion.com/tutorials/ros2-tutorials/7-transformation/)
+8. [SLAM](https://husarion.com/tutorials/ros2-tutorials/8-slam/)
+9. [Navigation](https://husarion.com/tutorials/ros2-tutorials/9-navigation/)
+10. [Exploration](https://husarion.com/tutorials/ros2-tutorials/10-exploration/)
 
 The official documentation can be found on [Husarion Docs webpage](https://husarion.com/manuals/rosbot-xl)
