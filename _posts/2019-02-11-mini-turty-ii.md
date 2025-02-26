@@ -21,7 +21,7 @@ tags:
 - 'navigation'
 - 'open hardware'
 twitter_text: Checkout the Mini-Turty II
-website: https://www.rhoeby.com/product/mini-turty-ii
+website: https://github.com/Rhoeby/mini-turty
 wiki_homepage: http://wiki.ros.org/Mini-Turty-II
 ---
 
