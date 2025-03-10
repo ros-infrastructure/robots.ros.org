@@ -2,6 +2,5 @@
 _site
 node_modules
 _drafts
-localtest_config.yml
 .jekyll-cache
 package-lock.json
