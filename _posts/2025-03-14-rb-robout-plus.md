@@ -9,16 +9,18 @@ introduction: Omnidirectional mobile manipulator for operations up to 12,5/25/35
 main-class: 'ground'
 color: ''
 tags:
+- 'ros2'
+- 'mobile manipulator'
+- 'UR'
+- 'industrial'
+- 'logistics'
 - 'autonomous'
 - 'collaborative'
 - 'ground'
 - 'indoor'
-- 'logistics'
-- 'manipulator'
-- 'mobile robot'
-- 'omni'
+- 'noetic'
 - 'robotnik'
-- 'ur'
+- 'omnidirectional'
 twitter_text: Checkout the RB-ROBOUT+
 website: https://robotnik.eu/products/mobile-robots/rb-robout/#rb-robout-plus-20e
 wiki_homepage: 
@@ -26,7 +28,7 @@ wiki_homepage:
 
 **Omnidirectional mobile manipulator for operations up to 12,5/25/35 kg**
 
-RB-ROBOUT+ is the solution for automating large manipulation operations with workpieces or components weighing up to 25 kg. It stands out as the only omnidirectional motion robot manipulator with such a high payload. 
+RB-ROBOUT+ is the solution for automating large manipulation operations with workpieces or components weighing up to 35 kg. It stands out as the only omnidirectional motion robot manipulator with such a high payload. 
 
 This mobile manipulator is ready for plug-and-play integration with Universal Robots’ UR20 arm and is especially useful for masking, coating or dispensing, welding, grinding and polishing or material handling.
 

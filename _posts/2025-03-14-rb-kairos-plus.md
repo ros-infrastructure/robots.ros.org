@@ -10,14 +10,17 @@ main-class: 'ground'
 color: ''
 tags:
 - 'autonomous'
+- 'collaborative'
 - 'ground'
 - 'indoor'
 - 'logistics'
-- 'manipulator'
-- 'omni'
-- 'research'
+- 'UR'
+- 'mobile manipulator'
+- 'ros2'
+- 'noetic'
+- 'omnidirectional'
+- 'industrial'
 - 'robotnik'
-- 'ur'
 twitter_text: Checkout the RB-KAIROS+
 website: https://robotnik.eu/products/mobile-robots/rb-kairos-2/#rb-kairos-plus-ur-ten
 wiki_homepage: 

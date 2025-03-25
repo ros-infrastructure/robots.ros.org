@@ -12,13 +12,16 @@ tags:
 - 'autonomous'
 - 'diff-drive'
 - 'ground'
-- 'indoor'
-- 'manipulator'
-- 'mobile robot'
+- 'mobile manipulator'
 - 'outdoor'
-- 'research'
 - 'robotnik'
-- 'ur'
+- 'research'
+- 'ros2'
+- 'noetic'
+- 'skid-steer'
+- 'skidsteer'
+- 'collaborative'
+- 'kinova'
 twitter_text: Checkout the RB-SUMMIT+
 website: https://robotnik.eu/products/mobile-robots/rb-summit/#rb-summit-plus
 wiki_homepage: 

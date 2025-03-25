@@ -9,11 +9,16 @@ introduction: Autonomous mobile robot for surveillance & security manufactured b
 main-class: 'ground'
 color: ''
 tags:
-- 'autonomous'
-- 'diff-drive'
+- 'surveillance'
 - 'ground'
-- 'mobile_robot'
+- 'security'
+- 'mobile robot'
 - 'robotnik'
+- 'outdoor'
+- 'noetic'
+- 'perception'
+- 'autonomous'
+
 twitter_text: Checkout the RB-WATCHER
 website: https://robotnik.eu/products/mobile-robots/rb-watcher/
 wiki_homepage: https://robots.ros.org/rb-watcher/
