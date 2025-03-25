@@ -82,7 +82,8 @@ Robotnik simulation:
 * [ROS2 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros2-devel)
 
 ## Videos
-
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/gilezX2y_po" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/cERHFkfmubI" frameborder="0" allowfullscreen></iframe>
 
 ## More Information
 

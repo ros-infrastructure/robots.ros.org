@@ -118,6 +118,8 @@ Robotnik simulation:
 
 ## Videos
 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/FKMobGSwIm4" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/2Oqq7vBmQgs" frameborder="0" allowfullscreen></iframe>
 
 ## More Information
 

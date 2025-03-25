@@ -105,8 +105,6 @@ Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
 * [ROS2 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros2-devel)
 
-## Videos
-
 ## More Information
 
 * [Robotnik RB-ROBOUT+ UR10e](https://robotnik.eu/products/mobile-robots/rb-robout/#rb-robout-plus-10e)

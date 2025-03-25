@@ -91,9 +91,6 @@ Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
 * [ROS2 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros2-devel)
 
-## Videos
-
-
 ## More Information
  * [Robotnik RB-SUMMIT+](https://robotnik.eu/products/mobile-robots/rb-summit/#rb-summit-plus)
  * [Robotnik Github](https://github.com/RobotnikAutomation)
