@@ -3,8 +3,8 @@ layout: post
 title: RB-KAIROS+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-kairos+/
-image: /assets/img/robots/rb-kairos+/
+icon: /assets/img/robots/rb-kairos-plus/icon.png
+image: /assets/img/robots/rb-kairos-plus/image.png
 introduction: Autonomous Mobile Manipulator for indoor applications with a 5/12,5/16 kg payload on its arm.
 main-class: 'ground'
 color: ''
@@ -72,6 +72,8 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
 
 ### Components
 #### Included
+* Battery 48VDC@30Ah
+* Charging station
 * Mecanum standard wheels
     * Payload: 100 kg
 * CPU Intel i7
@@ -91,8 +93,6 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
     * UR16e: 
         * Payload: 16 kg
         * Reach: 900 mm
-* Battery 48VDC@30Ah
-* Charging station
 
 #### Optional
 * Mecanum high payload wheels
@@ -110,6 +110,11 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
 
 ## Related Repositories
 
+[Robotnik Github]((https://github.com/RobotnikAutomation))
+
+Robotnik simulation:
+* [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
+* [ROS2 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros2-devel)
 
 ## Videos
 

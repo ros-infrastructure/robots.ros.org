@@ -3,8 +3,8 @@ layout: post
 title: RB-VOGUI+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-vogui-+/
-image: /assets/img/robots/rb-vogui-+/
+icon: /assets/img/robots/rb-vogui-plus/image.png
+image: /assets/img/robots/rb-vogui-plus/image.png
 introduction: Mobile Manipulator for R&D applications in outdoor environments
 main-class: 'ground'
 color: ''
@@ -18,7 +18,7 @@ tags:
 - 'research'
 - 'robotnik'
 - 'ur'
-twitter_text: Checkout the RB-VOGUI +
+twitter_text: Checkout the RB-VOGUI+
 website: https://robotnik.eu/products/mobile-robots/rb-vogui/#rb-vogui-plus
 wiki_homepage: 
 ---
@@ -103,6 +103,11 @@ Reach: 1.300 mm
 
 ## Related Repositories
 
+[Robotnik Github]((https://github.com/RobotnikAutomation))
+
+Robotnik simulation:
+* [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
+* [ROS2 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros2-devel)
 
 ## Videos
 
