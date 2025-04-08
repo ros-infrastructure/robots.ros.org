@@ -23,7 +23,7 @@ tags:
 - 'omnidirectional'
 twitter_text: Checkout the RB-ROBOUT+
 website: https://robotnik.eu/products/mobile-robots/rb-robout/#rb-robout-plus-20e
-wiki_homepage: 
+wiki_homepage: https://robots.ros.org/rb-robout-plus
 ---
 
 **Omnidirectional mobile manipulator for operations up to 12,5/25/35 kg**
@@ -101,7 +101,7 @@ RB-ROBOUT+ is modular with ROS-based or ROS 2-based architecture, making it easy
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)

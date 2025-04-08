@@ -24,7 +24,7 @@ tags:
 - 'robotnik'
 twitter_text: Checkout the RB-KAIROS+
 website: https://robotnik.eu/products/mobile-robots/rb-kairos-2/#rb-kairos-plus-ur-ten
-wiki_homepage: 
+wiki_homepage: https://robots.ros.org/rb-kairos-plus
 ---
 **Autonomous Mobile Manipulator for indoor applications with a 5/12,5/16 kg payload on its arm**
 
@@ -43,7 +43,10 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
 
 ## Characteristics
 ### Mechanical
-* Dimensions:  978 x 776 x 690 mm
+* Dimensions: 
+    * UR5e: 978 x 776 x 1010 mm
+    * UR10e: 978 x 776 x 1542 mm
+    * UR16e: 978 x 776 x 1410 mm
 * Weight:
     * Platform: 115 kg
     * UR5e arm: 25 kg
@@ -114,7 +117,7 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)

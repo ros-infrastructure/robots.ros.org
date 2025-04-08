@@ -24,7 +24,7 @@ tags:
 - 'kinova'
 twitter_text: Checkout the RB-SUMMIT+
 website: https://robotnik.eu/products/mobile-robots/rb-summit/#rb-summit-plus
-wiki_homepage: 
+wiki_homepage: https://robots.ros.org/rb-summit-plus
 ---
 
 **Autonomous mobile manipulator for R&D**
@@ -88,7 +88,7 @@ All [Robotnik](https://robotnik.eu/) robots are modular and have a ROS-based or 
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
