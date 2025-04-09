@@ -3,7 +3,7 @@ layout: post
 title: RB-VOGUI+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-vogui-plus/image.png
+icon: /assets/img/robots/rb-vogui-plus/icon.png
 image: /assets/img/robots/rb-vogui-plus/image.png
 introduction: Mobile Manipulator for R&D applications in outdoor environments
 main-class: 'ground'
@@ -24,7 +24,7 @@ tags:
 - 'ground'
 twitter_text: Checkout the RB-VOGUI+
 website: https://robotnik.eu/products/mobile-robots/rb-vogui/#rb-vogui-plus
-wiki_homepage: https://robots.ros.org/rb-vogui-plus
+wiki_homepage: 
 ---
 
 **Mobile Manipulator for R&D applications in outdoor environments**

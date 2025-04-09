@@ -24,7 +24,7 @@ tags:
 - 'robotnik'
 twitter_text: Checkout the RB-KAIROS+
 website: https://robotnik.eu/products/mobile-robots/rb-kairos-2/#rb-kairos-plus-ur-ten
-wiki_homepage: https://robots.ros.org/rb-kairos-plus
+wiki_homepage: 
 ---
 **Autonomous Mobile Manipulator for indoor applications with a 5/12,5/16 kg payload on its arm**
 

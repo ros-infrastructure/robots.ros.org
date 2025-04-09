@@ -3,7 +3,7 @@ layout: post
 title: RB-ROBOUT+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-robout-plus/image.png
+icon: /assets/img/robots/rb-robout-plus/icon.png
 image: /assets/img/robots/rb-robout-plus/image.png
 introduction: Omnidirectional mobile manipulator for operations up to 12,5/25/35 kg
 main-class: 'ground'
@@ -23,7 +23,7 @@ tags:
 - 'omnidirectional'
 twitter_text: Checkout the RB-ROBOUT+
 website: https://robotnik.eu/products/mobile-robots/rb-robout/#rb-robout-plus-20e
-wiki_homepage: https://robots.ros.org/rb-robout-plus
+wiki_homepage: 
 ---
 
 **Omnidirectional mobile manipulator for operations up to 12,5/25/35 kg**

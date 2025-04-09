@@ -3,7 +3,7 @@ layout: post
 title: RB-SUMMIT+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-summit-plus/image.png
+icon: /assets/img/robots/rb-summit-plus/icon.png
 image: /assets/img/robots/rb-summit-plus/image.png
 introduction: Autonomous mobile manipulator for R&D
 main-class: 'ground'
@@ -24,7 +24,7 @@ tags:
 - 'kinova'
 twitter_text: Checkout the RB-SUMMIT+
 website: https://robotnik.eu/products/mobile-robots/rb-summit/#rb-summit-plus
-wiki_homepage: https://robots.ros.org/rb-summit-plus
+wiki_homepage: 
 ---
 
 **Autonomous mobile manipulator for R&D**
