@@ -3,7 +3,7 @@ layout: post
 title: RB-WATCHER
 date: 2025-03-10
 description:
-icon: /assets/img/robots/rb-watcher/image.png
+icon: /assets/img/robots/rb-watcher/icon.png
 image: /assets/img/robots/rb-watcher/image.png
 introduction: Autonomous mobile robot for surveillance & security manufactured by Robotnik.
 main-class: 'ground'
@@ -21,7 +21,7 @@ tags:
 
 twitter_text: Checkout the RB-WATCHER
 website: https://robotnik.eu/products/mobile-robots/rb-watcher/
-wiki_homepage: https://robots.ros.org/rb-watcher/
+wiki_homepage: 
 ---
 **Autonomous mobile robot for surveillance & security**
 
@@ -80,7 +80,7 @@ All [Robotnik](https://robotnik.eu/) robots are modular and their architecture i
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)

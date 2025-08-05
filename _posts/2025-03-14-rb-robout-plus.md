@@ -3,7 +3,7 @@ layout: post
 title: RB-ROBOUT+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-robout-plus/image.png
+icon: /assets/img/robots/rb-robout-plus/icon.png
 image: /assets/img/robots/rb-robout-plus/image.png
 introduction: Omnidirectional mobile manipulator for operations up to 12,5/25/35 kg
 main-class: 'ground'
@@ -101,7 +101,7 @@ RB-ROBOUT+ is modular with ROS-based or ROS 2-based architecture, making it easy
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)

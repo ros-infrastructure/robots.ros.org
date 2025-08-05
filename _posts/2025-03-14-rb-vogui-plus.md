@@ -3,7 +3,7 @@ layout: post
 title: RB-VOGUI+
 date: 2025-03-14
 description:
-icon: /assets/img/robots/rb-vogui-plus/image.png
+icon: /assets/img/robots/rb-vogui-plus/icon.png
 image: /assets/img/robots/rb-vogui-plus/image.png
 introduction: Mobile Manipulator for R&D applications in outdoor environments
 main-class: 'ground'
@@ -86,8 +86,6 @@ All [Robotnik](https://robotnik.eu/) robots are modular and their architecture i
     * UR10e:
         * Payload: 12,5 kg
         * Reach: 1300 mm
-Payload: 12,5 Kg
-Reach: 1.300 mm
 * Battery 48VDC@30Ah
 * Charging station
 
@@ -107,7 +105,7 @@ Reach: 1.300 mm
 
 ## Related Repositories
 
-[Robotnik Github]((https://github.com/RobotnikAutomation))
+[Robotnik Github](https://github.com/RobotnikAutomation)
 
 Robotnik simulation:
 * [ROS1 simulation](https://github.com/RobotnikAutomation/robotnik_simulation/tree/ros-devel)
