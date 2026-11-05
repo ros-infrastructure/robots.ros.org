@@ -16,9 +16,9 @@ tags:
 - 'jetson'
 - 'outdoor'
 - 'ip67'
-- 'RTK GNSS/GPS'
-- 'GMSL2'
-- '5G'
+- 'rtk-gnss'
+- 'gmsl2'
+- '5g'
 twitter_text: Check out AutomatePro by Lemvos Robotics
 website: https://lemvos.com/automatepro/
 wiki_homepage: https://docs.lemvos.com/automatepro/system-overview/
