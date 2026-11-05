@@ -24,7 +24,7 @@ website: https://lemvos.com/automatepro/
 wiki_homepage: https://docs.lemvos.com/automatepro/system-overview/
 ---
 
-AutomatePro is a rugged edge computing and I/O platform developed by **Lemvos Robotics GmbH** for outdoor robots, uncrewed surface vehicles, and industrial automation. It brings compute, sensing, networking, and actuator interfaces into a single IP67-rated enclosure.
+AutomatePro is a rugged edge computing and I/O platform developed by **Lemvos GmbH** for outdoor robots, uncrewed surface vehicles, and industrial automation. It brings compute, sensing, networking, and actuator interfaces into a single IP67-rated enclosure.
 
 The controller offers NVIDIA Jetson Orin series computing, 10 digital inputs, 12 digital outputs, 12 configurable digital drives, and 14 analog inputs. It integrates a 9-axis IMU and supports RTK GNSS positioning and heading, GMSL2 cameras, CAN FD, RS485, Ethernet, Wi-Fi, and optional 5G cellular connectivity. The recommended supply range is 16-58 VDC.
 
